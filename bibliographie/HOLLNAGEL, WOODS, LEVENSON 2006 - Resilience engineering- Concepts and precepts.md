@@ -1,3 +1,5 @@
+HOLLNAGEL Erik, WOODS D.D., LEVENSON N. C. (editors), Resilence engineering: Concepts and precepts, Aldershot, UK, Ashgate.
+
 p. 3
 The thesis that leaps out from these results is that failure, as
 individual failure or performance failure on the system level, represents
