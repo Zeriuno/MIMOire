@@ -37,6 +37,36 @@ dans les études de risques, la
 résilience sera mesurée par les impacts d'une catastrophe
 [...]
 Tout aussi simplement, la résilience est évaluée par la persistance. La résilience est alors l'inverse d'un temps de retour. Elle mesure en effet la durée nécessaire au retour à un équilibre après une perturbation. Ce temps de retour dépend de l'ampleur de la catastrophe, de l'adaptabilité de la société, et du type de bien considéré
+[...]
+Dans l'étude
+des risques, cette méthode d'évaluation offre l'intérêt d'être comparable à
+la mesure de l'aléa qui est, lui aussi, souvent évalué par un temps de retour.
 p.118
 
->
+> [mesure de la résilience par plan de phase]
+En l'absence d'un plan de phase, une dernière solution consiste à construire des indicateurs qui prennent en compte différents paramètres disponibles.
+p.120
+
+> Lors de la décennie internationale pour la réduction des catastrophes natu
+relles (IDNDR 1990-1999), l'ONU a encouragé la prise en compte de la
+résilience pour améliorer la gestion des crises
+> Mettre en place une stratégie de résilience, c'est accepter la catastrophe, l'inondation, mais tout faire pour en réduire les impacts.
+> Plus généralement, pour augmenter la résilience, les acteurs peuvent intervenir sur les dimensions reconnues précédemment. Une première solution consiste à élargir le champ du bassin d'attraction dans lequel se trouve le système, et éloigner ainsi les limites de basculement vers d'autres attracteurs pour éviter ou limiter l'ampleur d'une crise.
+[...]
+D'autres actions viseront à augmenter ou à réduire l'effet de l'attracteur. Il est aussi souhaitable de rapprocher ou d'éloigner le point représentant l'état du système de l'attracteur en modifiant la trajectoire, donc le comportement du système.
+p. 121
+
+> Resilience Alliance est un groupe de recherche multidisciplinaire qui étudie
+les dynamiques des systèmes complexes adaptatifs. Dans ce cadre, quelques
+auteurs ont proposé une méthode opératoire comprenant quatre phases.
+Une étude de la résilience impose d'abord de bien définir le système, ses
+limites spatiales et temporelles, et de connaître les variables clés de son évo
+lution. [...]
+Puis, au cours d'une deuxième phase, des spécialistes de la dynamique de
+système, se penchent sur l'évolution du système pour repérer les comporte
+ments non linéaires et les seuils qui conduisent à un changement brutal. Ils
+établissent un ensemble de trajectoires possibles et construisent ainsi quelques
+scénarios d'évolution face à une catastrophe. Une attention particulière sera
+accordée à l'émergence de nouvelles propriétés du système social lors d'une
+catastrophe.
+p.122
