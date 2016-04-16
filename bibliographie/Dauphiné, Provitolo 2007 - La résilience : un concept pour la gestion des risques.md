@@ -56,17 +56,11 @@ résilience pour améliorer la gestion des crises
 D'autres actions viseront à augmenter ou à réduire l'effet de l'attracteur. Il est aussi souhaitable de rapprocher ou d'éloigner le point représentant l'état du système de l'attracteur en modifiant la trajectoire, donc le comportement du système.
 p. 121
 
-> Resilience Alliance est un groupe de recherche multidisciplinaire qui étudie
-les dynamiques des systèmes complexes adaptatifs. Dans ce cadre, quelques
-auteurs ont proposé une méthode opératoire comprenant quatre phases.
-Une étude de la résilience impose d'abord de bien définir le système, ses
-limites spatiales et temporelles, et de connaître les variables clés de son évo
+> Resilience Alliance est un groupe de recherche multidisciplinaire qui étudie les dynamiques des systèmes complexes adaptatifs. Dans ce cadre, quelques auteurs ont proposé une méthode opératoire comprenant quatre phases.
+Une étude de la résilience impose d'abord de bien définir le système, ses limites spatiales et temporelles, et de connaître les variables clés de son évo
 lution. [...]
-Puis, au cours d'une deuxième phase, des spécialistes de la dynamique de
-système, se penchent sur l'évolution du système pour repérer les comporte
-ments non linéaires et les seuils qui conduisent à un changement brutal. Ils
-établissent un ensemble de trajectoires possibles et construisent ainsi quelques
-scénarios d'évolution face à une catastrophe. Une attention particulière sera
-accordée à l'émergence de nouvelles propriétés du système social lors d'une
-catastrophe.
+Puis, au cours d'une deuxième phase, des spécialistes de la dynamique de système, se penchent sur l'évolution du système pour repérer les comportements non linéaires et les seuils qui conduisent à un changement brutal. Ils établissent un ensemble de trajectoires possibles et construisent ainsi quelques scénarios d'évolution face à une catastrophe. Une attention particulière sera accordée à l'émergence de nouvelles propriétés du système social lors d'une catastrophe.
+Ultérieurement, un effort de modélisation et de quantification permet, lors d'une troisième étape, de mieux apprécier l'ampleur de la résilience en fonction des trajectoires potentielles suivies par le système considéré. Lors de cette troisième phase, l'accent est mis sur les variables déterminantes qui sont à l'origine de la résilience du système.
+[...]
+Enfin, il faut considérer les comportements humains face à une catastrophe, et envisager un ensemble de mesures préalables de gestion de qualité pour renforcer la résilience sociale. Ce n'est pas le plus facile. Cependant, l'évocation répétée des catastrophes passées, les leçons tirées des retours d'expérience, et un enseignement insistant sur l'inattendu sont des ingrédients qui intensifient la résilience des sociétés.
 p.122
