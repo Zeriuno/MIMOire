@@ -1,8 +1,15 @@
 Résilience dans le SI
 
-* définitions
-  * SI
+* définition
   * résilience
+* Mésurer le SI (définition du SI)
+* Comment mettre en oeuvre la résilience
+  * Matérielle
+  * Organisationnelle (stigmergie)
+* Mésurer la résilience
+
+---
+
 * Approche actuelle
   * rédondance
     * Ses problèmes : coûts
