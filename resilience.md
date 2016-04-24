@@ -1,12 +1,15 @@
 Résilience dans le SI
 
-* définition
+* définitions
   * résilience
-* Mésurer le SI (définition du SI)
+  * définition du SI
+  * définition de système résilient
+* Les aléas
+  * revue des risques et accidents
 * Comment mettre en oeuvre la résilience
   * Matérielle
   * Organisationnelle (stigmergie)
-* Mésurer la résilience
+  * Mésurer la résilience
 
 ---
 
