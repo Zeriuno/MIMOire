@@ -26,7 +26,7 @@ Li Deng, *Impact du Big data dans le secteur bancaire*.
 
 Nisha Dhingra, *Processus de détection de la fraude au sein d' une organisation bancaire*.
 
-Stéphane Élie, *Big data,  internet of thing  : menace ou opportunités*.
+Stéphane Élie, *Big data,  internet of thing  : menace ou opportunités ?*
 
 Dieu-Linh Ho, *Ingénierie des Exigences adaptée à la méthode Agile*.
 
