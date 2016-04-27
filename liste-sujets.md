@@ -8,6 +8,8 @@ Anne Bauer, *Industrialisation d'une aide au pilotage des données ou data lake*
 Madeleine Bimai, *Anonymisation des données dans les réseaux sociaux*.
 Viviane Chen, *La web analytics : pourquoi ?*
 Sara Chokayri, *Comment les systèmes cognitifs vont transformer les métiers des praticiens de la médecine dans leur approche avec les patients ?*
+Salah Dahamni, .
+Imene Nedjima Dahmani, .
 Justine Dai, *La gestion des assets informatique*.
 Timothée de Guibert, *Agilité, Numérique, Organisations*.
 Li Deng, *Impact du Big data dans le secteur bancaire*.
