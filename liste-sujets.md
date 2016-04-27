@@ -16,7 +16,7 @@ Stéphane Élie, *Big data,  internet of thing  : menace ou opportunités*.
 Dieu-Linh Ho, *Ingénierie des Exigences adaptée à la méthode Agile*.
 Virgile Perton, *Le démarche devops*.
 Daniele Pitrolo, *La résilience dans le système d'information*.
-Virginie Rieber, *L’impact de la qualité de l’analyse des besoins dans la satisfaction du client : étude dans le secteur public*.
+Virginie Rieber, *L’impact de la qualité des relations professionnelles dans la réussite des projets*.
 Patrick Rivera, *La reconciliation des données d'un SIRH pour l'analyse du suivi de carrière*.
 Alexandre Soulier, *La médiation des données enjeux d'un nouveau métier*.
 Youssef Tahiri Joutey, *Remplacement d'un SI par un autre de pilotage de la production FTTH*.
