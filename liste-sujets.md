@@ -8,7 +8,7 @@ Meriyama Bane, *Transformation digitale à travers les SIRH*.
 
 Anne Bauer, *Industrialisation d'une aide au pilotage des données ou data lake*.
 
-Madeleine Bimai, *Anonymisation des données dans les réseaux sociaux*.
+Madeleine Bimai, *L'anonymisation de données dans les résogiciels*.
 
 Viviane Chen, *La web analytics : pourquoi ?*
 
