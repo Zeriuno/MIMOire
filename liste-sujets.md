@@ -8,7 +8,7 @@ Meriyama Bane, *Transformation digitale à travers les SIRH*.
 
 Anne Bauer, *Industrialisation d'une aide au pilotage des données ou data lake*.
 
-Madeleine Bimai, *Anonymisation des données dans les réseaux sociaux*.
+Madeleine Bimai, *L'anonymisation de données dans les résogiciels*.
 
 Viviane Chen, *La web analytics : pourquoi ?*
 
@@ -26,7 +26,7 @@ Li Deng, *Impact du Big data dans le secteur bancaire*.
 
 Nisha Dhingra, *Processus de détection de la fraude au sein d' une organisation bancaire*.
 
-Stéphane Élie, *Big data,  internet of thing  : menace ou opportunités*.
+Stéphane Élie, *Big data,  internet of thing  : menace ou opportunités ?*
 
 Dieu-Linh Ho, *Ingénierie des Exigences adaptée à la méthode Agile*.
 
