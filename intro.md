@@ -1,6 +1,7 @@
 Définition de la résilience
 
 La résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
+-définition du SI-
 Illusion de la maîtrise des systèmes complexes (HOLLNAGEL, PARIES...)
 
 
