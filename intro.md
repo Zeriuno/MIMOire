@@ -15,3 +15,7 @@ Elle ne peut pas être définie de manière contractuelle.
 Lors des contrats de préstation de services, il est désormais incontournable que les deux parties s'accordent sur quels sont les paramètres clés que le service doit respecter (SLA).
 Ainsi un service d'hébergement pourra s'engager à rendre les serveurs loués par son client accessibles 23 heures et 50 minutes par jour. La transaction commerciale se structure ainsi autour non seulement d'un service principal qui est rendu, mais aussi de la prise en charge des cas d'échec de celui-ci. L'obbligation stipulée est dans ce cas une obligation de résultats et non de moyens.
 Ce genre d'accord permet à une DSI de structurer son fonctionnement autour d'une hypothèse consacrée juridiquement. Cette hypothèse n'est pas pour autant garantie
+
+
+##
+Outils: éviter les goulots d'étranglement et les SPOF. Cela a une application dans la partie technique du SI, tout comme dans celle humaine (dans laquelle les SPOF sont représentés par la repartition des connaissances -approche agile- ainsi que par la hiérarchie)
