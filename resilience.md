@@ -6,6 +6,7 @@ Résilience dans le SI
   * définition de système résilient
 * Les aléas
   * revue des risques et accidents
+  * Voir le modèle TCP / IP: décentraliser l'intélligence
 * Comment mettre en oeuvre la résilience
   * Matérielle
   * Organisationnelle (stigmergie)
