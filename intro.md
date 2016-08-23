@@ -1,10 +1,12 @@
-# Un concept protéiforme
+# Un concept multiple
 
 Définition de la résilience
-
+Protéiforme: possibilité de l'adapter dans plein de domaines. Courte panoramique.
 La résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 -définition du SI-
+
 Illusion de la maîtrise des systèmes complexes (HOLLNAGEL, PARIES...)
+
 
 
 Capacité de gérer l'erreur et de le contenir à l'intérieur d'un cadre d'équilibre stable.
