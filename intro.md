@@ -18,7 +18,8 @@ Un système avec une plus grande complexité est moins facile à modeliser. L'an
 Elle ne peut pas être définie de manière contractuelle.
 Lors des contrats de préstation de services, il est désormais incontournable que les deux parties s'accordent sur quels sont les paramètres clés que le service doit respecter (SLA).
 Ainsi un service d'hébergement pourra s'engager à rendre les serveurs loués par son client accessibles 23 heures et 50 minutes par jour. La transaction commerciale se structure ainsi autour non seulement d'un service principal qui est rendu, mais aussi de la prise en charge des cas d'échec de celui-ci. L'obbligation stipulée est dans ce cas une obligation de résultats et non de moyens.
-Ce genre d'accord permet à une DSI de structurer son fonctionnement autour d'une hypothèse consacrée juridiquement. Cette hypothèse n'est pas pour autant garantie
+Ce genre d'accord permet à une DSI de structurer son fonctionnement autour d'une hypothèse consacrée juridiquement. Cette hypothèse n'est pas pour autant garantie.
+Contrats: les clauses de SLA sont des demandes de continuité, mais elles ne consistent pas en résilience, car elle reportent la responsabilité et la modalité d'exécution sur le fournisseur du service (qui, par contre, est encouragé à mettre en place des services résilients). Y a-t-il eu une croissance des exigences d'un service continu?
 
 
 ##
