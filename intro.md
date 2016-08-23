@@ -22,8 +22,18 @@ Ce genre d'accord permet à une DSI de structurer son fonctionnement autour d'un
 Contrats: les clauses de SLA sont des demandes de continuité, mais elles ne consistent pas en résilience, car elle reportent la responsabilité et la modalité d'exécution sur le fournisseur du service (qui, par contre, est encouragé à mettre en place des services résilients). Y a-t-il eu une croissance des exigences d'un service continu?
 
 
-##
-Outils: éviter les goulots d'étranglement et les SPOF. Cela a une application dans la partie technique du SI, tout comme dans celle humaine (dans laquelle les SPOF sont représentés par la repartition des connaissances -approche agile- ainsi que par la hiérarchie)
+## Solutions à des problèmes
+
+Éviter les goulots d'étranglement et les SPOF. Cela a une application dans la partie technique du SI, tout comme dans celle humaine (dans laquelle les SPOF sont représentés par la repartition des connaissances -approche agile- ainsi que par la hiérarchie)
+
+Atomisation de l'information (paquet)
+Redondance (paquets, backup)
+
+## Mesurer la résilience
+
+Cartographie des processus
+Cartographie du SI
+Création de centres de gravitation
 
 
 # Conclusion
