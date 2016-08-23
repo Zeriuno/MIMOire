@@ -1,3 +1,5 @@
+# Un concept protéiforme
+
 Définition de la résilience
 
 La résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
