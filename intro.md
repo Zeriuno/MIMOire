@@ -1,4 +1,4 @@
-# Un concept multiple
+# Résilience, un concept multiple
 
 Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine et une utilisation attestée dans les écrits du philosophe Bacon[cit dans TLF, ad vocem}, le mot "résilience" ne manque d'ailleurs pas de les intéresser.
 Au cours des siècles il s'est en effet resemantisé plusieurs fois: si le mot d'origine est la crase latine de "re" et "salire", c'est dans l'acception proche de "rebondir" qu'il est introduit dans l'anglais du XVIIe. Perçu comme un anglicisme[Rey, cit dans TLF, ad vocem}, il est employé en français déjà au début du XXe siècle: nouvelle acception, le terme sert à décrire la force morale de ceux qui accablés par des circonstances opposées, resurgissent. Dans une signification proche le terme est également choisi par la discipline bien éloignée de la physique des matériaux: pour celle-ci résilience est la propriété d'absorber un choc est savoir ensuite retrouver sa forme précédente [TLF ad vocem}.
