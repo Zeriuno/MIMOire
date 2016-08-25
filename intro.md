@@ -10,7 +10,7 @@ Fort de son histoire, "résilience" est un mot qui dispose d'une vaste assise co
 Dans ce contexte son rapprochement avec le système d'information correspond-t-il à un abus d'un outil intellectuel qui, déjà protéiforme, risque de voir sa signification se diluer et devenir évanscente? Ou bien s'agi-t-il d'une expansion ultérieure de la portée sémantique du terme qui serait justifiée et qui permettrat d'enrichir l'analyse portée sur le système d'information et serait capable de participer aux outils et méthodes qu'il convient de mettre en œuvre pour le concevoir et l'évaluer?
 Partisans de cette deuxième option nous essaierons dans ce court exposé de justifier cette position et de montrer comment la résilience peut être envisagée dans le cadre d'un système d'information, quels sont les problèmes qu'elle permet de confronter et dans quelle mesure des solutions résilientes sont déjà employées à ce fins, et cela aussi bien au niveau microscopique que macroscopique.
 
-# 
+#
 
 La résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 -définition du SI-
