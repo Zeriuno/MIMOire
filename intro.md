@@ -38,8 +38,11 @@ Contrats: les clauses de SLA sont des demandes de continuité, mais elles ne con
 
 Atomisation de l'information (paquet)
 Redondance (paquets, backup)
+Tolérance aux pannes
 
 ## Echelle macroscopique
+
+à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème.
 ### Stigmergie
 
 [FALKVINGE 2013]
