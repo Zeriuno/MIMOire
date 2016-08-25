@@ -43,12 +43,18 @@ Tolérance aux pannes
 ## Echelle macroscopique
 
 à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème.
+Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
+
+[HUNTE, WEARS, SCHUBERT ????]
+
 ### Stigmergie
 
 [FALKVINGE 2013]
 [HAMEL 2011]
 [HAMEL 2012] "There were no titles, no bosses, and no formal hierarchy",p.193
 [THERAULAZ, BONABEAU 1999]
+[SUSI, ZIEMKE 2001]
+[ZHANG, WATTS 2004]
 
 ### Mesurer la résilience
 
