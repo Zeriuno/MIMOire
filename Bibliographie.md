@@ -11,6 +11,7 @@
 [D'ATRI, DE MARCO, CASALINO] Alessandro D’Atri, Marco De Marco, Nunzio Casalino, *Interdisciplinary Aspects of Information Systems Studies*, Physica-Verlag, 2008.
 ????[DALZIELL, MCMANUS  2004] E. P. Dalziell, S. T. McManus, Resilience, Vulnerability, and Adaptive Capacity: Implications for System Performance, 2004.
 [DAUPHINÉ, PROVITOLO 2007] André Dauphiné, Damienne Provitolo, La résilience : un concept pour la gestion des risques / Resilience: a concept for risk management, *Annales de Géographie*, 116, 654 :115-125, 2007.
+[EL SAWY, NANUS 1989] Omar A. El Sawy, Burt Nanus, Toward the Design of Robust Information Systems, *Journal of Management Information Systems*, 5, 4 :33-54, 1989.
 [FALKVINGE 2013] Rick Falkvinge, *Swarmwise, The Tactical Manual to Changing the World*, CreateSpace Publishing Platform, 2013.
 [HAMEL 2007] Gary Hamel, Bill Breen, *The Future of Management*, Harvard Business School Press, 2007.
 [HAMEL 2011] Gary Hamel, First, Let's Fire All the Manages, *Harvard Business Review*, :2-13, December 2011.
@@ -21,6 +22,7 @@
 [HOLLNAGEL, WOODS, LEVESON 2006] Erik Hollnagel, David D. Woods, Nancy Leveson, *Resilience Engineering Concepts and Precepts*, Ahgate, 2006.
 [HYSLOP 2007] Maitland Hyslop, *Critical Information Infrastructures. Resilience and Protection*, Springer, 2007.
 [KEROMYTIS ????] Angelos D. Keromytis, *Characterizing Self-Healing Software Systems*, Ashgate, 2006.
+[KONSYNSKI 1984/1985] Benn R. Konsynski, Advances in Information System Design, *Journal of Management Information Systems*, 1, 3 :5-32, 1984/1985.
 [LEQUEUX, CHALLANDE 2009] Jean-Louis Lequeux, Jean-Francois Challande, *Le grand livre du DSI. Mettre en oeuvre la direction des systemes d'information 2.0*, Eyrolles, 2009.
 [MOISAND, GARNIER DE LABAREYRE 2009] Dominique Moisand, Fabrice Garnier de Labareyre, *CobiT pour une meilleure gouvernance des systèmes d'information*, Eyrolles, 2009.
 [OLSHANSKY 2011] Robert B. Olshansky, Designing Resilience: Preparing for Extreme Events, *Journal of Comparative Policy Analysis: Research and Practice*, 13, 2, :233-235, 2011.
