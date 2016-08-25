@@ -1,9 +1,16 @@
 # Bibliographie
 
 [BRANSCOMB, GAZIS 1977] Lewis M. Branscomb, Denos C. Gazis, Resilience, Hypotheticality and Computers-Designing Social Systems under Uncertainty, *Proceedings of the American Philosophical Society*, 121, 5 :346-349, 1977.
+[BOIN, MCCONNELL 2007] Arjen Boin, Allan McConnell, Preparing for Critical Infrastructure Breakdowns: The Limits of Crisis Management and the Need for Resilience, *Journal of Contingencies and Crisis Management*, 15, 1 :51-59, 2007.
+[BRANSCOMB, GAZIS 1977] Lewis M. Branscomb, Denos C. Gazis, Resilience, Hypotheticality and Computers-Designing Social Systems under Uncertainty, *Proceedings of the American Philosophical Society*, 121, 5 :346-349, 1977.
+[BUTLER, GRAY 2006] Brian S. Butler, Peter H. Gray, Reliability, Mindfulness, and Information Systems, *MIS Quarterly*, 30, 2 :211-224, 2006.
+[CARAGIANNIS *et alii* 2013] Ioannis Caragiannis *et alii*, *Euro-Par 2012: Parallel Processing Workshops*, Springer, 2013.
 [CHAUDHRY 2014] Junaid Ahsenali Chaudhry, *Self-Healing Systems and Wireless Networks Management*, CRC Press, 2014.
+[CHRISTENSEN 2013] Lars Rune Christensen, Stigmergy in human practice: Coordination in construction work, *Cognitive Systems Research*, 21 :40–51, 2013.
+[COMFORT *et alii* 2001] Louise K. Comfort *et alii*, Complex Systems in Crisis: Anticipation and Resilience in Dynamic Environments, Journal of Contingencies and Crisis Management, 9, 3 :144-158, 2001.
 [D'ATRI, DE MARCO, CASALINO] Alessandro D’Atri, Marco De Marco, Nunzio Casalino, *Interdisciplinary Aspects of Information Systems Studies*, Physica-Verlag, 2008.
-[DAUPHIN, PROVITOLO] André Dauphiné, Damienne Provitolo, La résilience : un concept pour la gestion des risques / Resilience: a concept for risk management, *Annales de Géographie*, 116, 654 :115-125, 2007.
+????[DALZIELL, MCMANUS  2004] E. P. Dalziell, S. T. McManus, Resilience, Vulnerability, and Adaptive Capacity: Implications for System Performance, 2004.
+[DAUPHINÉ, PROVITOLO 2007] André Dauphiné, Damienne Provitolo, La résilience : un concept pour la gestion des risques / Resilience: a concept for risk management, *Annales de Géographie*, 116, 654 :115-125, 2007.
 [FALKVINGE 2013] Rick Falkvinge, *Swarmwise, The Tactical Manual to Changing the World*, CreateSpace Publishing Platform, 2013.
 [HAMEL 2007] Gary Hamel, Bill Breen, *The Future of Management*, Harvard Business School Press, 2007.
 [HAMEL 2011] Gary Hamel, First, Let's Fire All the Manages, *Harvard Business Review*, :2-13, December 2011.
@@ -11,11 +18,14 @@
 [HÄRING 2015] Ivo Häring, *Risk Analysis and Management: Engineering Resilience*, Springer, 2015.
 [HOLLNAGEL *et alii* 2011] Erik Hollnagel *et alii*, *Resilience Engineering in Practice. A Guidebook*, Ashgate, 2011.
 [HUNTE, WEARS, SCHUBERT ????] Garth S. Hunte , Robert L. Wears, Christiane C. Schubert, Structure, Agency, and Resilience, ????
+[HOLLNAGEL, WOODS, LEVESON 2006] Erik Hollnagel, David D. Woods, Nancy Leveson, *Resilience Engineering Concepts and Precepts*, Ahgate, 2006.
 [HYSLOP 2007] Maitland Hyslop, *Critical Information Infrastructures. Resilience and Protection*, Springer, 2007.
-[KEROMYTIS ????] Angelos D. Keromytis, *Characterizing Self-Healing Software Systems*,
+[KEROMYTIS ????] Angelos D. Keromytis, *Characterizing Self-Healing Software Systems*, Ashgate, 2006.
 [LEQUEUX, CHALLANDE 2009] Jean-Louis Lequeux, Jean-Francois Challande, *Le grand livre du DSI. Mettre en oeuvre la direction des systemes d'information 2.0*, Eyrolles, 2009.
+[MOISAND, GARNIER DE LABAREYRE 2009] Dominique Moisand, Fabrice Garnier de Labareyre, *CobiT pour une meilleure gouvernance des systèmes d'information*, Eyrolles, 2009.
 [OLSHANSKY 2011] Robert B. Olshansky, Designing Resilience: Preparing for Extreme Events, *Journal of Comparative Policy Analysis: Research and Practice*, 13, 2, :233-235, 2011.
 [PICCININI 2010] Gualtiero Piccinini, The Resilience of Computationalism, *Philosophy of Science*, 77, 5 :852-861, 2010.
+[RAK 2015] Jacek Rak, *Resilient Routing in Communication Networks*, Springer, 2015.
 [RIOLLI, SAVICKI 203] Laura Riolli, Victor Savicki, Information system organizational resilience, *Omega*, 31 :227-233, 2003.
 [RIVARD, TALBOT 2004], Suzanne Rivard, Jean Talbot, *Le développement de systèmes d’information : une méthode intégrée à la transformation des processus*, Presses de l'Université de Québec, 2004.
 [SMITH *et alii* 2011] Paul Smith *et alii*, Network Resilience: A Systematic Approach, *IEEE Communications Magazine*, :99-97, July 2011.
