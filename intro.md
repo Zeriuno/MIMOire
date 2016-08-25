@@ -43,7 +43,8 @@ Redondance (paquets, backup)
 ### Stigmergie
 
 [FALKVINGE 2013]
-FIRE ALL MANAGERS
+[HAMEL 2011]
+[HAMEL 2012] "There were no titles, no bosses, and no formal hierarchy",p.193
 [THERAULAZ, BONABEAU 1999]
 
 ### Mesurer la résilience
