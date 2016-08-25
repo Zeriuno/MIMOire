@@ -5,7 +5,7 @@
 [BOIN, MCCONNELL, 2007] Arjen Boin, Allan McConnell, Preparing for Critical Infrastructure Breakdowns: The Limits of Crisis Management and the Need for Resilience, *Journal of Contingencies and Crisis Management*, 15(1) :51-59, 2007.
 [BRANSCOMB, GAZIS, 1977] Lewis M. Branscomb, Denos C. Gazis, Resilience, Hypotheticality and Computers-Designing Social Systems under Uncertainty, *Proceedings of the American Philosophical Society*, 121(5) :346-349, 1977.
 [BUTLER, GRAY, 2006] Brian S. Butler, Peter H. Gray, Reliability, Mindfulness, and Information Systems, *MIS Quarterly*, 30(2) :211-224, 2006.
-???? [CAMARINHA-MATOS, BÉNABEN, PICARD, 2015] Risks and Resilience of Collaborative Networks, 2015.
+[CAMARINHA-MATOS, BÉNABEN, PICARD, 2015] Luis M. Camarinha-Matos, Frédérick Bénaben, Willy Picard, *Risks and Resilience of Collaborative Networks*, Springer, 2015.
 [CARAGIANNIS *et alii*, 2013] Ioannis Caragiannis *et alii*, *Euro-Par 2012: Parallel Processing Workshops*, Springer, 2013.
 [CHAUDHRY, 2014] Junaid Ahsenali Chaudhry, *Self-Healing Systems and Wireless Networks Management*, CRC Press, 2014.
 [CHRISTENSEN, 2013] Lars Rune Christensen, Stigmergy in human practice: Coordination in construction work, *Cognitive Systems Research*, 21 :40–51, 2013.
@@ -39,5 +39,5 @@
 [THERAULAZ, BONABEAU, 1999] Guy Theraulaz, Eric Bonabeau, A Brief History of Stigmergy, *Artificial Life*, 5 :97–116, 1999.
 [WANG, GAO, Ip, 2010] J. W. Wang , F. Gao, W. H. Ip, Measurement of resilience and its application to enterprise information systems, *Enterprise Information Systems*, 4(2) :s215-223, 2010.
 [WEYNS, VAN DYKE PARUNAK, MICHEL, 2007] Danny Weyns, H. Van Dyke Parunak, Fabien Michel, *Environments for Multi-Agent Systems III*, Springer, 2007.
-???? [VAN DYKE PARUNAK, 2006] H. Van Dyke Parunak, A Survey of Environments and Mechanisms for Human-Human Stigmergy, :163-186, 2006.
+[Wolter  *et alii*, 2012] Katinka Wolter *et alii*, *Resilience Assessment and Evaluation of Computing Systems*, Springer, 2012.
 [ZHANG, WATTS, 2004] Wei Zhang, Stéphanie Watts, Knowledge Adoption in Online Communities of Practice, *Systèmes d'Information et Management*, 9(1) :81-103, 2004.
