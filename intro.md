@@ -39,7 +39,14 @@ Contrats: les clauses de SLA sont des demandes de continuité, mais elles ne con
 Atomisation de l'information (paquet)
 Redondance (paquets, backup)
 
-## Mesurer la résilience
+## Echelle macroscopique
+### Stigmergie
+
+[FALKVINGE 2013]
+FIRE ALL MANAGERS
+[THERAULAZ, BONABEAU 1999]
+
+### Mesurer la résilience
 
 Cartographie des processus
 Cartographie du SI
