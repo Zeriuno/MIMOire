@@ -67,6 +67,16 @@ Cartographie des processus
 Cartographie du SI
 Création de centres de gravitation
 
+> Infrastructure resilience is often associated with the ability of the hard infrastructure or physical system to cope with
+severe disruptions; however, the institutions and enterprises that make up the soft infrastructure systems are also
+prone to crises. Incorporating resilience aids systems to cope with crises and recover from disruptive events, which
+is not possible without an organizational foundation that is able to cope with and respond to crisis. Additionally,
+metrics enable stakeholders to assess the effectiveness of resilience strategies and show their added value.
+This paper outlines a methodology for assessing resilience of soft infrastructure using social network analysis. The
+methodology is applied to the National Intelligent Transportation System (ITS) where the logical architecture is
+viewed as a network, and the centrality measures are used to define the system’s resilience metrics.
+[Omer, Mostashari, Lindemann 2014]
+
 
 # Conclusion
 
