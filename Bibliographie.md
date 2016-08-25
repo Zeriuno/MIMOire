@@ -26,6 +26,7 @@
 [LEQUEUX, CHALLANDE, 2009] Jean-Louis Lequeux, Jean-Francois Challande, *Le grand livre du DSI. Mettre en oeuvre la direction des systemes d'information 2.0*, Eyrolles, 2009.
 [MOISAND, GARNIER DE LABAREYRE, 2009] Dominique Moisand, Fabrice Garnier de Labareyre, *CobiT pour une meilleure gouvernance des systèmes d'information*, Eyrolles, 2009.
 [OLSHANSKY, 2011] Robert B. Olshansky, Designing Resilience: Preparing for Extreme Events, *Journal of Comparative Policy Analysis: Research and Practice*, 13(2) :233-235, 2011.
+[Omer, Mostashari, Lindemann 2014] Mayada Omer, Ali Mostashari, Udo Lindemann, Resilience Analysis of Soft Infrastructure Systems, *Procedia Computer Science*, 28 :565-574, 2014.
 [PICCININI, 2010] Gualtiero Piccinini, The Resilience of Computationalism, *Philosophy of Science*, 77(5) :852-861, 2010.
 [RAK, 2015] Jacek Rak, *Resilient Routing in Communication Networks*, Springer, 2015.
 [RIDLEY, 2011] Gail Ridley, National Security as a Corporate Social Responsibility: Critical Infrastructure Resilience, *Journal of Business Ethics*, 103(1) :111-125, 2011.
