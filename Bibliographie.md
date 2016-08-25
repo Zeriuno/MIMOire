@@ -19,7 +19,7 @@
 [HAMEL, 2012] Gary Hamel, *What Matters Now*, Jossey-Bass, 2012.
 [HÄRING, 2015] Ivo Häring, *Risk Analysis and Management: Engineering Resilience*, Springer, 2015.
 [HOLLNAGEL *et alii*, 2011] Erik Hollnagel *et alii*, *Resilience Engineering in Practice. A Guidebook*, Ashgate, 2011.
-???? [HUNTE, WEARS, SCHUBERT, ????] Garth S. Hunte , Robert L. Wears, Christiane C. Schubert, Structure, Agency, and Resilience, ????
+???? [HUNTE, WEARS, SCHUBERT, ????] Garth S. Hunte, Robert L. Wears, Christiane C. Schubert, Structure, Agency, and Resilience, ????
 [HOLLNAGEL, WOODS, LEVESON, 2006] Erik Hollnagel, David D. Woods, Nancy Leveson, *Resilience Engineering Concepts and Precepts*, Ahgate, 2006.
 [HYSLOP, 2007] Maitland Hyslop, *Critical Information Infrastructures. Resilience and Protection*, Springer, 2007.
 [KEROMYTIS, ????] Angelos D. Keromytis, *Characterizing Self-Healing Software Systems*, Ashgate, 2006.
