@@ -17,6 +17,7 @@ La résilience est une propriété inhérente à la structure chimio-physique d'
 
 Illusion de la maîtrise des systèmes complexes (HOLLNAGEL, PARIES...)
 
+Autrefois on étudiait la robustesse, [EL SAWY, NANUS 1989]
 
 
 Capacité de gérer l'erreur et de le contenir à l'intérieur d'un cadre d'équilibre stable.
