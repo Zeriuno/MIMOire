@@ -37,6 +37,7 @@
 [SUSI, ZIEMKE, 2001] Tarja Susi, Tom Ziemke, Social cognition, artefacts, and stigmergy: A comparative analysis of theoretical frameworks for the understanding of artefact-mediated collaborative activity, *Journal of Cognitive Systems Research*, 2 :273-290, 2001.
 [TEOH, YEOH, ZADEH, 2015] Say Yen Teoh, William Yeoh, Hossein Seif Zadeh, Towards a resilience management framework for complex enterprise systems upgrade implementation, *Enterprise Information Systems*, :1-25, Septemeber 2015
 [THERAULAZ, BONABEAU, 1999] Guy Theraulaz, Eric Bonabeau, A Brief History of Stigmergy, *Artificial Life*, 5 :97–116, 1999.
+???? [VAN DYKE PARUNAK, 2006] H. Van Dyke Parunak, A Survey of Environments and Mechanisms for Human-Human Stigmergy, :163-186, 2006.
 [WANG, GAO, Ip, 2010] J. W. Wang , F. Gao, W. H. Ip, Measurement of resilience and its application to enterprise information systems, *Enterprise Information Systems*, 4(2) :s215-223, 2010.
 [WEYNS, VAN DYKE PARUNAK, MICHEL, 2007] Danny Weyns, H. Van Dyke Parunak, Fabien Michel, *Environments for Multi-Agent Systems III*, Springer, 2007.
 [Wolter  *et alii*, 2012] Katinka Wolter *et alii*, *Resilience Assessment and Evaluation of Computing Systems*, Springer, 2012.
