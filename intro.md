@@ -49,6 +49,9 @@ Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SM
 IS Mindfulness: [BUTLER, GRAY 2006]
 [HUNTE, WEARS, SCHUBERT ????]
 
+
+Implications for system Performance[DALZIELL, MCMANUS, 2004]
+
 ### Stigmergie
 
 [FALKVINGE 2013]
