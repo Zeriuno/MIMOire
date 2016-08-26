@@ -9,7 +9,8 @@
 [CARAGIANNIS *et alii*, 2013] Ioannis Caragiannis *et alii*, *Euro-Par 2012: Parallel Processing Workshops*, Springer, 2013.\newline
 [CHAUDHRY, 2014] Junaid Ahsenali Chaudhry, *Self-Healing Systems and Wireless Networks Management*, CRC Press, 2014.\newline
 [CHRISTENSEN, 2013] Lars Rune Christensen, Stigmergy in human practice: Coordination in construction work, *Cognitive Systems Research*, 21 :40–51, 2013.\newline
-[COMFORT *et alii*, 2001] Louise K. Comfort *et alii*, Complex Systems in Crisis: Anticipation and Resilience in Dynamic Environments, Journal of Contingencies and Crisis Management, 9(3) :144-158, 2001.\newline
+[Comfort *et alii*, 2001] Louise K. Comfort *et alii*, Complex Systems in Crisis: Anticipation and Resilience in Dynamic Environments, Journal of Contingencies and Crisis Management, 9(3) :144-158, 2001.\newline
+[Comfort, Boin, Demchak, 2010] Louise K. Comfort, Arjen Boin, Chris C. Demchak, *Designing Resilience: Preparing for Extreme Events*, University of Pittsburgh Press, 2010.
 [D'ATRI, DE MARCO, CASALINO, 2008] Alessandro D’Atri, Marco De Marco, Nunzio Casalino, *Interdisciplinary Aspects of Information Systems Studies*, Physica-Verlag, 2008.\newline
 [DAUPHINÉ, PROVITOLO, 2007] André Dauphiné, Damienne Provitolo, La résilience : un concept pour la gestion des risques / Resilience: a concept for risk management, *Annales de Géographie*, 116(654) :115-125, 2007.\newline
 [EL SAWY, NANUS, 1989] Omar A. El Sawy, Burt Nanus, Toward the Design of Robust Information Systems, *Journal of Management Information Systems*, 5(4) :33-54, 1989.\newline
@@ -38,7 +39,7 @@
 [TEOH, YEOH, ZADEH, 2015] Say Yen Teoh, William Yeoh, Hossein Seif Zadeh, Towards a resilience management framework for complex enterprise systems upgrade implementation, *Enterprise Information Systems*, :1-25, Septemeber 2015.\newline
 [THERAULAZ, BONABEAU, 1999] Guy Theraulaz, Eric Bonabeau, A Brief History of Stigmergy, *Artificial Life*, 5 :97–116, 1999.\newline
 [WANG, GAO, Ip, 2010] J. W. Wang , F. Gao, W. H. Ip, Measurement of resilience and its application to enterprise information systems, *Enterprise Information Systems*, 4(2) :s215-223, 2010.\newline
-[WEYNS, VAN DYKE PARUNAK, MICHEL, 2007] Danny Weyns, H. Van Dyke Parunak, Fabien Michel, *Environments for Multi-Agent Systems II*, Springer, 2007.\newline
+????[WEYNS, VAN DYKE PARUNAK, MICHEL, 2007] Danny Weyns, H. Van Dyke Parunak, Fabien Michel, *Environments for Multi-Agent Systems II*, Springer, 2007.\newline
 [WEYNS, VAN DYKE PARUNAK, MICHEL, 2007] Danny Weyns, H. Van Dyke Parunak, Fabien Michel, *Environments for Multi-Agent Systems III*, Springer, 2007.\newline
 [Wolter  *et alii*, 2012] Katinka Wolter *et alii*, *Resilience Assessment and Evaluation of Computing Systems*, Springer, 2012.\newline
 [ZHANG, WATTS, 2004] Wei Zhang, Stéphanie Watts, Knowledge Adoption in Online Communities of Practice, *Systèmes d'Information et Management*, 9(1) :81-103, 2004.\newline
