@@ -15,6 +15,7 @@
 [Dauphiné, Provitolo, 2007] André Dauphiné, Damienne Provitolo, La résilience : un concept pour la gestion des risques / Resilience: a concept for risk management, *Annales de Géographie*, 116(654) :115-125, 2007.\newline
 [EL SAWY, NANUS, 1989] Omar A. El Sawy, Burt Nanus, Toward the Design of Robust Information Systems, *Journal of Management Information Systems*, 5(4) :33-54, 1989.\newline
 [FALKVINGE, 2013] Rick Falkvinge, *Swarmwise, The Tactical Manual to Changing the World*, CreateSpace Publishing Platform, 2013.\newline
+[Gazeneuve, 2016] Paris Normandie, *Bernard Gazeneuve : « Les Français font preuve de résilience et de fraternité* https://web.archive.org/web/20160803181600/http://www.paris-normandie.fr/region/bernard-cazeneuve--les-francais-font-preuve-de-resilience-et-de-fraternite-XK6480505.\newline
 [HAMEL, 2007] Gary Hamel, Bill Breen, *The Future of Management*, Harvard Business School Press, 2007.\newline
 [HAMEL, 2011] Gary Hamel, First, Let's Fire All the Manages, *Harvard Business Review*, :2-13, December 2011.\newline
 [HAMEL, 2012] Gary Hamel, *What Matters Now*, Jossey-Bass, 2012.\newline
@@ -26,6 +27,8 @@
 [KONSYNSKI, 1984/1985] Benn R. Konsynski, Advances in Information System Design, *Journal of Management Information Systems*, 1(3) :5-32, 1984/1985.\newline
 [LEQUEUX, CHALLANDE, 2009] Jean-Louis Lequeux, Jean-Francois Challande, *Le grand livre du DSI. Mettre en oeuvre la direction des systemes d'information 2.0*, Eyrolles, 2009.\newline
 [MOISAND, GARNIER DE LABAREYRE, 2009] Dominique Moisand, Fabrice Garnier de Labareyre, *CobiT pour une meilleure gouvernance des systèmes d'information*, Eyrolles, 2009.\newline
+[Morozov, 2014] Evgeny Morozov, *Our Naive "Innovation" Fetish*, https://web.archive.org/web/20160310094927/https://newrepublic.com/article/116939/innovation-fetish-naive-buzzword-unites-parties-avoids-policy-choice.\newline
+[Morozov, 2016] Evgeny Morozov, *Silicon Valley was going to disrupt capitalism. Now it’s just enhancing it*, https://web.archive.org/web/20160825201017/https://www.theguardian.com/commentisfree/2016/aug/07/silicon-valley-health-finance.\newline
 [OLSHANSKY, 2011] Robert B. Olshansky, Designing Resilience: Preparing for Extreme Events, *Journal of Comparative Policy Analysis: Research and Practice*, 13(2) :233-235, 2011.\newline
 [Omer, Mostashari, Lindemann 2014] Mayada Omer, Ali Mostashari, Udo Lindemann, Resilience Analysis of Soft Infrastructure Systems, *Procedia Computer Science*, 28 :565-574, 2014.\newline
 [PICCININI, 2010] Gualtiero Piccinini, The Resilience of Computationalism, *Philosophy of Science*, 77(5) :852-861, 2010.\newline
@@ -39,6 +42,7 @@
 [TEOH, YEOH, ZADEH, 2015] Say Yen Teoh, William Yeoh, Hossein Seif Zadeh, Towards a resilience management framework for complex enterprise systems upgrade implementation, *Enterprise Information Systems*, :1-25, Septemeber 2015.\newline
 [THERAULAZ, BONABEAU, 1999] Guy Theraulaz, Eric Bonabeau, A Brief History of Stigmergy, *Artificial Life*, 5 :97–116, 1999.\newline
 [TLFi] *Trésor de la langue française informatisé*, http://atilf.atilf.fr/dendien/scripts/tlfiv4/showps.exe?p=combi.htm;java=no;.\newline
+[TPB] *The Pirate Bay*, https://web.archive.org/web/20160125114847/https://thepiratebay.se/.\newline
 [WANG, GAO, Ip, 2010] J. W. Wang , F. Gao, W. H. Ip, Measurement of resilience and its application to enterprise information systems, *Enterprise Information Systems*, 4(2) :s215-223, 2010.\newline
 ????[WEYNS, VAN DYKE PARUNAK, MICHEL, 2007] Danny Weyns, H. Van Dyke Parunak, Fabien Michel, *Environments for Multi-Agent Systems II*, Springer, 2007.\newline
 [WEYNS, VAN DYKE PARUNAK, MICHEL, 2007] Danny Weyns, H. Van Dyke Parunak, Fabien Michel, *Environments for Multi-Agent Systems III*, Springer, 2007.\newline
