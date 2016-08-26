@@ -16,9 +16,10 @@ Partisans de cette deuxième option nous essaierons dans cet exposé de justifie
 
 ## Résilience, un concept multiple
 
-La multiplicité des champs d'application du concept de résilience ne facilite certainement pas sa définition, mais la tâche n'est pas pour autant plus aisées lorsque l'on se cantonne à un seul domaine. [Tisseron, ]
+La multiplicité des champs d'application du concept de résilience ne facilite certainement pas sa définition, mais la tâche n'est pas pour autant plus aisées lorsque l'on se cantonne à un seul domaine. Comme le montre Serge Tisseron, même en psychologie plusieurs conceptions du phénomène se superposent, expression de courants successifs dans le temps et géographiquement différents [Tisseron, 2009], et le travail de conciliation de celles-ci est encore en cours [Aïn, 2007].
 
 Face à une telle incertitude
+1 un évènement se produit
 L'importance des outils informatiques est telle que certains auteurs considèrent que sans "codes sources binaires" [sic], "les ordinateurs ne fonctionneraient plus, ils ne pourraient même s’appeler ordinateurs et il n’y aurait plus de système d’information"  [Lequeux, Challande, 2009]
 
 > Un système d’information est un ensemble d’activités qui saisissent, stockent,

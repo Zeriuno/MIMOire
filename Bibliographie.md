@@ -1,5 +1,6 @@
 # Bibliographie
 
+[Aïn, 2007] Joyce Aïn, *Résiliences : Réparation, élaboration ou création*, Erès, 2007.\newline
 [Berleur, David Hercheui, Hilty, 2010] Jaques Berleur,Magda David Hercheui, Lorenz M. Hilty, *What Kind of Information Society. Governance, Virtuality, Surveillance, Sustainability, Resilience*, Springer, 2010.\newline
 [BRANSCOMB, GAZIS, 1977] Lewis M. Branscomb, Denos C. Gazis, Resilience, Hypotheticality and Computers-Designing Social Systems under Uncertainty, *Proceedings of the American Philosophical Society*, 121(5) :346-349, 1977.\newline
 [BOIN, MCCONNELL, 2007] Arjen Boin, Allan McConnell, Preparing for Critical Infrastructure Breakdowns: The Limits of Crisis Management and the Need for Resilience, *Journal of Contingencies and Crisis Management*, 15(1) :51-59, 2007.\newline
@@ -41,7 +42,7 @@
 [SUSI, ZIEMKE, 2001] Tarja Susi, Tom Ziemke, Social cognition, artefacts, and stigmergy: A comparative analysis of theoretical frameworks for the understanding of artefact-mediated collaborative activity, *Journal of Cognitive Systems Research*, 2 :273-290, 2001.\newline
 [TEOH, YEOH, ZADEH, 2015] Say Yen Teoh, William Yeoh, Hossein Seif Zadeh, Towards a resilience management framework for complex enterprise systems upgrade implementation, *Enterprise Information Systems*, :1-25, Septemeber 2015.\newline
 [THERAULAZ, BONABEAU, 1999] Guy Theraulaz, Eric Bonabeau, A Brief History of Stigmergy, *Artificial Life*, 5 :97–116, 1999.\newline
-[Tisseron, 2009] Serge Tisseron, *La résilience. Que sais-je?*, Presses Universitaires de France, 2009.
+[Tisseron, 2009] Serge Tisseron, *La résilience. Que sais-je?*, Presses Universitaires de France, 2009.\newline
 [TLFi] *Trésor de la langue française informatisé*, http://atilf.atilf.fr/dendien/scripts/tlfiv4/showps.exe?p=combi.htm;java=no;.\newline
 [TPB] *The Pirate Bay*, https://web.archive.org/web/20160125114847/https://thepiratebay.se/.\newline
 [WANG, GAO, Ip, 2010] J. W. Wang , F. Gao, W. H. Ip, Measurement of resilience and its application to enterprise information systems, *Enterprise Information Systems*, 4(2) :s215-223, 2010.\newline
