@@ -32,6 +32,7 @@
 [RIDLEY, 2011] Gail Ridley, National Security as a Corporate Social Responsibility: Critical Infrastructure Resilience, *Journal of Business Ethics*, 103(1) :111-125, 2011.\newline
 [RIOLLI, SAVICKI, 203] Laura Riolli, Victor Savicki, Information system organizational resilience, *Omega*, 31 :227-233, 2003.\newline
 [RIVARD, TALBOT, 2004], Suzanne Rivard, Jean Talbot, *Le développement de systèmes d’information : une méthode intégrée à la transformation des processus*, Presses de l'Université de Québec, 2004.\newline
+[RP] *The Resilience Project*, http://resilienceproject.com/
 [SMITH *et alii*, 2011] Paul Smith *et alii*, Network Resilience: A Systematic Approach, *IEEE Communications Magazine*, :99-97, July 2011.\newline
 [SUSI, ZIEMKE, 2001] Tarja Susi, Tom Ziemke, Social cognition, artefacts, and stigmergy: A comparative analysis of theoretical frameworks for the understanding of artefact-mediated collaborative activity, *Journal of Cognitive Systems Research*, 2 :273-290, 2001.\newline
 [TEOH, YEOH, ZADEH, 2015] Say Yen Teoh, William Yeoh, Hossein Seif Zadeh, Towards a resilience management framework for complex enterprise systems upgrade implementation, *Enterprise Information Systems*, :1-25, Septemeber 2015.\newline
