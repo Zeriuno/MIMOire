@@ -20,6 +20,12 @@ Partisans de cette deuxième option nous essaierons dans cet exposé de justifie
 
 Confrontés à un phénomène avec une telle variabilité, le fait de poser le cadre de notre étude nous permettra de pouvoir mieux définir ce que dans ce contexte "résilience" veut dire.
 
+Bon nombre des fonctions prises en charges par le système d'information n'ont de visibilité que par le biais de l'informatisation des données. ainsi elles sont systématisées.
+Intéressant de relever au passage que ces éléments font partie des caractéristiques qui permettent au SI d'avoir une place importante dans une organisation.
+
+> coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
+[Lucas 1984]
+
 L'importance des outils informatiques est telle que certains auteurs considèrent que sans "codes sources binaires" [sic], "les ordinateurs ne fonctionneraient plus, ils ne pourraient même s’appeler ordinateurs et il n’y aurait plus de système d’information"  [Lequeux, Challande, 2009]
 
 > Un système d’information est un ensemble d’activités qui saisissent, stockent, transforment et diffusent des données sous un ensemble de contraintes appelé l’environnement du système. Des inputs (données) sont émis par une ou plusieurs sources et traités par le système, lequel utilise aussi des données entreposées préalablement. Les résultats du traitement (outputs) sont transmis à une ou plusieurs destinations ou mettent à jour des données entreposées. Pour sa réalisation, un système d’information utilisera des technologies de l’information plus ou moins sophistiquées pouvant aller de la simple calculatrice dans le cas de systèmes très peu sophistiqués jusqu’à des réseaux d’ordinateurs extrêmement puissants, utilisant des interfaces de type multimédia.
