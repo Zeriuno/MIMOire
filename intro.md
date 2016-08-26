@@ -1,30 +1,27 @@
 # Introduction
 
-Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine et une utilisation attestée dans les écrits du philosophe Bacon [TLFi], le mot "résilience" ne manque d'ailleurs pas de les intéresser.
+Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine et une utilisation attestée dans les écrits du philosophe Bacon [TLFi], le mot "résilience" ne manque d'ailleurs pas de les intéresser.\newline
 Au cours des siècles en effet son contenu sémantique s’est renouvelé plusieurs fois: si le mot d'origine est la crase latine de "re" et "silire", c'est dans cette acception, de "rebondir", qu'il est introduit dans l'anglais du XVIIe siècle. Perçu comme un anglicisme [TLFi], il est employé en français déjà au début du XXe siècle: nouvelle acception, le terme sert à décrire la force morale de ceux qui accablés par des circonstances opposées, resurgissent. Dans une signification proche, le terme est également choisi par la discipline, bien éloignée, de la physique des matériaux: pour celle-ci résilience est la propriété d'absorber un choc et de savoir ensuite retrouver sa forme précédente [TLFi].
 
-Le vingtième siècle aura sans doute été, pour la société occidentale, celui du choc, du traumatisme: deux guerres mondiales ont marqué sa première moitié et la deuxième a été également conditionnée, en creux, par le déchaînement dés puissances destructrices humaines. Un tel traumastisme était aussi bien présent comme souvenir des survivants, de ce qui s'était passé, que comme menace quotidienne de la guerre froide: danger toujours imminent qui faisait désespérer de la possibilité de rebondir.
+Le vingtième siècle aura sans doute été, pour la société occidentale, celui du choc, du traumatisme: deux guerres mondiales ont marqué sa première moitié et la deuxième a été également conditionnée, en creux, par le déchaînement dés puissances destructrices humaines. Un tel traumastisme était aussi bien présent comme souvenir des survivants, de ce qui s'était passé, que comme menace quotidienne de la guerre froide: danger toujours imminent qui faisait désespérer de la possibilité de rebondir.\newline
 Fort de son histoire, "résilience" est un mot qui dispose d'une vaste assise conceptuelle et celle-ci a permis qu'il devienne un réceptacle de ce Zeitgeist inquiet marquant l’époque actuelle, qu'il serve de synthèse populaire à l'élitiste aphorisme de Nietzsche sur ce qui détruit et ce qui rend plus fort. Cela participe sans doute à la spectaculaire inflation de l'utilisation du terme et du concept: l'étude de la résilience se décline désormais dans un très grand nombre de disciplines venues s'ajouter aux autres champs évoqués, telle que la psychologie et l'étude du développement infantile, la pathologie médicale [RP] ainsi que la sociologie, l'histoire aussi bien que la géographie [Dauphiné, Provitolo, 2007].
 
-Le concept de résilience est donc assez couramment connu et même à la mode. En 2012 des chercheurs relevaient d'ailleurs que le terme était devenu, dans les États Unis, un élément presque incontournable de toute conversation, qu'elle porte sur les qualités nécessaires des écoliers ou bien du président de la république, évoqué aussi bien pour les équipes sportives ainsi que pour les infrastructures critiques [Comfort, Boin, Demchak, 2010]. Une telle présence forte dans une région aussi bien définie est d'ailleurs à mettre en lien avec le concept de "disruption", élément de langage de l'industrie de la Silicon Valley, et justement les éditions O'Reilly inauguraient l'année 2016 en listant "5 ways to be more resilient in 2016" [].
+Le concept de résilience est donc assez couramment connu et même à la mode. En 2012 des chercheurs relevaient d'ailleurs que le terme était devenu, dans les États Unis, un élément presque incontournable de toute conversation, qu'elle porte sur les qualités nécessaires des écoliers ou bien du président de la république, évoqué aussi bien pour les équipes sportives ainsi que pour les infrastructures critiques [Comfort, Boin, Demchak, 2010]. Une telle présence forte dans une région aussi bien définie est d'ailleurs à mettre en lien avec le concept de "disruption", élément de langage de l'industrie de la Silicon Valley, et justement les éditions O'Reilly inauguraient l'année 2016 en listant "5 ways to be more resilient in 2016" [O'Reilly, 2016].\newline
 forts de leur capacité d'innovation technologique, et de leur volonté de dérégulation sociale [Morozov, 2014], ces acteurs prévoient d'annhilier les concurrents, vus comme obsolètes. Encore une fois la capacité de rebond est d'autant plus présente dans les eprits et invoquée qu'une intention de déstruction se manifeste (sur le résultat qui semble à constater, d'avoir rendu résilientes les réalités que la Silicon Valley souhaitait *disrupter*, voir [Morozov, 2016]).
+
 Capable de prospérer dans cette sous-culture de prédation, le concept a su se populariser également en Europe, aussi bien dans le domaine technologique (le site *The Pirate Bay* se définit ainsi *The galaxy's most resilient BitTorrent site*) que sociétal, où on arrive donc à le retrouver désormais employé par des acteurs tout aussi lugubres que ceux d'outre-Atlantique: c'est le ministre de l'intérieur qui de toute l'histoire d'un gouvernement démocratique aura le plus œvré pour la déstruction de l'état de droit à louer la résilience des Français [Gazeneuve, 2016]; ce sont les magazines qui usent de la peur pour tétaniser et capturer leurs lecteurs qui font ensuite des unes sur la résilience, tel *L'Express* en août 2016.
 
-En s'apprêtant à étudier la résilience dans le contexte du système d'information il sera donc préalablement nécessaire de s'intérroger sur la pertinence de ce rapprochement: correspond-t-il à l'abus d'un outil intellectuel qui, déjà protéiforme, risque de voir sa signification se diluer et devenir évanscente dans un kamoulox de termes à ramdam? Ou bien s'agi-t-il d'une expansion ultérieure de la portée sémantique du terme qui serait justifiée et qui permettrat d'enrichir l'analyse portée sur le système d'information et serait capable de participer aux outils et méthodes qu'il convient de mettre en œuvre pour le concevoir et l'évaluer?
+En s'apprêtant à étudier la résilience dans le contexte du système d'information il sera donc préalablement nécessaire de s'intérroger sur la pertinence de ce rapprochement: correspond-t-il à l'abus d'un outil intellectuel qui, déjà protéiforme, risque de voir sa signification se diluer et devenir évanscente dans un kamoulox de termes à ramdam? Ou bien s'agi-t-il d'une expansion ultérieure de la portée sémantique du terme qui serait justifiée et qui permettrat d'enrichir l'analyse portée sur le système d'information et serait capable de participer aux outils et méthodes qu'il convient de mettre en œuvre pour le concevoir et l'évaluer?\newline
 Partisans de cette deuxième option nous essaierons dans cet exposé de justifier cette position et de montrer comment la résilience peut être envisagée dans le cadre d'un système d'information, quels sont les problèmes qu'elle permet de confronter et dans quelle mesure des solutions résilientes sont déjà employées à ce fins, et cela aussi bien au niveau microscopique que macroscopique.
 
 # La résilience dans le système d'information
 
-## Résilience, un concept multiple
+## Le SI, un cadre d'enquête
 
-La multiplicité des champs d'application du concept de résilience ne facilite certainement pas sa définition, mais la tâche n'est pas pour autant plus aisées lorsque l'on se cantonne à un seul domaine. Comme le montre Serge Tisseron, même en psychologie plusieurs conceptions du phénomène se superposent, expression de courants successifs dans le temps et géographiquement différents [Tisseron, 2009], et le travail de conciliation de celles-ci est encore en cours [Aïn, 2007].
-
-Face à une telle incertitude, d'ailleurs compréhensible dans le cas d'un domaine d'études encore récent, il sera difficile de parvenir à une définition restrictive du phénomène.
- un évènement se produit
+Confrontés à un phénomène avec une telle variabilité, le fait de poser le cadre de notre étude nous permettra de pouvoir mieux définir ce que dans ce contexte "résilience" veut dire.
 L'importance des outils informatiques est telle que certains auteurs considèrent que sans "codes sources binaires" [sic], "les ordinateurs ne fonctionneraient plus, ils ne pourraient même s’appeler ordinateurs et il n’y aurait plus de système d’information"  [Lequeux, Challande, 2009]
 
-> Un système d’information est un ensemble d’activités qui saisissent, stockent,
-transforment et diffusent des données sous un ensemble de contraintes appelé
+> Un système d’information est un ensemble d’activités qui saisissent, stockent, transforment et diffusent des données sous un ensemble de contraintes appelé
 l’environnement du système. Des inputs (données) sont émis par une ou plusieurs
 sources et traités par le système, lequel utilise aussi des données entreposées préa-
 lablement. Les résultats du traitement (outputs) sont transmis à une ou plusieurs
@@ -34,6 +31,14 @@ sophistiquées pouvant aller de la simple calculatrice dans le cas de systèmes 
 peu sophistiqués jusqu’à des réseaux d’ordinateurs extrêmement puissants, utili-
 sant des interfaces de type multimédia.
 [Rivard, Talbot, 2004]
+
+
+## Résilience, un concept multiple
+
+La multiplicité des champs d'application du concept de résilience ne facilite certainement pas sa définition, mais la tâche n'est pas pour autant plus aisées lorsque l'on se cantonne à un seul domaine. Comme le montre Serge Tisseron, même en psychologie plusieurs conceptions du phénomène se superposent, expression de courants successifs dans le temps et géographiquement différents [Tisseron, 2009], et le travail de conciliation de celles-ci est encore en cours [Aïn, 2007].
+
+Face à une telle incertitude, d'ailleurs compréhensible dans le cas d'un domaine d'études encore récent, il sera difficile de parvenir à une définition restrictive du phénomène.
+Un évènement se produit
 
 > LES MULTIPLES RÔLES DE L ’ INFORMATION DANS LA CHAÎNE DE VALEUR
 Rôle 1 : L’information joue un rôle de soutien aux processus de production.
