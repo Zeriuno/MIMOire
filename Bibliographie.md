@@ -41,6 +41,7 @@
 [SUSI, ZIEMKE, 2001] Tarja Susi, Tom Ziemke, Social cognition, artefacts, and stigmergy: A comparative analysis of theoretical frameworks for the understanding of artefact-mediated collaborative activity, *Journal of Cognitive Systems Research*, 2 :273-290, 2001.\newline
 [TEOH, YEOH, ZADEH, 2015] Say Yen Teoh, William Yeoh, Hossein Seif Zadeh, Towards a resilience management framework for complex enterprise systems upgrade implementation, *Enterprise Information Systems*, :1-25, Septemeber 2015.\newline
 [THERAULAZ, BONABEAU, 1999] Guy Theraulaz, Eric Bonabeau, A Brief History of Stigmergy, *Artificial Life*, 5 :97–116, 1999.\newline
+[Tisseron, 2009] Serge Tisseron, *La résilience. Que sais-je?*, Presses Universitaires de France, 2009.
 [TLFi] *Trésor de la langue française informatisé*, http://atilf.atilf.fr/dendien/scripts/tlfiv4/showps.exe?p=combi.htm;java=no;.\newline
 [TPB] *The Pirate Bay*, https://web.archive.org/web/20160125114847/https://thepiratebay.se/.\newline
 [WANG, GAO, Ip, 2010] J. W. Wang , F. Gao, W. H. Ip, Measurement of resilience and its application to enterprise information systems, *Enterprise Information Systems*, 4(2) :s215-223, 2010.\newline
