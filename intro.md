@@ -19,17 +19,10 @@ Partisans de cette deuxième option nous essaierons dans cet exposé de justifie
 ## Le SI, un cadre d'enquête
 
 Confrontés à un phénomène avec une telle variabilité, le fait de poser le cadre de notre étude nous permettra de pouvoir mieux définir ce que dans ce contexte "résilience" veut dire.
+
 L'importance des outils informatiques est telle que certains auteurs considèrent que sans "codes sources binaires" [sic], "les ordinateurs ne fonctionneraient plus, ils ne pourraient même s’appeler ordinateurs et il n’y aurait plus de système d’information"  [Lequeux, Challande, 2009]
 
-> Un système d’information est un ensemble d’activités qui saisissent, stockent, transforment et diffusent des données sous un ensemble de contraintes appelé
-l’environnement du système. Des inputs (données) sont émis par une ou plusieurs
-sources et traités par le système, lequel utilise aussi des données entreposées préa-
-lablement. Les résultats du traitement (outputs) sont transmis à une ou plusieurs
-destinations ou mettent à jour des données entreposées. Pour sa réalisation, un
-système d’information utilisera des technologies de l’information plus ou moins
-sophistiquées pouvant aller de la simple calculatrice dans le cas de systèmes très
-peu sophistiqués jusqu’à des réseaux d’ordinateurs extrêmement puissants, utili-
-sant des interfaces de type multimédia.
+> Un système d’information est un ensemble d’activités qui saisissent, stockent, transforment et diffusent des données sous un ensemble de contraintes appelé l’environnement du système. Des inputs (données) sont émis par une ou plusieurs sources et traités par le système, lequel utilise aussi des données entreposées préalablement. Les résultats du traitement (outputs) sont transmis à une ou plusieurs destinations ou mettent à jour des données entreposées. Pour sa réalisation, un système d’information utilisera des technologies de l’information plus ou moins sophistiquées pouvant aller de la simple calculatrice dans le cas de systèmes très peu sophistiqués jusqu’à des réseaux d’ordinateurs extrêmement puissants, utilisant des interfaces de type multimédia.
 [Rivard, Talbot, 2004]
 
 
