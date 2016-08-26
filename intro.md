@@ -16,6 +16,8 @@ Partisans de cette deuxième option nous essaierons dans cet exposé de justifie
 
 ## Résilience, un concept multiple
 
+La multiplicité des champs d'application du concept de résilience ne facilite certainement pas sa définition, mais la tâche n'est pas pour autant plus aisées lorsque l'on se cantonne à un seul domaine. []
+
 Face à une telle incertitude
 L'importance des outils informatiques est telle que certains auteurs considèrent que sans "codes sources binaires" [sic], "les ordinateurs ne fonctionneraient plus, ils ne pourraient même s’appeler ordinateurs et il n’y aurait plus de système d’information"  [Lequeux, Challande, 2009]
 
