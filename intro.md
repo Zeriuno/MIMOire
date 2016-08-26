@@ -6,14 +6,63 @@ Au cours des siècles il s'est en effet resemantisé plusieurs fois: si le mot d
 Le vingtième siècle aura sans doute été, pour la société occidentale, celui du choc, du traumatisme: deux guerres mondiales ont marqué sa première moitié et la deuxième a été également conditionnée, en creux, par le déchaînement dés puissances destructrices humaines. Celui-ci était aussi bien présent comme souvenir des survivants, de ce qui s'était passé, que comme menace quotidienne de la guerre froide: danger toujours imminent qui faisait désespérer de la possibilité de rebondir.
 Fort de son histoire, "résilience" est un mot qui dispose d'une vaste assise conceptuelle: cela en fait un receptacle de ce Zeitgeist inquiet. Cela participe sans doute à la spectaculaire inflation de l'utilisation du terme: l'étude de la résilience se décline désormais dans un très grand nombre de disciplines venues s'ajouter aux autres champs évoqués, telle que la psychologie et l'étude du développement infantil, la pathologie médicale ainsi que la sociologie, l'histoire aussi bien que la géographie.
 
-À défaut d'être quotidien, le concept de résilience est donc connu et même à la mode. évoqué ---- apparition partout, ce qui pouse les chercheurs à s'intérroger----
+Le concept de résilience est donc connu et même à la mode. Des chercheurs relevaient comment il soit devenu presque quotidien dans les États Unis de 2010 []  ---- apparition partout, ce qui pouse les chercheurs à s'intérroger----
 Dans ce contexte son rapprochement avec le système d'information correspond-t-il à un abus d'un outil intellectuel qui, déjà protéiforme, risque de voir sa signification se diluer et devenir évanscente? Ou bien s'agi-t-il d'une expansion ultérieure de la portée sémantique du terme qui serait justifiée et qui permettrat d'enrichir l'analyse portée sur le système d'information et serait capable de participer aux outils et méthodes qu'il convient de mettre en œuvre pour le concevoir et l'évaluer?
 Partisans de cette deuxième option nous essaierons dans ce court exposé de justifier cette position et de montrer comment la résilience peut être envisagée dans le cadre d'un système d'information, quels sont les problèmes qu'elle permet de confronter et dans quelle mesure des solutions résilientes sont déjà employées à ce fins, et cela aussi bien au niveau microscopique que macroscopique.
+
 
 #
 
 La résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 -définition du SI-
+
+Quel est le moment de la résilience?
+Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
+
+Resilience is the capacity of a social system (e.g., an organization, city, or
+society) to proactively adapt to and recover from disturbances that are per-
+ceived within the system to fall outside the range of normal and expected
+disturbances.
+
+Comme le relèvent d'autres chercheurs, la variété d'approches est probablement à considérer, compte tenu de la jeunesse de ce champs d'enquête, comme un avantage [RIse of resilience]
+> We refer here to the work of scholars who, while operating from a
+variety of academic disciplines, are making an interdisciplinary effort to
+further our knowledge about resilience. This literature is brimming with
+ideas on how to conceptualize resilience. It harbors a distinct theoretical
+approach that is inspired by biological-systems thinking and complexity
+theory. This literature provides us with a good sense of how resilience func-
+tions in complex systems.[RIse of resilience]
+
+>Policy scholars explain how hard it is to elevate these types of issues
+to the top of the decision-making agenda (Baumgartner and Jones 1993;
+Birkland 2006). Organization theorists offer helpful insights with regard to creating cultures that may enhance and sustain resilience (LaPorte 2007;
+Schulman and Roe 2007).[RIse of resilience]
+
+> A critical approach that distinguishes this book from other discussions
+of resilience is its inquiry into sociotechnical systems. The literature on
+social cognition (Hermann et al. 2007), cognitive anthropology (Hutchins
+1995), and sociotechnical systems (Coakes, Willis, and Clark 2002) care-
+fully examines what humans do and how they do it in relation to the tech-
+nical systems they operate. In this perspective, the transition from percep-
+tion to action at individual, group, organizational, and systemic scales of
+operation is critical to understanding the dynamics of resilience. Develop-
+ing metrics of resilience in actual environments exposed to risk represents
+a critical task that is only beginning.
+The interaction between increasingly advanced technical systems and
+the human organizations that design, build, operate, and manage them has
+been studied by researchers at the Tavistock Institute for Social Research
+since it opened in 1946 (Trist, Emery, and Murray 1997). The impact of
+technology on social organizations is, of course, continually unfolding
+(Coakes, Willis, and Lloyd-Jones 2000). The modern-day exponential in-
+crease in the use of information technology across the world is presenting
+ever more complex and surprising dynamics in social action and organi-
+zational performance (Coakes, Willis, and Clarke 2002). Such changing
+conditions require considerable integrative efforts to understand the dual
+nature of these technologies. They can be harnessed to effective decision
+support in large-scale events, but they also impose new or enhanced con-
+straints on organizational action.[RIse of resilience]
+
+
 
 Illusion de la maîtrise des systèmes complexes (HOLLNAGEL, PARIES...)
 
