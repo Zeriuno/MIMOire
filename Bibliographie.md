@@ -23,9 +23,9 @@
 [HOLLNAGEL *et alii*, 2011] Erik Hollnagel *et alii*, *Resilience Engineering in Practice. A Guidebook*, Ashgate, 2011.\newline
 [HOLLNAGEL, WOODS, LEVESON, 2006] Erik Hollnagel, David D. Woods, Nancy Leveson, *Resilience Engineering Concepts and Precepts*, Ahgate, 2006.\newline
 [HYSLOP, 2007] Maitland Hyslop, *Critical Information Infrastructures. Resilience and Protection*, Springer, 2007.\newline
-[KEROMYTIS, ????] Angelos D. Keromytis, *Characterizing Self-Healing Software Systems*, Ashgate, 2006.\newline
+[Keromytis, 2006] Angelos D. Keromytis, *Characterizing Self-Healing Software Systems*, Ashgate, 2006.\newline
 [KONSYNSKI, 1984/1985] Benn R. Konsynski, Advances in Information System Design, *Journal of Management Information Systems*, 1(3) :5-32, 1984/1985.\newline
-[LEQUEUX, CHALLANDE, 2009] Jean-Louis Lequeux, Jean-Francois Challande, *Le grand livre du DSI. Mettre en oeuvre la direction des systemes d'information 2.0*, Eyrolles, 2009.\newline
+[Lequeux, Challande, 2009] Jean-Louis Lequeux, Jean-Francois Challande, *Le grand livre du DSI. Mettre en oeuvre la direction des systemes d'information 2.0*, Eyrolles, 2009.\newline
 [MOISAND, GARNIER DE LABAREYRE, 2009] Dominique Moisand, Fabrice Garnier de Labareyre, *CobiT pour une meilleure gouvernance des systèmes d'information*, Eyrolles, 2009.\newline
 [Morozov, 2014] Evgeny Morozov, *Our Naive "Innovation" Fetish*, https://web.archive.org/web/20160310094927/https://newrepublic.com/article/116939/innovation-fetish-naive-buzzword-unites-parties-avoids-policy-choice.\newline
 [Morozov, 2016] Evgeny Morozov, *Silicon Valley was going to disrupt capitalism. Now it’s just enhancing it*, https://web.archive.org/web/20160825201017/https://www.theguardian.com/commentisfree/2016/aug/07/silicon-valley-health-finance.\newline
