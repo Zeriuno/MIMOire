@@ -4,7 +4,7 @@ Il pourrait sans doute rentrer dans le compte des concepts que seuls les philolo
 Au cours des siècles en effet son contenu sémantique s’est renouvelé plusieurs fois: si le mot d'origine est la crase latine de "re" et "salire", c'est dans l'acception proche de "rebondir" qu'il est introduit dans l'anglais du XVIIe siècle. Perçu comme un anglicisme[Rey, cit dans TLF, ad vocem}, il est employé en français déjà au début du XXe siècle: nouvelle acception, le terme sert à décrire la force morale de ceux qui accablés par des circonstances opposées, resurgissent. Dans une signification proche, le terme est également choisi par la discipline, bien éloignée, de la physique des matériaux: pour celle-ci résilience est la propriété d'absorber un choc et de savoir ensuite retrouver sa forme précédente [TLF ad vocem}.
 
 Le vingtième siècle aura sans doute été, pour la société occidentale, celui du choc, du traumatisme: deux guerres mondiales ont marqué sa première moitié et la deuxième a été également conditionnée, en creux, par le déchaînement dés puissances destructrices humaines. Un tel traumastisme était aussi bien présent comme souvenir des survivants, de ce qui s'était passé, que comme menace quotidienne de la guerre froide: danger toujours imminent qui faisait désespérer de la possibilité de rebondir.
-Fort de son histoire, "résilience" est un mot qui dispose d'une vaste assise conceptuelle qui a permis qu'il devienne un réceptacle de ce Zeitgeist inquiet marquant l’époque actuelle. Cela participe sans doute à la spectaculaire inflation de l'utilisation du terme et du concept: l'étude de la résilience se décline désormais dans un très grand nombre de disciplines venues s'ajouter aux autres champs évoqués, telle que la psychologie et l'étude du développement infantile, la pathologie médicale ainsi que la sociologie, l'histoire aussi bien que la géographie.
+Fort de son histoire, "résilience" est un mot qui dispose d'une vaste assise conceptuelle qui a permis qu'il devienne un réceptacle de ce Zeitgeist inquiet marquant l’époque actuelle. Cela participe sans doute à la spectaculaire inflation de l'utilisation du terme et du concept: l'étude de la résilience se décline désormais dans un très grand nombre de disciplines venues s'ajouter aux autres champs évoqués, telle que la psychologie et l'étude du développement infantile, la pathologie médicale [RP] ainsi que la sociologie, l'histoire aussi bien que la géographie [].
 
 À défaut d'être quotidien, le concept de résilience est donc connu et même à la mode. évoqué ---- apparition partout, ce qui pouse les chercheurs à s'intérroger----
 Dans ce contexte son rapprochement avec le système d'information correspond-t-il à un abus d'un outil intellectuel qui, déjà protéiforme, risque de voir sa signification se diluer et devenir évanscente? Ou bien s'agi-t-il d'une expansion ultérieure de la portée sémantique du terme qui serait justifiée et qui permettrat d'enrichir l'analyse portée sur le système d'information et serait capable de participer aux outils et méthodes qu'il convient de mettre en œuvre pour le concevoir et l'évaluer?
@@ -43,7 +43,8 @@ Tolérance aux pannes
 
 ## Echelle macroscopique
 
-à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème.
+à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème. (ZFS)
+Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
 Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
 Self-Healing Systems
 
@@ -66,7 +67,7 @@ Implications for system Performance[DALZIELL, MCMANUS, 2004]
 
 Cartographie des processus
 Cartographie du SI
-Création de centres de gravitation
+Création de centres de gravitation: le `try`, par exemple, fais cela au niveau de l'exécution du langage de programmation.
 
 > Infrastructure resilience is often associated with the ability of the hard infrastructure or physical system to cope with
 severe disruptions; however, the institutions and enterprises that make up the soft infrastructure systems are also
