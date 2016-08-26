@@ -1,7 +1,7 @@
 # Introduction
 
 Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine et une utilisation attestée dans les écrits du philosophe Bacon [TLFi], le mot "résilience" ne manque d'ailleurs pas de les intéresser.
-Au cours des siècles en effet son contenu sémantique s’est renouvelé plusieurs fois: si le mot d'origine est la crase latine de "re" et "salire", c'est dans l'acception proche de "rebondir" qu'il est introduit dans l'anglais du XVIIe siècle. Perçu comme un anglicisme [TLFi], il est employé en français déjà au début du XXe siècle: nouvelle acception, le terme sert à décrire la force morale de ceux qui accablés par des circonstances opposées, resurgissent. Dans une signification proche, le terme est également choisi par la discipline, bien éloignée, de la physique des matériaux: pour celle-ci résilience est la propriété d'absorber un choc et de savoir ensuite retrouver sa forme précédente [TLFi].
+Au cours des siècles en effet son contenu sémantique s’est renouvelé plusieurs fois: si le mot d'origine est la crase latine de "re" et "silire", c'est dans cette acception, de "rebondir", qu'il est introduit dans l'anglais du XVIIe siècle. Perçu comme un anglicisme [TLFi], il est employé en français déjà au début du XXe siècle: nouvelle acception, le terme sert à décrire la force morale de ceux qui accablés par des circonstances opposées, resurgissent. Dans une signification proche, le terme est également choisi par la discipline, bien éloignée, de la physique des matériaux: pour celle-ci résilience est la propriété d'absorber un choc et de savoir ensuite retrouver sa forme précédente [TLFi].
 
 Le vingtième siècle aura sans doute été, pour la société occidentale, celui du choc, du traumatisme: deux guerres mondiales ont marqué sa première moitié et la deuxième a été également conditionnée, en creux, par le déchaînement dés puissances destructrices humaines. Un tel traumastisme était aussi bien présent comme souvenir des survivants, de ce qui s'était passé, que comme menace quotidienne de la guerre froide: danger toujours imminent qui faisait désespérer de la possibilité de rebondir.
 Fort de son histoire, "résilience" est un mot qui dispose d'une vaste assise conceptuelle qui a permis qu'il devienne un réceptacle de ce Zeitgeist inquiet marquant l’époque actuelle. Cela participe sans doute à la spectaculaire inflation de l'utilisation du terme et du concept: l'étude de la résilience se décline désormais dans un très grand nombre de disciplines venues s'ajouter aux autres champs évoqués, telle que la psychologie et l'étude du développement infantile, la pathologie médicale [RP] ainsi que la sociologie, l'histoire aussi bien que la géographie [Dauphiné, Provitolo, 2007].
@@ -16,7 +16,29 @@ Partisans de cette deuxième option nous essaierons dans cet exposé de justifie
 
 ## Résilience, un concept multiple
 
--définition du SI-
+Face à une telle incertitude
+L'importance des outils informatiques est telle que certains auteurs considèrent que sans "codes sources binaires" [sic], "les ordinateurs ne fonctionneraient plus, ils ne pourraient même s’appeler ordinateurs et il n’y aurait plus de système d’information"  [Lequeux, Challande, 2009]
+
+> Un système d’information est un ensemble d’activités qui saisissent, stockent,
+transforment et diffusent des données sous un ensemble de contraintes appelé
+l’environnement du système. Des inputs (données) sont émis par une ou plusieurs
+sources et traités par le système, lequel utilise aussi des données entreposées préa-
+lablement. Les résultats du traitement (outputs) sont transmis à une ou plusieurs
+destinations ou mettent à jour des données entreposées. Pour sa réalisation, un
+système d’information utilisera des technologies de l’information plus ou moins
+sophistiquées pouvant aller de la simple calculatrice dans le cas de systèmes très
+peu sophistiqués jusqu’à des réseaux d’ordinateurs extrêmement puissants, utili-
+sant des interfaces de type multimédia.
+[Rivard, Talbot, 2004]
+
+> LES MULTIPLES RÔLES DE L ’ INFORMATION DANS LA CHAÎNE DE VALEUR
+Rôle 1 : L’information joue un rôle de soutien aux processus de production.
+Rôle 2 : L’information est une matière première et un output des processus d’affaires.
+Rôle 3 : L’information est essentielle à la coordination des processus.
+Rôle 4 : L’information permet d’évaluer la performance des processus.
+Rôle 5 : L’information est un instrument d’ajout de valeur.
+[Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
+
 La résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 
 Quel est le moment de la résilience?
@@ -99,6 +121,9 @@ Tolérance aux pannes
 Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
 Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
 Self-Healing Systems
+
+PRA et PCA
+Le plan de reprise d’activité (PRA) est à distinguer du plan de continuité d'activité (PCA) : ce dernier a pour objectif de poursuivre l'activité sans interruption du service et d’assurer la disponibilité des informations quels que soient les problèmes rencontrés. Le PRA en est un sous-ensemble, qui décrit les mesures qui doivent être déclenchées à la survenue d'un sinistre ou incident majeur ayant entraîné une interruption de l'activité.
 
 IS Mindfulness: [BUTLER, GRAY 2006]
 [HUNTE, WEARS, SCHUBERT ????]
