@@ -1,4 +1,4 @@
-# Résilience, un concept multiple
+# Introduction
 
 Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine et une utilisation attestée dans les écrits du philosophe Bacon [TLFi], le mot "résilience" ne manque d'ailleurs pas de les intéresser.
 Au cours des siècles en effet son contenu sémantique s’est renouvelé plusieurs fois: si le mot d'origine est la crase latine de "re" et "salire", c'est dans l'acception proche de "rebondir" qu'il est introduit dans l'anglais du XVIIe siècle. Perçu comme un anglicisme [TLFi], il est employé en français déjà au début du XXe siècle: nouvelle acception, le terme sert à décrire la force morale de ceux qui accablés par des circonstances opposées, resurgissent. Dans une signification proche, le terme est également choisi par la discipline, bien éloignée, de la physique des matériaux: pour celle-ci résilience est la propriété d'absorber un choc et de savoir ensuite retrouver sa forme précédente [TLFi].
@@ -12,11 +12,12 @@ Capable de prospérer dans cette sous-culture de prédation, le concept a su se 
 En s'apprêtant à étudier la résilience dans le contexte du système d'information il sera donc préalablement nécessaire de s'intérroger sur la pertinence de ce rapprochement: correspond-t-il à l'abus d'un outil intellectuel qui, déjà protéiforme, risque de voir sa signification se diluer et devenir évanscente dans un kamoulox de termes à ramdam? Ou bien s'agi-t-il d'une expansion ultérieure de la portée sémantique du terme qui serait justifiée et qui permettrat d'enrichir l'analyse portée sur le système d'information et serait capable de participer aux outils et méthodes qu'il convient de mettre en œuvre pour le concevoir et l'évaluer?
 Partisans de cette deuxième option nous essaierons dans cet exposé de justifier cette position et de montrer comment la résilience peut être envisagée dans le cadre d'un système d'information, quels sont les problèmes qu'elle permet de confronter et dans quelle mesure des solutions résilientes sont déjà employées à ce fins, et cela aussi bien au niveau microscopique que macroscopique.
 
+# La résilience dans le système d'information
 
-#
+## Résilience, un concept multiple
 
-La résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 -définition du SI-
+La résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 
 Quel est le moment de la résilience?
 Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
