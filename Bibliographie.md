@@ -8,7 +8,7 @@
 [Butler, Gray, 2006] Brian S. Butler, Peter H. Gray, Reliability, Mindfulness, and Information Systems, *MIS Quarterly*, 30(2) :211-224, 2006.\newline
 [Camarinha-Matos, Bénaben, Picard, 2015] Luis M. Camarinha-Matos, Frédérick Bénaben, Willy Picard, *Risks and Resilience of Collaborative Networks*, Springer, 2015.\newline
 [Caragiannis *et alii*, 2013] Ioannis Caragiannis *et alii*, *Euro-Par 2012: Parallel Processing Workshops*, Springer, 2013.\newline
-[Cataldo, Hersleb, 2013] Coordination Breakdowns and Their Impact on Development Productivity and Software Failures, *IEEE Transactions on Software Engineering*, 39(3) : 343-360, 2013.\newline
+[Cataldo, Hersleb, 2013] Marcelo Cataldo, James D. Herbsleb, Coordination Breakdowns and Their Impact on Development Productivity and Software Failures, *IEEE Transactions on Software Engineering*, 39(3) : 343-360, 2013.\newline
 [Chaudhry, 2014] Junaid Ahsenali Chaudhry, *Self-Healing Systems and Wireless Networks Management*, CRC Press, 2014.\newline
 [Christensen, 2013] Lars Rune Christensen, Stigmergy in human practice: Coordination in construction work, *Cognitive Systems Research*, 21 :40–51, 2013.\newline
 [Comfort *et alii*, 2001] Louise K. Comfort *et alii*, Complex Systems in Crisis: Anticipation and Resilience in Dynamic Environments, Journal of Contingencies and Crisis Management, 9(3) :144-158, 2001.\newline
