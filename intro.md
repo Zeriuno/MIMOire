@@ -37,26 +37,17 @@ Moins évasive que celle de la résilience, la définition du système d'informa
 
 Mais qu'est donc la résilience?
 
+[Shaikh, Kauppi, 2010]
+
+Différence avec la sécurité [Hollnagel 2006]
 
 > coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
 [Lucas 1984]
 
 
-
-Face à une telle incertitude, d'ailleurs compréhensible dans le cas d'un domaine d'études encore récent, il sera difficile de parvenir à une définition restrictive du phénomène. La compréhension de quels sont les élements qui peuvent concerner notre champ d'études sera cependant plus aisée une fois que nous aurons défini celui-ci, tâche qui va donc nous retenir de manière prioritaire.
-
-
-
-
-
-
-
-
 ## Encadrer la résilience
 
-Disposant maintenant d'un cadre d'enquête défini, nous pouvons mieux définir ce que dans ce contexte "résilience" veut dire.
 
-[Shaikh, Kauppi, 2010]
 
 ###
 
