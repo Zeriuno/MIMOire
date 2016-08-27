@@ -14,7 +14,7 @@
 [Comfort, Boin, Demchak, 2010] Louise K. Comfort, Arjen Boin, Chris C. Demchak, *Designing Resilience: Preparing for Extreme Events*, University of Pittsburgh Press, 2010.\newline
 [D'ATRI, DE MARCO, CASALINO, 2008] Alessandro D’Atri, Marco De Marco, Nunzio Casalino, *Interdisciplinary Aspects of Information Systems Studies*, Physica-Verlag, 2008.\newline
 [Dauphiné, Provitolo, 2007] André Dauphiné, Damienne Provitolo, La résilience : un concept pour la gestion des risques / Resilience: a concept for risk management, *Annales de Géographie*, 116(654) :115-125, 2007.\newline
-[EL SAWY, NANUS, 1989] Omar A. El Sawy, Burt Nanus, Toward the Design of Robust Information Systems, *Journal of Management Information Systems*, 5(4) :33-54, 1989.\newline
+[El Sawy, Nanus, 1989] Omar A. El Sawy, Burt Nanus, Toward the Design of Robust Information Systems, *Journal of Management Information Systems*, 5(4) :33-54, 1989.\newline
 [FALKVINGE, 2013] Rick Falkvinge, *Swarmwise, The Tactical Manual to Changing the World*, CreateSpace Publishing Platform, 2013.\newline
 [Gazeneuve, 2016] Paris Normandie, *Bernard Gazeneuve : « Les Français font preuve de résilience et de fraternité* https://web.archive.org/web/20160803181600/http://www.paris-normandie.fr/region/bernard-cazeneuve--les-francais-font-preuve-de-resilience-et-de-fraternite-XK6480505.\newline
 [HAMEL, 2007] Gary Hamel, Bill Breen, *The Future of Management*, Harvard Business School Press, 2007.\newline
