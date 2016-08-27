@@ -165,9 +165,12 @@ Implications for system Performance[DALZIELL, MCMANUS, 2004]
 
 ### Stigmergie
 
+Réduction de la structuration hiérarchique
 [FALKVINGE 2013]
 [HAMEL 2011]
 [HAMEL 2012] "There were no titles, no bosses, and no formal hierarchy",p.193
+
+Organisation par le travail
 [THERAULAZ, BONABEAU 1999]
 [SUSI, ZIEMKE 2001]
 [ZHANG, WATTS 2004]
