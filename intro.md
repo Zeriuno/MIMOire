@@ -9,10 +9,11 @@ Fort de son histoire, "résilience" est un mot qui dispose d'une vaste assise co
 Le concept de résilience est donc assez couramment connu et même à la mode. En 2012 des chercheurs relevaient d'ailleurs que le terme était devenu, dans les États Unis, un élément presque incontournable de toute conversation, qu'elle porte sur les qualités nécessaires des écoliers ou bien du président de la république, évoqué aussi bien pour les équipes sportives ainsi que pour les infrastructures critiques [Comfort, Boin, Demchak, 2010]. Une telle présence forte dans une région aussi bien définie est d'ailleurs à mettre en lien avec le concept de "disruption", élément de langage de l'industrie de la Silicon Valley, et justement les éditions O'Reilly inauguraient l'année 2016 en listant "5 ways to be more resilient in 2016" [O'Reilly, 2016].\newline
 forts de leur capacité d'innovation technologique, et de leur volonté de dérégulation sociale [Morozov, 2014], ces acteurs prévoient d'annhilier les concurrents, vus comme obsolètes. Encore une fois la capacité de rebond est d'autant plus présente dans les eprits et invoquée qu'une intention de déstruction se manifeste (sur le résultat qui semble à constater, d'avoir rendu résilientes les réalités que la Silicon Valley souhaitait *disrupter*, voir [Morozov, 2016]).
 
-Capable de prospérer dans cette sous-culture de prédation, le concept a su se populariser également en Europe, aussi bien dans le domaine technologique (le site *The Pirate Bay* se définit ainsi *The galaxy's most resilient BitTorrent site*) que sociétal, où on arrive donc à le retrouver désormais employé par des acteurs tout aussi lugubres que ceux d'outre-Atlantique: c'est le ministre de l'intérieur qui de toute l'histoire d'un gouvernement démocratique aura le plus œuvré pour la déstruction de l'état de droit à louer la résilience des Français [Gazeneuve, 2016]; ce sont les magazines qui usent de la peur pour tétaniser et capturer leurs lecteurs qui font ensuite des unes sur la résilience, tel *L'Express* en août 2016.
+Capable de prospérer dans cette sous-culture de prédation, le concept a su se populariser également en Europe, aussi bien dans le domaine technologique (le site *The Pirate Bay* se définit ainsi *The galaxy's most resilient BitTorrent site*) que sociétal, où on arrive donc à le retrouver désormais employé par des acteurs tout aussi lugubres que ceux d'outre-Atlantique: c'est le ministre de l'intérieur qui de toute l'histoire d'un gouvernement démocratique aura le plus œuvré pour la déstruction de l'état de droit à louer la résilience des Français [Cazeneuve, 2016]; ce sont les magazines qui usent de la peur pour tétaniser et capturer leurs lecteurs qui font ensuite des unes sur la résilience, tel *L'Express* en août 2016.
 
 En s'apprêtant à étudier la résilience dans le contexte du système d'information il sera donc préalablement nécessaire de s'intérroger sur la pertinence de ce rapprochement: correspond-t-il à l'abus d'un outil intellectuel qui, déjà protéiforme, risque de voir sa signification se diluer et devenir évanscente dans un kamoulox de termes à ramdam? Ou bien s'agi-t-il d'une expansion ultérieure de la portée sémantique du terme qui serait justifiée et qui permettrat d'enrichir l'analyse portée sur le système d'information et serait capable de participer aux outils et méthodes qu'il convient de mettre en œuvre pour le concevoir et l'évaluer?\newline
 Partisans de cette deuxième option nous essaierons dans cet exposé de justifier cette position et de montrer comment la résilience peut être envisagée dans le cadre d'un système d'information, quels sont les problèmes qu'elle permet de confronter et dans quelle mesure des solutions résilientes sont déjà employées à ce fins, et cela aussi bien au niveau microscopique que macroscopique.
+\newpage
 
 # La résilience dans le système d'information
 
@@ -196,6 +197,7 @@ methodology is applied to the National Intelligent Transportation System (ITS) w
 viewed as a network, and the centrality measures are used to define the system’s resilience metrics.
 [Omer, Mostashari, Lindemann 2014]
 
+\newpage
 
 # Conclusion
 
