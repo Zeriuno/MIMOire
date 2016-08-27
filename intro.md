@@ -38,7 +38,7 @@ Moins évasive que celle de la résilience, la définition du système d'informa
 Mais qu'est donc la résilience?\newline
 Si l'on essaie d'explorer le vaste champ que ce concept peut couvrir, on constate qu'à travers les différentes disciplines touchées au moins huit phénomènes tombent sous cette appéllation. Leur identification et classification a été le travail de Arshi Shaikh et Carol Kauppi, qui cernent tout d'abord deux catégories [Shaikh, Kauppi, 2010].
 
-La première
+La première catégorie
 
 Quel est le moment de la résilience?
 Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
@@ -49,6 +49,15 @@ Resilience is the capacity of a social system (e.g., an organization, city, or
   disturbances.
 
 [Shaikh, Kauppi, 2010]
+
+Intéressant de souligner comment cette approche a déjà été prise dans la recherche de systèmes d'information "robustes":
+> is achieved by
+choosing a strategy that yields satisfactory results under all environmental scenarios
+which are assessed as having an appreciable probability of occurring
+[El Sawy, Nanus, 1989]
+
+En reprenant ces études, il est intéressant de souligner que, bien que susceptible à un indéniable effet de mode, le changement lexical modifie les conditions de l'enquête en convoquant les outils d'une recherche pluridisciplinaire
+
 
 Différence avec la sécurité [Hollnagel 2006]
 
