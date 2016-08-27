@@ -1,6 +1,6 @@
 # Introduction
 
-Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine et une utilisation attestée dans les écrits du philosophe Bacon [TLFi], le mot "résilience" ne manque d'ailleurs pas de les intéresser.\newline
+Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine et une utilisation attestée dans les écrits philosophiques dès le XVIIe siècle (Bacon [TLFi], Descartes [Cresti, 2014]), le mot "résilience" ne manque d'ailleurs pas de les intéresser.\newline
 Au cours des siècles en effet son contenu sémantique s’est renouvelé plusieurs fois: si le mot d'origine est la crase latine de "re" et "silire", c'est dans cette acception, de "rebondir", qu'il est introduit dans l'anglais du XVIIe siècle. Perçu comme un anglicisme [TLFi], attesté en effet dans les *Notes* de Thomson [Bucharles, 2008], il est employé en français déjà au début du XXe siècle: nouvelle acception, le terme sert à décrire la force morale de ceux qui accablés par des circonstances opposées, resurgissent. Dans une signification proche, le terme est également choisi par la discipline, bien éloignée, de la physique des matériaux: pour celle-ci résilience est la propriété d'absorber un choc et de savoir ensuite retrouver sa forme précédente [TLFi].
 
 Le vingtième siècle aura sans doute été, pour la société occidentale, celui du choc, du traumatisme: deux guerres mondiales ont marqué sa première moitié et la deuxième a été également conditionnée, en creux, par le déchaînement dés puissances destructrices humaines. Un tel traumastisme était aussi bien présent comme souvenir des survivants, de ce qui s'était passé, que comme menace quotidienne de la guerre froide: danger toujours imminent qui faisait désespérer de la possibilité de rebondir.\newline
@@ -43,17 +43,12 @@ La première catégorie
 Quel est le moment de la résilience?
 Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
 
-Resilience is the capacity of a social system (e.g., an organization, city, or
-  society) to proactively adapt to and recover from disturbances that are per-
-  ceived within the system to fall outside the range of normal and expected
-  disturbances.
+Resilience is the capacity of a social system (e.g., an organization, city, or  society) to proactively adapt to and recover from disturbances that are perceived within the system to fall outside the range of normal and expected disturbances.
 
 [Shaikh, Kauppi, 2010]
 
 Intéressant de souligner comment cette approche a déjà été prise dans la recherche de systèmes d'information "robustes":
-> is achieved by
-choosing a strategy that yields satisfactory results under all environmental scenarios
-which are assessed as having an appreciable probability of occurring
+> is achieved by choosing a strategy that yields satisfactory results under all environmental scenarios which are assessed as having an appreciable probability of occurring
 [El Sawy, Nanus, 1989]
 
 En reprenant ces études, il est intéressant de souligner que, bien que susceptible à un indéniable effet de mode, le changement lexical modifie les conditions de l'enquête en convoquant les outils d'une recherche pluridisciplinaire
