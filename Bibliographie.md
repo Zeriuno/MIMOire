@@ -16,6 +16,7 @@
 [Dauphiné, Provitolo, 2007] André Dauphiné, Damienne Provitolo, La résilience : un concept pour la gestion des risques / Resilience: a concept for risk management, *Annales de Géographie*, 116(654) :115-125, 2007.\newline
 [El Sawy, Nanus, 1989] Omar A. El Sawy, Burt Nanus, Toward the Design of Robust Information Systems, *Journal of Management Information Systems*, 5(4) :33-54, 1989.\newline
 [Falkvinge, 2013] Rick Falkvinge, *Swarmwise, The Tactical Manual to Changing the World*, CreateSpace Publishing Platform, 2013.\newline
+[Fontecedro ] Dario Fontecedro.\newline
 [Gazeneuve, 2016] Paris Normandie, *Bernard Gazeneuve : « Les Français font preuve de résilience et de fraternité* https://web.archive.org/web/20160803181600/http://www.paris-normandie.fr/region/bernard-cazeneuve--les-francais-font-preuve-de-resilience-et-de-fraternite-XK6480505.\newline
 [Hamel, Breen, 2007] Gary Hamel, Bill Breen, *The Future of Management*, Harvard Business School Press, 2007.\newline
 [Hamel, 2011] Gary Hamel, First, Let's Fire All the Manages, *Harvard Business Review*, :2-13, December 2011.\newline
