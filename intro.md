@@ -28,14 +28,17 @@ Si ici les auteurs prennent garde de souligner la possibilité que le systèmes 
 
 Toujours dans ce sens nous devrons bien reconnaître que nombre des fonctions prises en charges par le système d'information ne le sont que par le biais de l'informatisation des organisations. C'est ainsi en effet que des activités, des processus et des tâches deviennent visibles, quantifiables et, surtout, systématisables: morcelés et atomisés ils sont demandés à l'initiative individuelle et transparents au niveau organisationnel.
 
-Le degré d'informatisation du système d'information est donc un facteur déterminant pour son expansion et sa capacité d'être de support à un plus grand nombre de parties de l'organisation dont il fait partie. Cet aspect est donc directement proportionnel au degré de pervasivité du système d'information, et, parallèlement, à sa substituabilité. Ces deux indicateurs, il est intéressant de le souligner, font partie des critères qui déterminent le niveau hiérarchique du système d'information dans l'organisation [Lucas 1984].
+Le degré d'informatisation du système d'information est donc un facteur déterminant pour son expansion et sa capacité d'être de support à un plus grand nombre de parties de l'organisation dont il fait partie. Cet aspect est donc directement proportionnel au degré de pervasivité du système d'information, et, parallèlement, à sa substituabilité. Ces deux indicateurs, il est intéressant de le souligner, font partie des critères qui déterminent le niveau hiérarchique du système d'information dans l'organisation [Lucas 1984].\newline
 Intéressant de relever au passage que ces éléments font partie des caractéristiques qui permettent au SI d'avoir une place importante dans une organisation.
 
 ## Cerner la résilience
 
 Moins évasive que celle de la résilience, la définition du système d'information, en plus d'être assez consensuelle, elle permet déjà d'identifier des éléments critiques dont il sera important de garantir la résilience.
 
-Mais qu'est donc la résilience?
+Mais qu'est donc la résilience?\newline
+Si l'on essaie d'explorer le vaste champ que ce concept peut couvrir, on constate qu'à travers les différentes disciplines touchées au moins huit phénomènes tombent sous cette appéllation. Leur identification et classification a été le travail de Arshi Shaikh et Carol Kauppi, qui cernent tout d'abord deux catégories [Shaikh, Kauppi, 2010].
+
+La première
 
 Quel est le moment de la résilience?
 Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
