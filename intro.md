@@ -37,19 +37,20 @@ Moins évasive que celle de la résilience, la définition du système d'informa
 
 Mais qu'est donc la résilience?
 
+Quel est le moment de la résilience?
+Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
+
+Resilience is the capacity of a social system (e.g., an organization, city, or
+  society) to proactively adapt to and recover from disturbances that are per-
+  ceived within the system to fall outside the range of normal and expected
+  disturbances.
+
 [Shaikh, Kauppi, 2010]
 
 Différence avec la sécurité [Hollnagel 2006]
 
 > coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
 [Lucas 1984]
-
-
-## Encadrer la résilience
-
-
-
-###
 
 Un évènement se produit
 
@@ -62,16 +63,8 @@ Rôle 5 : L’information est un instrument d’ajout de valeur.
 [Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
 
 
-
 La résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 
-Quel est le moment de la résilience?
-Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
-
-Resilience is the capacity of a social system (e.g., an organization, city, or
-society) to proactively adapt to and recover from disturbances that are per-
-ceived within the system to fall outside the range of normal and expected
-disturbances.
 
 Comme le relèvent d'autres chercheurs, la variété d'approches est probablement à considérer, compte tenu de la jeunesse de ce champs d'enquête, comme un avantage [RIse of resilience]
 > We refer here to the work of scholars who, while operating from a
