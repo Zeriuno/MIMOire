@@ -31,13 +31,15 @@ Toujours dans ce sens nous devrons bien reconnaître que nombre des fonctions pr
 Le degré d'informatisation du système d'information est donc un facteur déterminant pour son expansion et sa capacité d'être de support à un plus grand nombre de parties de l'organisation dont il fait partie. Cet aspect est donc directement proportionnel au degré de pervasivité du système d'information, et, parallèlement, à sa substituabilité. Ces deux indicateurs, il est intéressant de le souligner, font partie des critères qui déterminent le niveau hiérarchique du système d'information dans l'organisation [Lucas 1984].
 Intéressant de relever au passage que ces éléments font partie des caractéristiques qui permettent au SI d'avoir une place importante dans une organisation.
 
+## Cerner la résilience
 
+Heureusement moins évasif que la résilience, le système d'information 
 
 
 > coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
 [Lucas 1984]
 
-Heureusement moins évasif que la résilience
+
 
 Face à une telle incertitude, d'ailleurs compréhensible dans le cas d'un domaine d'études encore récent, il sera difficile de parvenir à une définition restrictive du phénomène. La compréhension de quels sont les élements qui peuvent concerner notre champ d'études sera cependant plus aisée une fois que nous aurons défini celui-ci, tâche qui va donc nous retenir de manière prioritaire.
 
