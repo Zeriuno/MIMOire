@@ -24,21 +24,24 @@ Des différences existent entre les définitions du système d'information donn�
 
 > Un système d’information est [un élement d'une organisation constitué d']un ensemble d’activités qui saisissent, stockent, transforment et diffusent des données sous un ensemble de contraintes appelé l’environnement du système. Des inputs (données) sont émis par une ou plusieurs sources et traités par le système, lequel utilise aussi des données entreposées préalablement. Les résultats du traitement (outputs) sont transmis à une ou plusieurs destinations ou mettent à jour des données entreposées. Pour sa réalisation, un système d’information utilisera des technologies de l’information plus ou moins sophistiquées pouvant aller de la simple calculatrice dans le cas de systèmes très peu sophistiqués jusqu’à des réseaux d’ordinateurs extrêmement puissants, utilisant des interfaces de type multimédia.
 
-Si ici les auteurs prennent garde de souligner la possibilité que le systèmes d'information soit constitué d'une technologie rudimentaire, il est cependant intéressant de remarque que d'autres considèrent que sans "codes sources binaires [sic] les ordinateurs ne fonctionneraient plus, ils ne pourraient même s’appeler ordinateurs et il n’y aurait plus de système d’information" [Lequeux, Challande, 2009]. Cette thèse a certainement le défaut de son caractère axiomatique, accompagné du fait que les auteurs fournissent uniquement une définition en creux du système d'information. Elle a cependant le mérite de souligner l'importance des outils informatiques, quitte à l'exagérer. Si ceux-ci ne sont pas indispensables, il est cependant indéniable que la plupart des systèmes d'information reposent sur un système informatique et que le bon fonctionnement de celui-ci est à la base de celui de l'autre.
+Si ici les auteurs prennent garde de souligner la possibilité que le systèmes d'information soit constitué d'une technologie rudimentaire, il est cependant intéressant de remarque que d'autres considèrent que sans "codes sources binaires [sic] les ordinateurs ne fonctionneraient plus, ils ne pourraient même s’appeler ordinateurs et il n’y aurait plus de système d’information" [Lequeux, Challande, 2009]. Cette thèse a certainement le défaut de son caractère axiomatique, accompagné du fait que les auteurs fournissent uniquement une définition en creux du système d'information. Elle a cependant le mérite de souligner l'importance des outils informatiques, quitte à l'exagérer. Si ceux-ci ne sont pas indispensables, il est cependant indéniable que la plupart des systèmes d'information reposent sur un système informatique et que le bon fonctionnement de celui-ci est très souvent un pré-requis pour le système d'information.
+
+Toujours dans ce sens nous devrons bien reconnaître que nombre des fonctions prises en charges par le système d'information ne le sont que par le biais de l'informatisation des organisations. C'est ainsi en effet que des activités, des processus et des tâches deviennent visibles, quantifiables et, surtout, systématisables: morcelés et atomisés ils sont demandés à l'initiative individuelle
+
+Intéressant de relever au passage que ces éléments font partie des caractéristiques qui permettent au SI d'avoir une place importante dans une organisation.
+
+> coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
+[Lucas 1984]
 
 
 Heureusement moins évasif que la résilience
 
 Face à une telle incertitude, d'ailleurs compréhensible dans le cas d'un domaine d'études encore récent, il sera difficile de parvenir à une définition restrictive du phénomène. La compréhension de quels sont les élements qui peuvent concerner notre champ d'études sera cependant plus aisée une fois que nous aurons défini celui-ci, tâche qui va donc nous retenir de manière prioritaire.
 
-> coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
-[Lucas 1984]
 
 
 
 
-Bon nombre des fonctions prises en charges par le système d'information n'ont de visibilité que par le biais de l'informatisation des données. ainsi elles sont systématisées.
-Intéressant de relever au passage que ces éléments font partie des caractéristiques qui permettent au SI d'avoir une place importante dans une organisation.
 
 
 
