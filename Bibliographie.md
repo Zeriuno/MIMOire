@@ -57,3 +57,4 @@
 [Weyns, Van Dyke Parunak, Michel, 2007] Danny Weyns, H. Van Dyke Parunak, Fabien Michel, *Environments for Multi-Agent Systems III*, Springer, 2007.\newline
 [Wolter  *et alii*, 2012] Katinka Wolter *et alii*, *Resilience Assessment and Evaluation of Computing Systems*, Springer, 2012.\newline
 [Zhang, Watts, 2004] Wei Zhang, Stéphanie Watts, Knowledge Adoption in Online Communities of Practice, *Systèmes d'Information et Management*, 9(1) :81-103, 2004.\newline
+[Zwieback, 2015] Dave Zwieback, *Beyond Blame, Learning From Failure and Success*, O'Reilly, 2015.
