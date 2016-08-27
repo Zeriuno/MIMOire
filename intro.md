@@ -28,11 +28,14 @@ Si ici les auteurs prennent garde de souligner la possibilité que le systèmes 
 
 Toujours dans ce sens nous devrons bien reconnaître que nombre des fonctions prises en charges par le système d'information ne le sont que par le biais de l'informatisation des organisations. C'est ainsi en effet que des activités, des processus et des tâches deviennent visibles, quantifiables et, surtout, systématisables: morcelés et atomisés ils sont demandés à l'initiative individuelle et transparents au niveau organisationnel.
 
+Le degré d'informatisation du système d'information est donc un facteur déterminant pour son expansion et sa capacité d'être de support à un plus grand nombre de parties de l'organisation dont il fait partie. Cet aspect est donc directement proportionnel au degré de pervasivité du système d'information, et, parallèlement, à sa substituabilité. Ces deux indicateurs, il est intéressant de le souligner, font partie des critères qui déterminent le niveau hiérarchique du système d'information dans l'organisation [Lucas 1984].
 Intéressant de relever au passage que ces éléments font partie des caractéristiques qui permettent au SI d'avoir une place importante dans une organisation.
+
+
+
 
 > coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
 [Lucas 1984]
-
 
 Heureusement moins évasif que la résilience
 
@@ -184,6 +187,8 @@ viewed as a network, and the centrality measures are used to define the system�
 
 # Conclusion
 
+> coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
+[Lucas 1984]
 Critique de la résilience
 [la résilience: après tout, pourquoi? L'idée qu'il soit important de concevoir des systèmes qui fonctionnent apparaît tellement de bon sens qu'il serait possible de mener toute une enquête à ce sujet sans jamais la questionner. C'est d'ailleurs ce que nous venons de faire. La multiplicité des domaines dans lesquel ce thème a été étudié montre l'intérêt qu'il suscite et à quel point celui-ci est en adhérence avec une aspiration fondamentalment humaine. Caractérisé par une partie des primatologues et des éthologues comme l'animal qui forge, garde et améliore ses outils, l'humain trouve dans la résilience l'éclat de sa première étincelle, le parachèvement de la révolution néolitique: non plus fabricateur, non plus concepteur d'outils, l'homme entrevoit dans la résilience la possibilité de devenir le concepteur de l'outil ultime, capable de transformer tout autre instrument en l'instrument adéquat. La résilience, pierre philosophale de la conception intellectuelle.]
 
