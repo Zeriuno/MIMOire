@@ -20,11 +20,10 @@ Partisans de cette deuxième option nous essaierons dans cet exposé de justifie
 
 La multiplicité des champs d'application du concept de résilience ne facilite certainement pas sa définition, mais la tâche n'est pas pour autant plus aisées lorsque l'on se cantonne à un seul domaine. Comme le montre Serge Tisseron, même en psychologie plusieurs conceptions du phénomène se superposent, expression de courants successifs dans le temps et géographiquement différents [Tisseron, 2009], et le travail de conciliation de celles-ci est encore en cours [Aïn, 2007].
 
+Des différences existent entre les définitions du système d'information données pas les auteurs [Silver, Markus, Beath, 1995]
+Heureusement moins évasif que la résilience
+
 Face à une telle incertitude, d'ailleurs compréhensible dans le cas d'un domaine d'études encore récent, il sera difficile de parvenir à une définition restrictive du phénomène. La compréhension de quels sont les élements qui peuvent concerner notre champ d'études sera cependant plus aisée une fois que nous aurons défini celui-ci, tâche qui va donc nous retenir de manière prioritaire.
-
-
-Bon nombre des fonctions prises en charges par le système d'information n'ont de visibilité que par le biais de l'informatisation des données. ainsi elles sont systématisées.
-Intéressant de relever au passage que ces éléments font partie des caractéristiques qui permettent au SI d'avoir une place importante dans une organisation.
 
 > coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
 [Lucas 1984]
@@ -33,6 +32,11 @@ L'importance des outils informatiques est telle que certains auteurs considèren
 
 > Un système d’information est un ensemble d’activités qui saisissent, stockent, transforment et diffusent des données sous un ensemble de contraintes appelé l’environnement du système. Des inputs (données) sont émis par une ou plusieurs sources et traités par le système, lequel utilise aussi des données entreposées préalablement. Les résultats du traitement (outputs) sont transmis à une ou plusieurs destinations ou mettent à jour des données entreposées. Pour sa réalisation, un système d’information utilisera des technologies de l’information plus ou moins sophistiquées pouvant aller de la simple calculatrice dans le cas de systèmes très peu sophistiqués jusqu’à des réseaux d’ordinateurs extrêmement puissants, utilisant des interfaces de type multimédia.
 [Rivard, Talbot, 2004]
+
+
+Bon nombre des fonctions prises en charges par le système d'information n'ont de visibilité que par le biais de l'informatisation des données. ainsi elles sont systématisées.
+Intéressant de relever au passage que ces éléments font partie des caractéristiques qui permettent au SI d'avoir une place importante dans une organisation.
+
 
 
 ## Encadrer la résilience
