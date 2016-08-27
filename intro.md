@@ -63,7 +63,7 @@ Rôle 5 : L’information est un instrument d’ajout de valeur.
 [Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
 
 
-La résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
+Si l'on revient à la signification première du mot, dans le contexte de la physique des matérieaux, la résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 
 
 Comme le relèvent d'autres chercheurs, la variété d'approches est probablement à considérer, compte tenu de la jeunesse de ce champs d'enquête, comme un avantage [RIse of resilience]
