@@ -33,7 +33,9 @@ Intéressant de relever au passage que ces éléments font partie des caractéri
 
 ## Cerner la résilience
 
-Heureusement moins évasif que la résilience, le système d'information 
+Moins évasive que celle de la résilience, la définition du système d'information, en plus d'être assez consensuelle, elle permet déjà d'identifier des éléments critiques dont il sera important de garantir la résilience.
+
+Mais qu'est donc la résilience?
 
 
 > coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
