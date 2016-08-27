@@ -63,7 +63,6 @@ Rôle 5 : L’information est un instrument d’ajout de valeur.
 [Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
 
 
-Si l'on revient à la signification première du mot, dans le contexte de la physique des matérieaux, la résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 
 
 Comme le relèvent d'autres chercheurs, la variété d'approches est probablement à considérer, compte tenu de la jeunesse de ce champs d'enquête, comme un avantage [RIse of resilience]
@@ -115,6 +114,8 @@ Capacité de gérer l'erreur et de le contenir à l'intérieur d'un cadre d'équ
 Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
 
 ## Ce qui n'est pas résilience
+
+Si l'on revient à la signification première du mot, dans le contexte de la physique des matérieaux, la résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 
 Elle ne peut pas être définie de manière contractuelle.
 Lors des contrats de prestation de services, il est désormais incontournable que les deux parties s'accordent sur quels sont les paramètres clés que le service doit respecter (SLA).
