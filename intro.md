@@ -165,6 +165,8 @@ Réduction de la structuration hiérarchique
 [HAMEL 2011]
 [HAMEL 2012] "There were no titles, no bosses, and no formal hierarchy",p.193
 
+La nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contete des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
+
 Organisation par le travail
 [THERAULAZ, BONABEAU 1999]
 [SUSI, ZIEMKE 2001]
