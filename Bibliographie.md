@@ -9,6 +9,7 @@
 [Camarinha-Matos, Bénaben, Picard, 2015] Luis M. Camarinha-Matos, Frédérick Bénaben, Willy Picard, *Risks and Resilience of Collaborative Networks*, Springer, 2015.\newline
 [Caragiannis *et alii*, 2013] Ioannis Caragiannis *et alii*, *Euro-Par 2012: Parallel Processing Workshops*, Springer, 2013.\newline
 [Cataldo, Hersleb, 2013] Marcelo Cataldo, James D. Herbsleb, Coordination Breakdowns and Their Impact on Development Productivity and Software Failures, *IEEE Transactions on Software Engineering*, 39(3) : 343-360, 2013.\newline
+[Cazeneuve, 2016] Paris Normandie, *Bernard Gazeneuve : « Les Français font preuve de résilience et de fraternité* https://web.archive.org/web/20160803181600/http://www.paris-normandie.fr/region/bernard-cazeneuve--les-francais-font-preuve-de-resilience-et-de-fraternite-XK6480505.\newline
 [Chaudhry, 2014] Junaid Ahsenali Chaudhry, *Self-Healing Systems and Wireless Networks Management*, CRC Press, 2014.\newline
 [Christensen, 2013] Lars Rune Christensen, Stigmergy in human practice: Coordination in construction work, *Cognitive Systems Research*, 21 :40–51, 2013.\newline
 [Comfort *et alii*, 2001] Louise K. Comfort *et alii*, Complex Systems in Crisis: Anticipation and Resilience in Dynamic Environments, Journal of Contingencies and Crisis Management, 9(3) :144-158, 2001.\newline
@@ -19,7 +20,6 @@
 [El Sawy, Nanus, 1989] Omar A. El Sawy, Burt Nanus, Toward the Design of Robust Information Systems, *Journal of Management Information Systems*, 5(4) :33-54, 1989.\newline
 [Falkvinge, 2013] Rick Falkvinge, *Swarmwise, The Tactical Manual to Changing the World*, CreateSpace Publishing Platform, 2013.\newline
 [Fontecedro] Dario Fontecedro, https://www.youtube.com/watch?v=4r7C3P_4NoA.\newline
-[Gazeneuve, 2016] Paris Normandie, *Bernard Gazeneuve : « Les Français font preuve de résilience et de fraternité* https://web.archive.org/web/20160803181600/http://www.paris-normandie.fr/region/bernard-cazeneuve--les-francais-font-preuve-de-resilience-et-de-fraternite-XK6480505.\newline
 [Hamel, Breen, 2007] Gary Hamel, Bill Breen, *The Future of Management*, Harvard Business School Press, 2007.\newline
 [Hamel, 2011] Gary Hamel, First, Let's Fire All the Manages, *Harvard Business Review*, :2-13, December 2011.\newline
 [Hamel, 2012] Gary Hamel, *What Matters Now*, Jossey-Bass, 2012.\newline
