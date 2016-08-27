@@ -1,6 +1,7 @@
 # Bibliographie
 
 [Aïn, 2007] Joyce Aïn, *Résiliences : Réparation, élaboration ou création*, Erès, 2007.\newline
+[Benassar, 2010] Matthieu Benassar, *Plan de continuité des activités et système d'information: vers l'entreprise résiliente*, Dunod, 2010.\newline
 [Berleur, David Hercheui, Hilty, 2010] Jaques Berleur,Magda David Hercheui, Lorenz M. Hilty, *What Kind of Information Society. Governance, Virtuality, Surveillance, Sustainability, Resilience*, Springer, 2010.\newline
 [Boin, McConnel, 2007] Arjen Boin, Allan McConnell, Preparing for Critical Infrastructure Breakdowns: The Limits of Crisis Management and the Need for Resilience, *Journal of Contingencies and Crisis Management*, 15(1) :51-59, 2007.\newline
 [Branscomb, Gazis, 1977] Lewis M. Branscomb, Denos C. Gazis, Resilience, Hypotheticality and Computers-Designing Social Systems under Uncertainty, *Proceedings of the American Philosophical Society*, 121(5) :346-349, 1977.\newline

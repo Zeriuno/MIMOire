@@ -150,7 +150,7 @@ Ou bien il existe des cas dans lesquels démander la solution à un niveau syst�
 Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
 Self-Healing Systems
 
-PRA et PCA
+PRA et PCA (ISO 22301)[Benassar, 2010]
 
 Prévision des échecs, premortem
 [Smith *et alii*, 2014]
