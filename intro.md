@@ -43,7 +43,7 @@ La première catégorie
 Quel est le moment de la résilience?
 Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
 
-Resilience is the capacity of a social system (e.g., an organization, city, or  society) to proactively adapt to and recover from disturbances that are perceived within the system to fall outside the range of normal and expected disturbances.
+Resilience is the capacity of a social system (e.g., an organization, city, or  society) to proactively adapt to and recover from disturbances that are perceived within the system to fall outside the range of normal and expected disturbances.[Comfort et al., 2010]
 
 [Shaikh, Kauppi, 2010]
 

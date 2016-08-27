@@ -30,6 +30,7 @@
 [Keromytis, 2006] Angelos D. Keromytis, *Characterizing Self-Healing Software Systems*, Ashgate, 2006.\newline
 [Kwan *et alii*, 2012] Irwin Kwan *et alii*, Conway's Law Revisited: The Evidence For a Task-based Perspective, *IEEE Software*, 29(1), 2012.\newline
 [Konsynski, 1984/1985] Benn R. Konsynski, Advances in Information System Design, *Journal of Management Information Systems*, 1(3) :5-32, 1984/1985.\newline
+[Le Blanc, Nicolas, 2013] Antoine Le Blanc, Thierry Nicolas, « Politiques et pratiques de la résilience », *EchoGéo* [Online], 24, http://echogeo.revues.org/13451, 2013.
 [Lequeux, Challande, 2009] Jean-Louis Lequeux, Jean-Francois Challande, *Le grand livre du DSI. Mettre en oeuvre la direction des systemes d'information 2.0*, Eyrolles, 2009.\newline
 [Lucas 1984] Henry C. Lucas, Jr., Organizational power and the information services department, 27(1) :58-65, 1984.\newline
 [Moisand, Garnier de Labareyre, 2009] Dominique Moisand, Fabrice Garnier de Labareyre, *CobiT pour une meilleure gouvernance des systèmes d'information*, Eyrolles, 2009.\newline
