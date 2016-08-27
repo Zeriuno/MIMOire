@@ -176,6 +176,9 @@ Organisation par le travail
 
 ### Mesurer la résilience
 
+Facilité de mesurer la résilience des matériaux, via le test d'Augustin-Charles-Marie Mesnager et de Georges Charpy,
+ASTM E23, EN ISO 179-1 et -2, ISO 148-1, -2 et -3.
+
 Cartographie des processus
 Cartographie du SI
 Création de centres de gravitation: le `try`, par exemple, fais cela au niveau de l'exécution du langage de programmation.
