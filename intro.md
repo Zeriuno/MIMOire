@@ -179,6 +179,8 @@ viewed as a network, and the centrality measures are used to define the system�
 
 # Conclusion
 
+La résilience, un concept que l'on peut construire de manière pluridisciplinaire: The construct of resilience has captured the imagination of researchers across various disciplines
+over the last five decades.[Shaikh, Kauppi, 2010]
 > coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
 [Lucas 1984]
 Critique de la résilience
