@@ -24,7 +24,7 @@ Des différences existent entre les définitions du système d'information donn�
 
 > Un système d’information est [un élement d'une organisation constitué d']un ensemble d’activités qui saisissent, stockent, transforment et diffusent des données sous un ensemble de contraintes appelé l’environnement du système. Des inputs (données) sont émis par une ou plusieurs sources et traités par le système, lequel utilise aussi des données entreposées préalablement. Les résultats du traitement (outputs) sont transmis à une ou plusieurs destinations ou mettent à jour des données entreposées. Pour sa réalisation, un système d’information utilisera des technologies de l’information plus ou moins sophistiquées pouvant aller de la simple calculatrice dans le cas de systèmes très peu sophistiqués jusqu’à des réseaux d’ordinateurs extrêmement puissants, utilisant des interfaces de type multimédia.
 
-
+Il est intéressant de remarquer comment l'auteur 
 
 Heureusement moins évasif que la résilience
 
