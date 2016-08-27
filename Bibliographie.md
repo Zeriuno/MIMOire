@@ -17,7 +17,7 @@
 [Dauphiné, Provitolo, 2007] André Dauphiné, Damienne Provitolo, La résilience : un concept pour la gestion des risques / Resilience: a concept for risk management, *Annales de Géographie*, 116(654) :115-125, 2007.\newline
 [El Sawy, Nanus, 1989] Omar A. El Sawy, Burt Nanus, Toward the Design of Robust Information Systems, *Journal of Management Information Systems*, 5(4) :33-54, 1989.\newline
 [Falkvinge, 2013] Rick Falkvinge, *Swarmwise, The Tactical Manual to Changing the World*, CreateSpace Publishing Platform, 2013.\newline
-[Fontecedro ] Dario Fontecedro.\newline
+[Fontecedro] Dario Fontecedro.\newline
 [Gazeneuve, 2016] Paris Normandie, *Bernard Gazeneuve : « Les Français font preuve de résilience et de fraternité* https://web.archive.org/web/20160803181600/http://www.paris-normandie.fr/region/bernard-cazeneuve--les-francais-font-preuve-de-resilience-et-de-fraternite-XK6480505.\newline
 [Hamel, Breen, 2007] Gary Hamel, Bill Breen, *The Future of Management*, Harvard Business School Press, 2007.\newline
 [Hamel, 2011] Gary Hamel, First, Let's Fire All the Manages, *Harvard Business Review*, :2-13, December 2011.\newline
@@ -27,6 +27,7 @@
 [Hollnagel, Woods, Leveson, 2006] Erik Hollnagel, David D. Woods, Nancy Leveson, *Resilience Engineering Concepts and Precepts*, Ahgate, 2006.\newline
 [Hyslop, 2007] Maitland Hyslop, *Critical Information Infrastructures. Resilience and Protection*, Springer, 2007.\newline
 [Keromytis, 2006] Angelos D. Keromytis, *Characterizing Self-Healing Software Systems*, Ashgate, 2006.\newline
+[Kwan *et alii*, 2012] Irwin Kwan *et alii*, Conway's Law Revisited: The Evidence For a Task-based Perspective, *IEEE Software*, 29(1), 2012.\newline
 [Konsynski, 1984/1985] Benn R. Konsynski, Advances in Information System Design, *Journal of Management Information Systems*, 1(3) :5-32, 1984/1985.\newline
 [Lequeux, Challande, 2009] Jean-Louis Lequeux, Jean-Francois Challande, *Le grand livre du DSI. Mettre en oeuvre la direction des systemes d'information 2.0*, Eyrolles, 2009.\newline
 [Lucas 1984] Henry C. Lucas, Jr., Organizational power and the information services department, 27(1) :58-65, 1984.\newline

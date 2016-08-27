@@ -174,6 +174,7 @@ Organisation par le travail
 [THERAULAZ, BONABEAU 1999]
 [SUSI, ZIEMKE 2001]
 [ZHANG, WATTS 2004]
+[Kwan *et alii*, 2012]
 [Cataldo, Hersleb, 2013]
 
 ### Mesurer la résilience
