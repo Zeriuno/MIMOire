@@ -73,10 +73,16 @@ Celle-ci constitue d'ailleurs un prisme qui est à la fois le garant de la possi
 
 > It is practically a characteristic of human nature – and an inescapable one at that – to try to make sense of what has happened, to try to make the perceived world comprehensible. We are consequently constrained to look at the future in the light of the past. In this way our experience or understanding of what has happened inevitably colours our anticipation and preparation for what could go wrong and thereby holds back the requisite imagination that is so essential for safety
 
-Dans ce sens la sécurité se définit comme une palette d'outils et procédures pour anticiper ou répondre aux scénarios que l'expérience a donné à connaître, 
+Dans ce sens la sécurité se définit comme une palette d'outils et procédures pour anticiper ou répondre aux scénarios que l'expérience a donné à connaître. Cependant, l'expérience se renouvellant sans cesse, la sécurité finit facilement par prévenir les menaces du passé et être prise en faille par celles du présent.
+
+> Approaches to safety and risk prediction furthermore develop in an
+incremental manner, i.e., the tried and trusted approaches are only
+changed when they fail and then usually by adding one more factor or
+element to account for the unexplained variability.
+
+Une fois que l'on prend en compte ces précision, il apparaît donc clairement que la résilience, tout en pouvant inclure la sécurité, vise une approche qui dépasse celle-ci. Elle ambitionne la construction d'un système qui ne se construit pas par les échecs successifs, mais qui est capable de se confronter de manière efficiente avec un nombre de problèmes exponentiellement plus vaste que celui des solutions singulières prévues, un système dont le fonctionnement en équilibre stable permet de ramener les menaces à des archétypes maîtrisables.
 
 
-Illusion de la maîtrise des systèmes complexes [Hollnagel *et alii*, 2011]
 Si l'on revient à la signification première du mot, dans le contexte de la physique des matérieaux, la résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 
 Elle ne peut pas être définie de manière contractuelle.
