@@ -48,7 +48,10 @@ Moins nombreuses, les définitions dans le domaine de la sociologie se concentre
 
 
 Compte tenu de ces définitions et des critiques auxquelles elles ont donné lieu, nous pourrons nous attacher à l'étude de la résilience en la considérant tout d'abord comme un phénomène pluriel. Celui-ci se construit aussi bien à l'échelle individuelle, microscopique, qu'à niveau du systémique, systémique, justement nos deux niveaux d'enquête.\newline
-La résilience est à la fois une caractéristique statique propre aux éléments qu'un phénomène dynamique conjoncturel.
+La résilience est à la fois une caractéristique statique propre aux éléments ainsi qu'un phénomène dynamique conjoncturel.
+Si elle se défnit par rapport à des perturbations de l'environnement, le moment où la résilience entre en jeux bien être celui de la préparation. Dans ce dernier les éléments convoqués pour constituer le système permettent de constituer un environnement qui sera résilient dans la mesure où son fonctionnement normal sera capable d'absorber et contourner, quelque part d'ignorer, des facteurs qui seraient autrement critiques.
+de la récupération, quand la perturbation a eu lieu et le système doit gérer ses conséquences. Nous allons également prendre en compte le moment de la confrontation, quand la perturbation se manifeste et risque de compromettre le système, ainsi que le moment
+
 Quel est le moment de la résilience?
 Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
 
