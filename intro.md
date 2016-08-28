@@ -40,6 +40,7 @@ Mais qu'est donc la résilience?\newline
 Si l'on essaie d'explorer le vaste champ que ce concept peut couvrir, on constate qu'à travers les différentes disciplines touchées au moins huit phénomènes tombent sous cette appéllation. Leur identification et classification a été le travail de Arshi Shaikh et Carol Kauppi, qui cernent tout d'abord deux catégories [Shaikh, Kauppi, 2010].
 
 La première catégorie
+La deuxième catégorie
 
 Quel est le moment de la résilience?
 Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
@@ -146,6 +147,10 @@ Tolérance aux pannes
 
 à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème. (ZFS)
 Nécessité d'une approche macroscopique, une approche que nous allons définir comme "systémique", tandis que d'autres, notamment le professeur Dario Fonecedro, pourraient voir comme "holistique" [Fontecedro].
+C'est d'ailleurs cet aspect, la nécessité de prendre en compte le système dans lequel la résilience se manifeste que des chercheurs soulignent comme nécessaire lorsqu'on définit le phénomène [Shaikh, Kauppi, 2010]:
+
+> The exercise of personal agency may take place within the context of personality disposition, past experiences, current situation, cumulative risks/adversities, future goals, physical ecology, social factors, structural conditions and personal understandings of oneself and the world around us. At the same time, resilient individuals require resilient physical and social ecologies which are culturally determined. The physical ecology may include tangible aspects of environment such as the quality of housing, water, safety of streets and levels of pollutants in the air. The social ecology may include personal attachments and structural supports like schools, transportation, and health care.
+
 Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
 Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
 Self-Healing Systems
