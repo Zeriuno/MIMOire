@@ -82,9 +82,8 @@ element to account for the unexplained variability.
 
 Une fois que l'on prend en compte ces précision, il apparaît donc clairement que la résilience, tout en pouvant inclure la sécurité, vise une approche qui dépasse celle-ci. Elle ambitionne la construction d'un système qui ne se construit pas par les échecs successifs, mais qui est capable de se confronter de manière efficiente avec un nombre de problèmes exponentiellement plus vaste que celui des solutions singulières prévues, un système dont le fonctionnement en équilibre stable permet de ramener les menaces à des archétypes maîtrisables.
 
-
-Si l'on revient à la signification première du mot, dans le contexte de la physique des matérieaux, la résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
-
+Car en effet la résilience est une propriété inhérente au système, que celui-ci soit la structure physio-chimique d'un métal ou bien le complexe ensemble d'acteurs qui constitue une organisation sociale.\newline
+En tant que telle il est donc clair qu'elle se construit et prépare, mais la résilience ne peut pas être dictée ou exigée.
 Elle ne peut pas être définie de manière contractuelle.
 Lors des contrats de prestation de services, il est désormais incontournable que les deux parties s'accordent sur quels sont les paramètres clés que le service doit respecter (SLA).
 Ainsi un service d'hébergement pourra s'engager à rendre les serveurs loués par son client accessibles 23 heures et 50 minutes par jour. La transaction commerciale se structure ainsi autour non seulement d'un service principal qui est rendu, mais aussi de la prise en charge des cas d'échec de celui-ci. L'obbligation stipulée est dans ce cas une obligation de résultats et non de moyens.
