@@ -50,18 +50,15 @@ Moins nombreuses, les définitions dans le domaine de la sociologie se concentre
 Compte tenu de ces définitions et des critiques auxquelles elles ont donné lieu, nous pourrons nous attacher à l'étude de la résilience en la considérant tout d'abord comme un phénomène pluriel. Celui-ci se construit aussi bien à l'échelle individuelle, microscopique, qu'à niveau du systémique, systémique, justement nos deux niveaux d'enquête.\newline
 La résilience est à la fois une caractéristique statique propre aux éléments ainsi qu'un phénomène dynamique conjoncturel.
 Si elle se défnit par rapport à des perturbations de l'environnement, le moment où la résilience entre en jeux bien être celui de la préparation. Dans ce dernier les éléments convoqués pour constituer le système permettent de constituer un environnement qui sera résilient dans la mesure où son fonctionnement normal sera capable d'absorber et contourner, quelque part d'ignorer, des facteurs qui seraient autrement critiques.
-de la récupération, quand la perturbation a eu lieu et le système doit gérer ses conséquences. Nous allons également prendre en compte le moment de la confrontation, quand la perturbation se manifeste et risque de compromettre le système, ainsi que le moment
+Le moment peut également être celui de la confrontation, quand la perturbation se manifeste et risque de compromettre le système, ainsi que le moment, plus visible, du fait de l'interruption à la quelle il fait suite, de la récupération, quand la perturbation a eu lieu et le système doit gérer ses conséquences.
 
-Quel est le moment de la résilience?
-Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
+L'effet de la résilience sera également conçu de manière large: l'aboutissement pourra aussi bien être la récupération de la situation précédente à la perturbation, un fonctionnement ordinaire, ou bien une amélioration de celui-ci.
 
-Resilience is the capacity of a social system (e.g., an organization, city, or  society) to proactively adapt to and recover from disturbances that are perceived within the system to fall outside the range of normal and expected disturbances.[Comfort et al., 2010]
+Pour conclue notre définition, nous pourrons relever la proximité entre ce domaine d'études, tel que nous venons de le définir, et le champ de recherche du système d'information robuste. Celui-ci [El Sawy, Nanus, 1989]:
 
-[Shaikh, Kauppi, 2010]
-
-Intéressant de souligner comment cette approche a déjà été prise dans la recherche de systèmes d'information "robustes":
 > is achieved by choosing a strategy that yields satisfactory results under all environmental scenarios which are assessed as having an appreciable probability of occurring
-[El Sawy, Nanus, 1989]
+
+En effet cette définition touche au cas de la "résilience de préparation" ou même "de confrontation". Que ceux-ci aient fait déjà l'objet d'études et théorisation nous confirme leur intérêt, mais, plus encore, le fait de pouvoir les encadrer de manière plus large avec la "résilience de récupération" nous confirme l'utilité d'une approche multidisciplinaire
 
 En reprenant ces études, il est intéressant de souligner que, bien que susceptible à un indéniable effet de mode, le changement lexical modifie les conditions de l'enquête en convoquant les outils d'une recherche pluridisciplinaire
 
