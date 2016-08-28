@@ -44,7 +44,7 @@ Une deuxième facette de la résilience est celle qui la définit comme la capac
 Complémentaire à cette vision, une autre définition de la résilience s'attache plutôt à l'étude des processus dans lesquels des caractéristques, neutres dans un état de départ, se mettent en relation et constituent un méchanisme d'adaptation. Une approche intéressante et suivie dans le cadre de plusieurs expériences, qui se heurte par contre à la difficulté de modéliser des situations dans lesquelles les facteurs de risque sont multiples ainsi que les effets des caractéristiques mobilisées.\newline
 Proche des définitions déjà exposées, une autre qui a été formulée est celle de la résilience comme capacité d'enclencher, lors de l'apparition d'éléments perturbateurs, un processus adaptatif et continu sur une durée de temps qui permet de les dépasser. La résilience est ici à l'œuvredans des efforts continus au niveau cognitif et comportamental pour gérer des demandes externes ou bien internes qui sont perçues comme lourde ou même excessives par rapport aux ressources du sujet en question.\newline
 Expérience de récupération après un traumatisme (on revient plus fort ou pas?)\newline
-Moins nombreuses, les définitions dans le domaine de la sociologie se concentrent sur le comportement dans un contexte structurellement hostile.
+Moins nombreuses, les définitions dans le domaine de la sociologie se concentrent sur le comportement dans un contexte structurellement hostile. Dans une première définition du terme, c'est l'association humaine qui résiste à l'ordre ou aux conditions structurelles auxquelles elle est soumise.
 
 Quel est le moment de la résilience?
 Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
