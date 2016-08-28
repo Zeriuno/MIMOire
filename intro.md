@@ -31,6 +31,7 @@ Toujours dans ce sens nous devrons bien reconnaître que nombre des fonctions pr
 
 Le degré d'informatisation du système d'information est donc un facteur déterminant pour son expansion et sa capacité d'être de support à un plus grand nombre de parties de l'organisation dont il fait partie. Cet aspect est donc directement proportionnel au degré de pervasivité du système d'information, et, parallèlement, à sa substituabilité. Ces deux indicateurs, il est intéressant de le souligner, font partie des critères qui déterminent le niveau hiérarchique du système d'information dans l'organisation [Lucas 1984].\newline
 Intéressant de relever au passage que ces éléments font partie des caractéristiques qui permettent au SI d'avoir une place importante dans une organisation.
+\newpage
 
 ### Cerner la résilience
 
@@ -84,16 +85,17 @@ Une fois que l'on prend en compte ces précision, il apparaît donc clairement q
 
 Car en effet la résilience est une propriété inhérente au système, que celui-ci soit la structure physio-chimique d'un métal ou bien le complexe ensemble d'acteurs qui constitue une organisation sociale.\newline
 En tant que telle il est donc clair qu'elle se construit et prépare, mais la résilience ne peut pas être dictée ou exigée, elle est bien plus complexe qu'une procédure uniquement déclarative. Ainsi un service ne sera pas résilient pas plus qu'un serveur ne sera sécurisé uniquement parce que cela a été affirmé, exigé ou même juré.\newline
-Les conditions contractuelles rentrent justement dans ce cas de figure: un système d'information peut tout à fait abdiquer son système informatique et le confier à un tiers. Cela est doit bien évidemment être encadré par un accord précisant quel est le service à rendre et quantifiant de manière précise quel est le niveau minimum demandé. De tels accords ont bien évidemment force juridique en cas de manquement des parties, permettent à la direction de pouvoir se délester de responsabilités et l'arment du puissant recours du blâme: celle-ci est une posture très avantageuse en termes hiérarchiques, tout autant qu'elle est improductive [Zwieback, 2015]. Mais du point de vue qui nous retient dans notre recherche, ces contrats ne construisent pas un système résilient: au plus, ils le postulent chez le tiers avec lequel le contrat est passé, tout en déplaçant le périmètre de résilience qui reste à construire dans son propre système d'information.
+Les conditions contractuelles rentrent justement dans ce cas de figure: un système d'information peut tout à fait abdiquer son système informatique et le confier à un tiers. Cela est doit bien évidemment être encadré par un accord précisant quel est le service à rendre et quantifiant de manière précise quel est le niveau minimum demandé. De tels accords seront de manière inévitable amputés des circonstances extraordinaires auxquelles en partie la résilience ambitionne à faire face. Pour le restant, ils ont bien évidemment force juridique en cas de manquement des parties, permettent à la direction de pouvoir se délester de responsabilités et l'arment du puissant recours du blâme: celle-ci est une posture très avantageuse en termes hiérarchiques, tout autant qu'elle est improductive [Zwieback, 2015]. Mais du point de vue qui nous retient dans notre recherche, ces contrats ne construisent pas un système résilient, tout au plus ils le postulent chez le tiers avec lequel le contrat est passé. Et en parallèle, ils changent le périmètre de résilience qui reste à construire dans son propre système d'information, tout en rendant ce travail plus difficile, car de tels accords amoindrissent la visibilité du système, les outils et les recours disponibles.
+\newpage
 
 ### Solutions à des problèmes
 
-On a pu rappeller comment la place du système d'information dans une organisation est étroitement liée, tant en terme de développement historique qu'au niveau de son bon fonctionnement. Il n'est donc pas étonnant que nombre des outils de la résilience du SI soient ceux du système informatique, ou bien en soient dérivés.
+On a pu rappeller comment la place du système d'information dans une organisation est étroitement liée, tant en terme de développement historique qu'au niveau de son bon fonctionnement. Il n'est donc pas étonnant que nombre des outils de la résilience du SI soient ceux du système informatique, ou bien en soient dérivés.\newline
 Il s'agit dans ce cas de nombreuses solutions qui ont été élaborées depuis nombre d'années et qui ont principalement un aspect pratique.
 Éviter les goulots d'étranglement et les SPOF, créer de doubles parcours. Cela a une application dans la partie technique du SI, tout comme dans celle humaine (dans laquelle les SPOF sont représentés par la repartition des connaissances -approche agile- ainsi que par la hiérarchie)
 
-Atomisation de l'information (paquet)
-Redondance (paquets, backup)
+Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique
+Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming)
 Tolérance aux pannes
 
 -> résilience dans la vision géographique
