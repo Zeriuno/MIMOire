@@ -96,6 +96,7 @@ Il s'agit dans ce cas de nombreuses solutions qui ont été élaborées depuis n
 
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique
 Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming)
+Contrôle de l'erreur, audit
 Tolérance aux pannes
 
 -> résilience dans la vision géographique
