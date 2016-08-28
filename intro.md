@@ -146,10 +146,13 @@ Tolérance aux pannes
 ## Echelle macroscopique
 
 à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème. (ZFS)
-Nécessité d'une approche macroscopique, une approche que nous allons définir comme "systémique", tandis que d'autres, notamment le professeur Dario Fonecedro, pourraient voir comme "holistique" [Fontecedro].
-C'est d'ailleurs cet aspect, la nécessité de prendre en compte le système dans lequel la résilience se manifeste que des chercheurs soulignent comme nécessaire lorsqu'on définit le phénomène [Shaikh, Kauppi, 2010]:
+Nécessité d'une approche macroscopique, une approche que nous allons définir comme "systémique", tandis que d'autres, notamment le professeur Dario Fonecedro, pourraient voir comme "holistique" [Fontecedro].\newline
+C'est d'ailleurs cet aspect, la nécessité de prendre en compte le système dans lequel la résilience se manifeste que des chercheurs soulignent comme nécessaire lorsqu'on définit le phénomène, d'autant plus que cette rélation est bidirectionnelle [Shaikh, Kauppi, 2010]:
 
-> The exercise of personal agency may take place within the context of personality disposition, past experiences, current situation, cumulative risks/adversities, future goals, physical ecology, social factors, structural conditions and personal understandings of oneself and the world around us. At the same time, resilient individuals require resilient physical and social ecologies which are culturally determined. The physical ecology may include tangible aspects of environment such as the quality of housing, water, safety of streets and levels of pollutants in the air. The social ecology may include personal attachments and structural supports like schools, transportation, and health care.
+> The degree of resilience displayed by a person in a given context is dependent upon the extent to which that context contains elements to nurture resilience. If an individual does not adapt to adverse circumstances, the reason might be that the environment lacks the resilience to negotiate
+with the individual and to provide what is needed. In such a case, an individual’s environment lacks resilience and not the individual per se. Hence it can be said that resilient individuals require resilient families and resilient communities. However, this relationship between individual resilience and the resilience of the families and communities is not unidirectional.\newline
+[...]\newline
+Resiliency cannot be researched by merely focusing on these individual-level factors. Instead careful attention must be paid to the structural deficiencies (e.g., social and economic policies) that might need to be changed in order for individuals, families and communities to become stronger, more competent and better functioning in the adverse situations.
 
 Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
 Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
