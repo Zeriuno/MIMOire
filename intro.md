@@ -42,7 +42,7 @@ Si l'on essaie d'explorer le vaste champ que ce concept peut couvrir, on constat
 Travaillant à plusieur niveaux de profondeur, la rélience psychologique se démontre plus vaste et moins uniforme. Elle est tut d'abord un trait de la personnalité des individus, optimistes, amenés à une interaction positive avec les autres, équanimes, pérséverants. Intéressante à un premier niveau d'analyse, cette approche est problématique en raison de son caractère statique et absolu qui ne permet pas d'envisager un véritable travail de construction de la résilience, notamment à un niveau supérieur à celui de l'individu isolé.\newline
 Une deuxième facette de la résilience est celle qui la définit comme la capacité à opérer une adaptation positive dans un contexte de forte adversité ou risque. La difficulté d'appréciation, à la fois subjective et objective de ce qui est un contexte de risque ou adversité fait l'objet de nombreuses critiques de la part des chercheurs. Une critique qui aboutit à une troisième vision de la résilience, comme propriété permettant une adaptation positive, ce qui élude ainsi le problème de la définition du contexte.\newline
 Complémentaire à cette vision, une autre définition de la résilience s'attache plutôt à l'étude des processus dans lesquels des caractéristques, neutres dans un état de départ, se mettent en relation et constituent un méchanisme d'adaptation. Une approche intéressante et suivie dans le cadre de plusieurs expériences, qui se heurte par contre à la difficulté de modéliser des situations dans lesquelles les facteurs de risque sont multiples ainsi que les effets des caractéristiques mobilisées.\newline
-processus adaptatif et continu sur une durée de temps qui permet 
+processus adaptatif et continu sur une durée de temps qui permet
 Plus réduite, la deuxième catégorie
 
 Quel est le moment de la résilience?
@@ -149,6 +149,7 @@ Tolérance aux pannes
 ## Echelle macroscopique
 
 à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème. (ZFS)
+
 Nécessité d'une approche macroscopique, une approche que nous allons définir comme "systémique", tandis que d'autres, notamment le professeur Dario Fonecedro, pourraient voir comme "holistique" [Fontecedro].\newline
 C'est d'ailleurs cet aspect, la nécessité de prendre en compte le système dans lequel la résilience se manifeste que des chercheurs soulignent comme nécessaire lorsqu'on définit le phénomène, d'autant plus que cette rélation est bidirectionnelle [Shaikh, Kauppi, 2010]:
 
@@ -158,6 +159,11 @@ with the individual and to provide what is needed. In such a case, an individual
 Resiliency cannot be researched by merely focusing on these individual-level factors. Instead careful attention must be paid to the structural deficiencies (e.g., social and economic policies) that might need to be changed in order for individuals, families and communities to become stronger, more competent and better functioning in the adverse situations.
 
 Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
+
+>A big thing they are saying in the paper is that they want to see data center HDDs that care slightly less about their medium error rates and opt to give better areal density and more consistent tail latencies and let the system above it to handle the reliability as it needs to do anyway.
+I've been thinking like this for a while and would tend to reduce the ERC (Error Recovery Control) to a minimum but the disks are still not designed to have these at very low numbers and Google has several interesting ideas in their paper along these lines.
+(Google datacenter).
+
 Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
 Self-Healing Systems
 
