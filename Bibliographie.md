@@ -58,7 +58,7 @@
 [TLFi] *Trésor de la langue française informatisé*, http://atilf.atilf.fr/dendien/scripts/tlfiv4/showps.exe?p=combi.htm;java=no;.\newline
 [TPB] *The Pirate Bay*, https://web.archive.org/web/20160125114847/https://thepiratebay.se/.\newline
 [Wang , Gao, Ip, 2010] J. W. Wang , F. Gao, W. H. Ip, Measurement of resilience and its application to enterprise information systems, *Enterprise Information Systems*, 4(2) :s215-223, 2010.\newline
-????[Weyns, Van Dyke Parunak, Michel, 2007] Danny Weyns, H. Van Dyke Parunak, Fabien Michel, *Environments for Multi-Agent Systems II*, Springer, 2007.\newline
+[Weyns, Van Dyke Parunak, Michel, 2007] Danny Weyns, H. Van Dyke Parunak, Fabien Michel, *Environments for Multi-Agent Systems II*, Springer, 2006.\newline
 [Weyns, Van Dyke Parunak, Michel, 2007] Danny Weyns, H. Van Dyke Parunak, Fabien Michel, *Environments for Multi-Agent Systems III*, Springer, 2007.\newline
 [Wolter  *et alii*, 2012] Katinka Wolter *et alii*, *Resilience Assessment and Evaluation of Computing Systems*, Springer, 2012.\newline
 [Zhang, Watts, 2004] Wei Zhang, Stéphanie Watts, Knowledge Adoption in Online Communities of Practice, *Systèmes d'Information et Management*, 9(1) :81-103, 2004.\newline
