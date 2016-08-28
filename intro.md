@@ -64,8 +64,9 @@ En effet cette définition touche au cas de la "résilience de préparation" ou 
 
 ### Ce qui n'est pas résilience
 
-Il apparaît est utile de souligner quelles sont les différences entre la résilience telle que nous l'avons définie et la sécurité
-Différence avec la sécurité [Hollnagel 2006]
+Il apparaît maintenant utile de souligner des aspects qui ne rentrent pas dans le champs de la résilience telle que nous l'avons définie tout en présentant des points de contact avec celle-ci.\newline
+Dans ce sens une première distinction doit être établie avec la sécurité
+[Hollnagel, Woods, Leveson, 2006]
 
 Illusion de la maîtrise des systèmes complexes [Hollnagel *et alii*, 2011]
 Si l'on revient à la signification première du mot, dans le contexte de la physique des matérieaux, la résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
