@@ -74,20 +74,12 @@ Rôle 3 : L’information est essentielle à la coordination des processus.
 Rôle 4 : L’information permet d’évaluer la performance des processus.
 Rôle 5 : L’information est un instrument d’ajout de valeur.
 [Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
-
-
-> We refer here to the work of scholars who, while operating from a
-variety of academic disciplines, are making an interdisciplinary effort to
-further our knowledge about resilience. This literature is brimming with
-ideas on how to conceptualize resilience. It harbors a distinct theoretical
-approach that is inspired by biological-systems thinking and complexity
-theory. This literature provides us with a good sense of how resilience func-
-tions in complex systems.[RIse of resilience]
+[Rivard, Talbot, 2004]
 
 >Policy scholars explain how hard it is to elevate these types of issues
 to the top of the decision-making agenda (Baumgartner and Jones 1993;
 Birkland 2006). Organization theorists offer helpful insights with regard to creating cultures that may enhance and sustain resilience (LaPorte 2007;
-Schulman and Roe 2007).[RIse of resilience]
+Schulman and Roe 2007).[Comfort, Boin, Demchak, 2010]
 
 > A critical approach that distinguishes this book from other discussions
 of resilience is its inquiry into sociotechnical systems. The literature on
@@ -111,7 +103,7 @@ zational performance (Coakes, Willis, and Clarke 2002). Such changing
 conditions require considerable integrative efforts to understand the dual
 nature of these technologies. They can be harnessed to effective decision
 support in large-scale events, but they also impose new or enhanced con-
-straints on organizational action.[RIse of resilience]
+straints on organizational action.[Comfort, Boin, Demchak, 2010]
 
 
 Illusion de la maîtrise des systèmes complexes (HOLLNAGEL, PARIES...)
