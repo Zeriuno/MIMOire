@@ -62,14 +62,10 @@ Pour conclure notre définition, nous pourrons relever la proximité entre ce do
 
 En effet cette définition touche au cas de la "résilience de préparation" ou même "de confrontation". Que ceux-ci aient fait déjà l'objet d'études et théorisation nous confirme leur intérêt, mais, plus encore, le fait de pouvoir les encadrer de manière plus large avec la "résilience de récupération" nous confirme l'utilité d'une approche multidisciplinaire capable d'apporter un questionnement nouveau et enrichissant.
 
-### Résilience et sécurité
+### Ce qui n'est pas résilience
 
 Il apparaît est utile de souligner quelles sont les différences entre la résilience telle que nous l'avons définie et la sécurité
 Différence avec la sécurité [Hollnagel 2006]
-
-> coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
-[Lucas 1984]
-
 
 > LES MULTIPLES RÔLES DE L’INFORMATION DANS LA CHAÎNE DE VALEUR
 Rôle 1 : L’information joue un rôle de soutien aux processus de production.
@@ -122,8 +118,6 @@ Illusion de la maîtrise des systèmes complexes (HOLLNAGEL, PARIES...)
 
 -> résilience dans la vision géographique
 Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
-
-## Ce qui n'est pas résilience
 
 Si l'on revient à la signification première du mot, dans le contexte de la physique des matérieaux, la résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
 
