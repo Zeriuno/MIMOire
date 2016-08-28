@@ -46,6 +46,9 @@ Proche des définitions déjà exposées, une autre qui a été formulée est ce
 Expérience de récupération après un traumatisme (on revient plus fort ou pas?)\newline
 Moins nombreuses, les définitions dans le domaine de la sociologie se concentrent sur le comportement dans un contexte structurellement hostile. Dans une première définition du terme, c'est l'association humaine qui résiste à l'ordre ou aux conditions structurelles auxquelles elle est soumise.
 
+
+Compte tenu de ces définitions et des critiques auxquelles elles ont donné lieu, nous pourrons nous attacher à l'étude de la résilience en la considérant tout d'abord comme un phénomène pluriel. Celui-ci se construit aussi bien à l'échelle individuelle, microscopique, qu'à niveau du systémique, systémique, justement nos deux niveaux d'enquête.\newline
+La résilience est à la fois une caractéristique statique propre aux éléments qu'un phénomène dynamique conjoncturel.
 Quel est le moment de la résilience?
 Quel est l'aboutissement? Retour en arrière ou nouvel état? FOnctionnement ou amélioration?
 
