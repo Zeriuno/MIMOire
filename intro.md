@@ -96,46 +96,13 @@ Atomisation de l'information (paquet)
 Redondance (paquets, backup)
 Tolérance aux pannes
 
-
-
-
->Policy scholars explain how hard it is to elevate these types of issues
-to the top of the decision-making agenda (Baumgartner and Jones 1993;
-Birkland 2006). Organization theorists offer helpful insights with regard to creating cultures that may enhance and sustain resilience (LaPorte 2007;
-Schulman and Roe 2007).[Comfort, Boin, Demchak, 2010]
-
-> A critical approach that distinguishes this book from other discussions
-of resilience is its inquiry into sociotechnical systems. The literature on
-social cognition (Hermann et al. 2007), cognitive anthropology (Hutchins
-1995), and sociotechnical systems (Coakes, Willis, and Clark 2002) care-
-fully examines what humans do and how they do it in relation to the tech-
-nical systems they operate. In this perspective, the transition from percep-
-tion to action at individual, group, organizational, and systemic scales of
-operation is critical to understanding the dynamics of resilience. Develop-
-ing metrics of resilience in actual environments exposed to risk represents
-a critical task that is only beginning.
-The interaction between increasingly advanced technical systems and
-the human organizations that design, build, operate, and manage them has
-been studied by researchers at the Tavistock Institute for Social Research
-since it opened in 1946 (Trist, Emery, and Murray 1997). The impact of
-technology on social organizations is, of course, continually unfolding
-(Coakes, Willis, and Lloyd-Jones 2000). The modern-day exponential in-
-crease in the use of information technology across the world is presenting
-ever more complex and surprising dynamics in social action and organi-
-zational performance (Coakes, Willis, and Clarke 2002). Such changing
-conditions require considerable integrative efforts to understand the dual
-nature of these technologies. They can be harnessed to effective decision
-support in large-scale events, but they also impose new or enhanced con-
-straints on organizational action.[Comfort, Boin, Demchak, 2010]
-
-
 -> résilience dans la vision géographique
 Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
 
 
-## Echelle macroscopique
+## La résilience à l'échelle macroscopique
 
-The thesis that leaps out from these results is that failure, as
+> The thesis that leaps out from these results is that failure, as
 individual failure or performance failure on the system level, represents
 the temporary inability to cope effectively with complexity. Success
 belongs to organisations, groups and individuals who are resilient in the
