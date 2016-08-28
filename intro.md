@@ -37,9 +37,10 @@ Intéressant de relever au passage que ces éléments font partie des caractéri
 Moins évasive que celle de la résilience, la définition du système d'information, en plus d'être assez consensuelle, elle permet déjà d'identifier des éléments critiques dont il sera important de garantir la résilience.
 
 Mais qu'est donc la résilience?\newline
-Si l'on essaie d'explorer le vaste champ que ce concept peut couvrir, on constate qu'à travers les différentes disciplines touchées au moins huit phénomènes tombent sous cette appéllation. Leur identification et classification a été le travail de Arshi Shaikh et Carol Kauppi, qui cernent tout d'abord deux catégories [Shaikh, Kauppi, 2010].
+Si l'on essaie d'explorer le vaste champ que ce concept peut couvrir, on constate qu'à travers les différentes perspectives fournies par la psychologie et par la sociologie au moins huit phénomènes tombent sous cette appéllation. Leur identification et classification a été le travail de Arshi Shaikh et Carol Kauppi [Shaikh, Kauppi, 2010].
 
-La première catégorie
+Travaillant à plusieur niveaux de profondeur, la rélience psychologique se démontre plus vaste et moins uniforme. Elle est tut d'abord un trait de la personnalité des individus, optimistes, amenés à une interaction positive avec les autres, équanimes, pérséverants. Intéressante à un premier niveau d'analyse, cette approche est problématique en raison de son caractère statique et absolu qui ne permet pas d'envisager un véritable travail de construction de la résilience, notamment à un niveau supérieur à celui de l'individu isolé.
+
 La deuxième catégorie
 
 Quel est le moment de la résilience?
