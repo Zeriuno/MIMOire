@@ -65,6 +65,7 @@ En effet cette définition touche au cas de la "résilience de préparation" ou 
 ### Ce qui n'est pas résilience
 
 Il apparaît maintenant utile de souligner des aspects qui ne rentrent pas dans le champs de la résilience telle que nous l'avons définie tout en présentant des points de contact avec celle-ci.\newline
+Comme le soulignent les chercheurs, l'horizon dans lequel opère la sécurité est celui des connaissances acquises par l'expérience.
 Dans ce sens une première distinction doit être établie avec la sécurité
 [Hollnagel, Woods, Leveson, 2006]
 
