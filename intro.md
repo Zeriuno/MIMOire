@@ -146,7 +146,11 @@ Tolérance aux pannes
 
 à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème. (ZFS)
 Nécessité d'une approche macroscopique, une approche que nous allons définir comme "systémique", tandis que d'autres, notamment le professeur Dario Fonecedro, pourraient voir comme "holistique" [Fontecedro].
-Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
+Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante
+>A big thing they are saying in the paper is that they want to see data center HDDs that care slightly less about their medium error rates and opt to give better areal density and more consistent tail latencies and let the system above it to handle the reliability as it needs to do anyway.
+I've been thinking like this for a while and would tend to reduce the ERC (Error Recovery Control) to a minimum but the disks are still not designed to have these at very low numbers and Google has several interesting ideas in their paper along these lines.
+(Google datacenter).
+
 Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
 Self-Healing Systems
 
