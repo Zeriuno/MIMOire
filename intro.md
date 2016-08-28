@@ -199,7 +199,7 @@ ASTM E23, EN ISO 179-1 et -2, ISO 148-1, -2 et -3.
 
 Cartographie des processus
 Cartographie du SI
-Création de centres de gravitation: le `try`, par exemple, fais cela au niveau de l'exécution du langage de programmation.
+Création de centres de gravitation: le `try`, par exemple, fais cela au niveau de l'exécution du langage de programmation. https://docs.python.org/3/reference/compound_stmts.html#try
 
 > Infrastructure resilience is often associated with the ability of the hard infrastructure or physical system to cope with
 severe disruptions; however, the institutions and enterprises that make up the soft infrastructure systems are also
