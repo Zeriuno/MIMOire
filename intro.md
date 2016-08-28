@@ -65,7 +65,7 @@ En effet cette définition touche au cas de la "résilience de préparation" ou 
 ### Ce qui n'est pas résilience
 
 Il apparaît maintenant utile de souligner des aspects qui ne rentrent pas dans le champs de la résilience telle que nous l'avons définie tout en présentant des points de contact avec celle-ci.\newline
-Comme le soulignent les chercheurs, l'horizon dans lequel opère la sécurité est celui des connaissances acquises par l'expérience [Hollnagel, Woods, Leveson, 2006]:
+Comme le soulignent les chercheurs [Hollnagel, Woods, Leveson, 2006], l'horizon dans lequel opère la sécurité est celui des connaissances acquises par l'expérience:
 
 > This is so both in research and in practice, perhaps more surprising in the former than in the latter. The practical concern for safety is usually driven by events that have happened, either in one’s own company or in the industry as such. There is a natural motivation to prevent such events from happening again, in concrete cases because they may incur severe losses.
 
@@ -73,8 +73,7 @@ Celle-ci constitue d'ailleurs un prisme qui est à la fois le garant de la possi
 
 > It is practically a characteristic of human nature – and an inescapable one at that – to try to make sense of what has happened, to try to make the perceived world comprehensible. We are consequently constrained to look at the future in the light of the past. In this way our experience or understanding of what has happened inevitably colours our anticipation and preparation for what could go wrong and thereby holds back the requisite imagination that is so essential for safety
 
-
-Dans ce sens une première distinction doit être établie avec la sécurité
+Dans ce sens la sécurité se définit comme une palette d'outils et procédures pour anticiper ou répondre aux scénarios que l'expérience a donné à connaître, 
 
 
 Illusion de la maîtrise des systèmes complexes [Hollnagel *et alii*, 2011]
