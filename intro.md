@@ -86,25 +86,18 @@ Car en effet la résilience est une propriété inhérente au système, que celu
 En tant que telle il est donc clair qu'elle se construit et prépare, mais la résilience ne peut pas être dictée ou exigée, elle est bien plus complexe qu'une procédure uniquement déclarative. Ainsi un service ne sera pas résilient pas plus qu'un serveur ne sera sécurisé uniquement parce que cela a été affirmé, exigé ou même juré.\newline
 Les conditions contractuelles rentrent justement dans ce cas de figure: un système d'information peut tout à fait abdiquer son système informatique et le confier à un tiers. Cela est doit bien évidemment être encadré par un accord précisant quel est le service à rendre et quantifiant de manière précise quel est le niveau minimum demandé. De tels accords ont bien évidemment force juridique en cas de manquement des parties, permettent à la direction de pouvoir se délester de responsabilités et l'arment du puissant recours du blâme: celle-ci est une posture très avantageuse en termes hiérarchiques, tout autant qu'elle est improductive [Zwieback, 2015]. Mais du point de vue qui nous retient dans notre recherche, ces contrats ne construisent pas un système résilient: au plus, ils le postulent chez le tiers avec lequel le contrat est passé, tout en déplaçant le périmètre de résilience qui reste à construire dans son propre système d'information.
 
-## Solutions à des problèmes
+### Solutions à des problèmes
 
 On a pu rappeller comment la place du système d'information dans une organisation est étroitement liée, tant en terme de développement historique qu'au niveau de son bon fonctionnement. Il n'est donc pas étonnant que nombre des outils de la résilience du SI soient ceux du système informatique, ou bien en soient dérivés.
 Il s'agit dans ce cas de nombreuses solutions qui ont été élaborées depuis nombre d'années et qui ont principalement un aspect pratique.
-Éviter les goulots d'étranglement et les SPOF. Cela a une application dans la partie technique du SI, tout comme dans celle humaine (dans laquelle les SPOF sont représentés par la repartition des connaissances -approche agile- ainsi que par la hiérarchie)
+Éviter les goulots d'étranglement et les SPOF, créer de doubles parcours. Cela a une application dans la partie technique du SI, tout comme dans celle humaine (dans laquelle les SPOF sont représentés par la repartition des connaissances -approche agile- ainsi que par la hiérarchie)
 
 Atomisation de l'information (paquet)
 Redondance (paquets, backup)
 Tolérance aux pannes
 
 
-> LES MULTIPLES RÔLES DE L’INFORMATION DANS LA CHAÎNE DE VALEUR
-Rôle 1 : L’information joue un rôle de soutien aux processus de production.
-Rôle 2 : L’information est une matière première et un output des processus d’affaires.
-Rôle 3 : L’information est essentielle à la coordination des processus.
-Rôle 4 : L’information permet d’évaluer la performance des processus.
-Rôle 5 : L’information est un instrument d’ajout de valeur.
-[Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
-[Rivard, Talbot, 2004]
+
 
 >Policy scholars explain how hard it is to elevate these types of issues
 to the top of the decision-making agenda (Baumgartner and Jones 1993;
@@ -202,6 +195,15 @@ Organisation par le travail
 
 Facilité de mesurer la résilience des matériaux, via le test d'Augustin-Charles-Marie Mesnager et de Georges Charpy,
 ASTM E23, EN ISO 179-1 et -2, ISO 148-1, -2 et -3.
+
+> LES MULTIPLES RÔLES DE L’INFORMATION DANS LA CHAÎNE DE VALEUR
+Rôle 1 : L’information joue un rôle de soutien aux processus de production.
+Rôle 2 : L’information est une matière première et un output des processus d’affaires.
+Rôle 3 : L’information est essentielle à la coordination des processus.
+Rôle 4 : L’information permet d’évaluer la performance des processus.
+Rôle 5 : L’information est un instrument d’ajout de valeur.
+[Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
+[Rivard, Talbot, 2004]
 
 Cartographie des processus
 Cartographie du SI
