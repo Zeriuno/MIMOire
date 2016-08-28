@@ -148,6 +148,15 @@ Tolérance aux pannes
 
 ## Echelle macroscopique
 
+The thesis that leaps out from these results is that failure, as
+individual failure or performance failure on the system level, represents
+the temporary inability to cope effectively with complexity. Success
+belongs to organisations, groups and individuals who are resilient in the
+sense that they recognise, adapt to and absorb variations, changes,
+disturbances, disruptions, and surprises – especially disruptions that fall
+outside of the set of disturbances the system is designed to handle
+[Hollnagel, Woods, Leveson, 2006]
+
 à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème. (ZFS)
 
 Nécessité d'une approche macroscopique, une approche que nous allons définir comme "systémique", tandis que d'autres, notamment le professeur Dario Fonecedro, pourraient voir comme "holistique" [Fontecedro].\newline
