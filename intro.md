@@ -65,9 +65,12 @@ En effet cette définition touche au cas de la "résilience de préparation" ou 
 ### Ce qui n'est pas résilience
 
 Il apparaît maintenant utile de souligner des aspects qui ne rentrent pas dans le champs de la résilience telle que nous l'avons définie tout en présentant des points de contact avec celle-ci.\newline
-Comme le soulignent les chercheurs, l'horizon dans lequel opère la sécurité est celui des connaissances acquises par l'expérience.
+Comme le soulignent les chercheurs, l'horizon dans lequel opère la sécurité est celui des connaissances acquises par l'expérience [Hollnagel, Woods, Leveson, 2006]:
+
+> This is so both in research and in practice, perhaps more surprising in the former than in the latter. The practical concern for safety is usually driven by events that have happened, either in one’s own company or in the industry as such. There is a natural motivation to prevent such events from happening again, in concrete cases because they may incur severe losses.
+
 Dans ce sens une première distinction doit être établie avec la sécurité
-[Hollnagel, Woods, Leveson, 2006]
+
 
 Illusion de la maîtrise des systèmes complexes [Hollnagel *et alii*, 2011]
 Si l'on revient à la signification première du mot, dans le contexte de la physique des matérieaux, la résilience est une propriété inhérente à la structure chimio-physique d'un matérieau ou bien à la structure d'un système.
