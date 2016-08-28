@@ -86,6 +86,15 @@ Car en effet la résilience est une propriété inhérente au système, que celu
 En tant que telle il est donc clair qu'elle se construit et prépare, mais la résilience ne peut pas être dictée ou exigée, elle est bien plus complexe qu'une procédure uniquement déclarative. Ainsi un service ne sera pas résilient pas plus qu'un serveur ne sera sécurisé uniquement parce que cela a été affirmé, exigé ou même juré.\newline
 Les conditions contractuelles rentrent justement dans ce cas de figure: un système d'information peut tout à fait abdiquer son système informatique et le confier à un tiers. Cela est doit bien évidemment être encadré par un accord précisant quel est le service à rendre et quantifiant de manière précise quel est le niveau minimum demandé. De tels accords ont bien évidemment force juridique en cas de manquement des parties, permettent à la direction de pouvoir se délester de responsabilités et l'arment du puissant recours du blâme: celle-ci est une posture très avantageuse en termes hiérarchiques, tout autant qu'elle est improductive [Zwieback, 2015]. Mais du point de vue qui nous retient dans notre recherche, ces contrats ne construisent pas un système résilient: au plus, ils le postulent chez le tiers avec lequel le contrat est passé, tout en déplaçant le périmètre de résilience qui reste à construire dans son propre système d'information.
 
+## Solutions à des problèmes
+
+On a pu rappeller comment la place du système d'information dans une organisation est étroitement liée, tant en terme de développement historique qu'au niveau de son bon fonctionnement. Il n'est donc pas étonnant que nombre des outils de la résilience du SI soient ceux du système informatique, ou bien en soient dérivés.
+Il s'agit dans ce cas de nombreuses solutions qui ont été élaborées depuis nombre d'années et qui ont principalement un aspect pratique.
+Éviter les goulots d'étranglement et les SPOF. Cela a une application dans la partie technique du SI, tout comme dans celle humaine (dans laquelle les SPOF sont représentés par la repartition des connaissances -approche agile- ainsi que par la hiérarchie)
+
+Atomisation de l'information (paquet)
+Redondance (paquets, backup)
+Tolérance aux pannes
 
 
 > LES MULTIPLES RÔLES DE L’INFORMATION DANS LA CHAÎNE DE VALEUR
@@ -130,15 +139,6 @@ straints on organizational action.[Comfort, Boin, Demchak, 2010]
 -> résilience dans la vision géographique
 Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
 
-## Solutions à des problèmes
-
-On a pu rappeller comment la place du système d'information dans une organisation est étroitement liée, tant en terme de développement historique qu'au niveau de son bon fonctionnement. Il n'est donc pas étonnant que nombre des outils de la résilience du SI soient ceux du système informatique, ou bien en soient dérivés.
-Il s'agit dans ce cas de nombreuses solutions qui ont été élaborées depuis nombre d'années et qui ont principalement un aspect pratique.
-Éviter les goulots d'étranglement et les SPOF. Cela a une application dans la partie technique du SI, tout comme dans celle humaine (dans laquelle les SPOF sont représentés par la repartition des connaissances -approche agile- ainsi que par la hiérarchie)
-
-Atomisation de l'information (paquet)
-Redondance (paquets, backup)
-Tolérance aux pannes
 
 ## Echelle macroscopique
 
