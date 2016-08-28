@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine et une utilisation attestée dans les écrits philosophiques dès le XVIIe siècle (Bacon [TLFi], Descartes [Cresti, 2014]), le mot "résilience" ne manque d'ailleurs pas de les intéresser.\newline
 Au cours des siècles en effet son contenu sémantique s’est renouvelé plusieurs fois: si le mot d'origine est la crase latine de "re" et "silire", c'est dans cette acception, de "rebondir", qu'il est introduit dans l'anglais du XVIIe siècle. Perçu comme un anglicisme [TLFi], attesté en effet dans les *Notes* de Thomson [Bucharles, 2008], il est employé en français déjà au début du XXe siècle: nouvelle acception, le terme sert à décrire la force morale de ceux qui accablés par des circonstances opposées, resurgissent. Dans une signification proche, le terme est également choisi par la discipline, bien éloignée, de la physique des matériaux: pour celle-ci résilience est la propriété d'absorber un choc et de savoir ensuite retrouver sa forme précédente [TLFi].
@@ -15,9 +15,9 @@ En s'apprêtant à étudier la résilience dans le contexte du système d'inform
 Partisans de cette deuxième option nous essaierons dans cet exposé de justifier cette position et de montrer comment la résilience peut être envisagée dans le cadre d'un système d'information, quels sont les problèmes qu'elle permet de confronter et dans quelle mesure des solutions résilientes sont déjà employées à ce fins, et cela aussi bien au niveau microscopique que macroscopique.
 \newpage
 
-# La résilience dans le système d'information
+## La résilience dans le système d'information
 
-## Le SI, un cadre d'enquête
+### Le SI, un cadre d'enquête
 
 La multiplicité des champs d'application du concept de résilience ne facilite certainement pas sa définition, mais la tâche n'est pas pour autant plus aisées lorsque l'on se cantonne à un seul domaine. Comme le montre Serge Tisseron, même en psychologie plusieurs conceptions du phénomène se superposent, expression de courants successifs dans le temps et géographiquement différents [Tisseron, 2009], et le travail de conciliation de celles-ci est encore en cours [Aïn, 2007].
 
@@ -32,7 +32,7 @@ Toujours dans ce sens nous devrons bien reconnaître que nombre des fonctions pr
 Le degré d'informatisation du système d'information est donc un facteur déterminant pour son expansion et sa capacité d'être de support à un plus grand nombre de parties de l'organisation dont il fait partie. Cet aspect est donc directement proportionnel au degré de pervasivité du système d'information, et, parallèlement, à sa substituabilité. Ces deux indicateurs, il est intéressant de le souligner, font partie des critères qui déterminent le niveau hiérarchique du système d'information dans l'organisation [Lucas 1984].\newline
 Intéressant de relever au passage que ces éléments font partie des caractéristiques qui permettent au SI d'avoir une place importante dans une organisation.
 
-## Cerner la résilience
+### Cerner la résilience
 
 Moins évasive que celle de la résilience, la définition du système d'information, en plus d'être assez consensuelle, elle permet déjà d'identifier des éléments critiques dont il sera important de garantir la résilience.
 
@@ -62,7 +62,7 @@ Pour conclure notre définition, nous pourrons relever la proximité entre ce do
 
 En effet cette définition touche au cas de la "résilience de préparation" ou même "de confrontation". Que ceux-ci aient fait déjà l'objet d'études et théorisation nous confirme leur intérêt, mais, plus encore, le fait de pouvoir les encadrer de manière plus large avec la "résilience de récupération" nous confirme l'utilité d'une approche multidisciplinaire capable d'apporter un questionnement nouveau et enrichissant.
 
-### Ce qui n'est pas résilience
+#### Ce qui n'est pas résilience
 
 Il apparaît maintenant utile de souligner des aspects qui ne rentrent pas dans le champs de la résilience telle que nous l'avons définie tout en présentant des points de contact avec celle-ci.\newline
 Comme le soulignent les chercheurs [Hollnagel, Woods, Leveson, 2006], l'horizon dans lequel opère la sécurité est celui des connaissances acquises par l'expérience:
