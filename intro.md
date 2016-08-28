@@ -45,30 +45,30 @@ Complémentaire à cette vision, une autre définition de la résilience s'attac
 Proche des définitions déjà exposées, une autre qui a été formulée est celle de la résilience comme capacité d'enclencher, lors de l'apparition d'éléments perturbateurs, un processus adaptatif et continu sur une durée de temps qui permet de les dépasser. La résilience est ici à l'œuvredans des efforts continus au niveau cognitif et comportamental pour gérer des demandes externes ou bien internes qui sont perçues comme lourde ou même excessives par rapport aux ressources du sujet en question.\newline
 Expérience de récupération après un traumatisme (on revient plus fort ou pas?)\newline
 Moins nombreuses, les définitions dans le domaine de la sociologie se concentrent sur le comportement dans un contexte structurellement hostile. Dans une première définition du terme, c'est l'association humaine qui résiste à l'ordre ou aux conditions structurelles auxquelles elle est soumise.
-
+--------------------------------------------------------------------
 
 Compte tenu de ces définitions et des critiques auxquelles elles ont donné lieu, nous pourrons nous attacher à l'étude de la résilience en la considérant tout d'abord comme un phénomène pluriel. Celui-ci se construit aussi bien à l'échelle individuelle, microscopique, qu'à niveau du systémique, systémique, justement nos deux niveaux d'enquête.\newline
-La résilience est à la fois une caractéristique statique propre aux éléments ainsi qu'un phénomène dynamique conjoncturel.
-Si elle se défnit par rapport à des perturbations de l'environnement, le moment où la résilience entre en jeux bien être celui de la préparation. Dans ce dernier les éléments convoqués pour constituer le système permettent de constituer un environnement qui sera résilient dans la mesure où son fonctionnement normal sera capable d'absorber et contourner, quelque part d'ignorer, des facteurs qui seraient autrement critiques.
+La résilience est à la fois une caractéristique statique propre aux éléments ainsi qu'un phénomène dynamique conjoncturel.\newline
+Si elle se défnit par rapport à des perturbations de l'environnement, le moment où la résilience entre en jeux bien être celui de la préparation. Dans ce dernier les éléments convoqués pour constituer le système permettent de constituer un environnement qui sera résilient dans la mesure où son fonctionnement normal sera capable d'absorber et contourner, quelque part d'ignorer, des facteurs qui seraient autrement critiques.\newline
 Le moment peut également être celui de la confrontation, quand la perturbation se manifeste et risque de compromettre le système, ainsi que le moment, plus visible, du fait de l'interruption à la quelle il fait suite, de la récupération, quand la perturbation a eu lieu et le système doit gérer ses conséquences.
+--------------------
+Capacité de gérer l'erreur et de le contenir à l'intérieur d'un cadre d'équilibre stable.
 
 L'effet de la résilience sera également conçu de manière large: l'aboutissement pourra aussi bien être la récupération de la situation précédente à la perturbation, un fonctionnement ordinaire, ou bien une amélioration de celui-ci.
 
-Pour conclue notre définition, nous pourrons relever la proximité entre ce domaine d'études, tel que nous venons de le définir, et le champ de recherche du système d'information robuste. Celui-ci [El Sawy, Nanus, 1989]:
+Pour conclure notre définition, nous pourrons relever la proximité entre ce domaine d'études, tel que nous venons de le définir, et le champ de recherche du système d'information robuste. Celui-ci [El Sawy, Nanus, 1989]:
 
 > is achieved by choosing a strategy that yields satisfactory results under all environmental scenarios which are assessed as having an appreciable probability of occurring
 
-En effet cette définition touche au cas de la "résilience de préparation" ou même "de confrontation". Que ceux-ci aient fait déjà l'objet d'études et théorisation nous confirme leur intérêt, mais, plus encore, le fait de pouvoir les encadrer de manière plus large avec la "résilience de récupération" nous confirme l'utilité d'une approche multidisciplinaire
+En effet cette définition touche au cas de la "résilience de préparation" ou même "de confrontation". Que ceux-ci aient fait déjà l'objet d'études et théorisation nous confirme leur intérêt, mais, plus encore, le fait de pouvoir les encadrer de manière plus large avec la "résilience de récupération" nous confirme l'utilité d'une approche multidisciplinaire capable d'apporter un questionnement nouveau et enrichissant.
 
-En reprenant ces études, il est intéressant de souligner que, bien que susceptible à un indéniable effet de mode, le changement lexical modifie les conditions de l'enquête en convoquant les outils d'une recherche pluridisciplinaire
-
+### Résilience et sécurité
 
 Différence avec la sécurité [Hollnagel 2006]
 
 > coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
 [Lucas 1984]
 
-Un évènement se produit
 
 > LES MULTIPLES RÔLES DE L ’ INFORMATION DANS LA CHAÎNE DE VALEUR
 Rôle 1 : L’information joue un rôle de soutien aux processus de production.
@@ -79,9 +79,6 @@ Rôle 5 : L’information est un instrument d’ajout de valeur.
 [Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
 
 
-
-
-Comme le relèvent d'autres chercheurs, la variété d'approches est probablement à considérer, compte tenu de la jeunesse de ce champs d'enquête, comme un avantage [RIse of resilience]
 > We refer here to the work of scholars who, while operating from a
 variety of academic disciplines, are making an interdisciplinary effort to
 further our knowledge about resilience. This literature is brimming with
@@ -120,12 +117,8 @@ support in large-scale events, but they also impose new or enhanced con-
 straints on organizational action.[RIse of resilience]
 
 
-
 Illusion de la maîtrise des systèmes complexes (HOLLNAGEL, PARIES...)
 
-Autrefois on étudiait la robustesse, [EL SAWY, NANUS 1989]
-
-Capacité de gérer l'erreur et de le contenir à l'intérieur d'un cadre d'équilibre stable.
 -> résilience dans la vision géographique
 Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
 
