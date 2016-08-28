@@ -69,6 +69,11 @@ Comme le soulignent les chercheurs, l'horizon dans lequel opère la sécurité e
 
 > This is so both in research and in practice, perhaps more surprising in the former than in the latter. The practical concern for safety is usually driven by events that have happened, either in one’s own company or in the industry as such. There is a natural motivation to prevent such events from happening again, in concrete cases because they may incur severe losses.
 
+Celle-ci constitue d'ailleurs un prisme sans lequel il est pratiquement impossible d'observer la réalité.
+
+> It is practically a characteristic of human nature – and an inescapable one at that – to try to make sense of what has happened, to try to make the perceived world comprehensible. We are consequently constrained to look at the future in the light of the past. In this way our experience or understanding of what has happened inevitably colours our anticipation and preparation for what could go wrong and thereby holds back the requisite imagination that is so essential for safety
+
+
 Dans ce sens une première distinction doit être établie avec la sécurité
 
 
