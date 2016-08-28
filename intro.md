@@ -64,13 +64,14 @@ En effet cette définition touche au cas de la "résilience de préparation" ou 
 
 ### Résilience et sécurité
 
+Il apparaît est utile de souligner quelles sont les différences entre la résilience telle que nous l'avons définie et la sécurité
 Différence avec la sécurité [Hollnagel 2006]
 
 > coping with uncertainty, low substitutability, high workflow pervasiveness, and immediacy and high dependence by other departments are associated with a department's influence and power in the organization.
 [Lucas 1984]
 
 
-> LES MULTIPLES RÔLES DE L ’ INFORMATION DANS LA CHAÎNE DE VALEUR
+> LES MULTIPLES RÔLES DE L’INFORMATION DANS LA CHAÎNE DE VALEUR
 Rôle 1 : L’information joue un rôle de soutien aux processus de production.
 Rôle 2 : L’information est une matière première et un output des processus d’affaires.
 Rôle 3 : L’information est essentielle à la coordination des processus.
@@ -228,11 +229,9 @@ On pourrait considérer que les concepts de résilience ainsi que celui de stigm
 
 un système informatique résilient vise à rendre l'humain superflu. Complètement résilient, une fois programmé, capable de se réparer de lui-même et d'augmenter ses capacités de réponse en fonction des évènements passés via une fonction d'apprentissage, celui-ci est parfaitement autonome. Dans une situation paradoxale, est uniquement l'incapacité des humains à réaliser un tel système qui les rends nécessaires et indispensables: leur utilité est une conséquence directe de leurs erreurs; tandis qu'on essaie de les éliminer du système des machines, les failles des humains sont l'élément qui continue à garantir leur place.
 
-Au delà d'une curiosité intellectuelle, le paradoxe se révèle encore une fois une ressource de la pensée très profonde. Loin d'être un simple sophisme, celui-ci révèle les nœuds ontologiques que les apparences ne peuvent pas saisir: si, poussés à programmer leur futilité, les humains se découvrent utiles simplement grâce à leurs erreurs, cette équation révèle l'inumanité d'une telle ambition et dénonce, par conséquent, un danger. Le risque est, une fois de plus, que dans le cadre d'une telle recherche, qui, si elle est en accord avec les aspirations, elle se révèle néanmoins être fondamentalement contraire aux principes de l'humain, les conséquences soient bien plus profondes qu'on ne sait l'anticiper: les erreurs propres à l'hommes rentrent encore une fois en jeux et, après avoir suscité la recherche de la résilience, invitent à l'approcher avec vigilance.
+Au delà d'une curiosité intellectuelle, le paradoxe se révèle encore une fois une ressource de la pensée très profonde. Loin d'être un simple sophisme, celui-ci libère les nœuds ontologiques que les apparences ne peuvent pas saisir: si, poussés à programmer leur futilité, les humains se découvrent utiles simplement grâce à leurs erreurs, cette équation révèle l'inumanité d'une telle ambition et dénonce, par conséquent, un danger. Le risque est, une fois de plus, que dans le cadre d'une telle recherche, qui, si elle est en accord avec les aspirations, elle se révèle néanmoins être fondamentalement contraire aux principes de l'humain, les conséquences soient bien plus profondes qu'on ne sait l'anticiper: les erreurs propres à l'hommes rentrent encore une fois en jeux et, après avoir suscité la recherche de la résilience, invitent à l'approcher avec vigilance.
 
-[liaison à parfaire]
-
-Cette critique a d'ailleurs déjà été formulée, à un moment où les outils informatiques étaient encore dans un état primitif. Dans un contexte intellectuel qui ne s'interdisait pas de critiquer la validité des choix pris par la hiérarchie et des réponses automatiques, *Fail Safe* et une histoire qui explore les conséquences d'une procédure conçue pour être résiliente et pleinement automatisée qui, de ce fait, va déclencher un carnage thermonucléaire.
-Ecrit par Eugene Burdick et Harvey Wheeler en 1962, ce roman a deux années plus tard été transposé au cinéma par Sidney Lumet. Reproposée au public par Stephen Frears en 2000, sous les aspects d'un vieux noir et blanc et l'inactuel contexte de la guerre froide l'histoire cache le thème fondamental de la possilité de débrancher les machines et arrêter les processus.
+Cette critique a d'ailleurs déjà été formulée, à un moment où les outils informatiques étaient encore dans un état primitif. Dans un contexte intellectuel qui ne s'interdisait pas de critiquer la validité des choix pris par la hiérarchie et des réponses automatiques, *Fail Safe* et une histoire qui explore les conséquences d'une procédure conçue pour être résiliente dans l'acception de l'exclusion des facteurs de dérangement externe, et pleinement automatisée. Celle-ci va, de ce fait, déclencher un carnage thermonucléaire.
+Écrit par Eugene Burdick et Harvey Wheeler en 1962, ce roman a deux années plus tard été transposé au cinéma par Sidney Lumet. Reproposée au public par Stephen Frears en 2000, sous les aspects d'un vieux noir et blanc et l'inactuel contexte de la guerre froide, l'histoire cache le thème fondamental de la possilité de débrancher les machines et arrêter les processus.
 
 À l'heure de la surveillance planétaire, de la gouvernance algorithmique, des réseaux neuronaux profonds, des assassinats confiés aux drones, des failles informatiques qui ciblent les centres de recherche nucléaire, la mise en place de systèmes résilients impose une nouvelle approche. Les femmes et les hommes impliqués dans de tels projets se doivent d'en évaluer la retombée éthique, de prendre en compte la possibilité de faire objection de conscience et ne pas les mettre en œuvre. Il est désormais impératif de relever un autre défi et de considérer que la mise en place de systèmes capables de contourner l'erreur et d'assurer un fonctionnement virtuellement pérenne peut être une faute.
