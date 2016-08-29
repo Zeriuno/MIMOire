@@ -25,7 +25,7 @@ Des différences existent entre les définitions du système d'information donn�
 
 > Un système d’information est [un élement d'une organisation constitué d']un ensemble d’activités qui saisissent, stockent, transforment et diffusent des données sous un ensemble de contraintes appelé l’environnement du système. Des inputs (données) sont émis par une ou plusieurs sources et traités par le système, lequel utilise aussi des données entreposées préalablement. Les résultats du traitement (outputs) sont transmis à une ou plusieurs destinations ou mettent à jour des données entreposées. Pour sa réalisation, un système d’information utilisera des technologies de l’information plus ou moins sophistiquées pouvant aller de la simple calculatrice dans le cas de systèmes très peu sophistiqués jusqu’à des réseaux d’ordinateurs extrêmement puissants, utilisant des interfaces de type multimédia.
 
-Si ici les auteurs prennent garde de souligner la possibilité que le systèmes d'information soit constitué d'une technologie rudimentaire, il est cependant intéressant de remarque que d'autres considèrent que sans "codes sources binaires [sic] les ordinateurs ne fonctionneraient plus, ils ne pourraient même pas s’appeler ordinateurs et il n’y aurait plus de système d’information" [Lequeux, Challande, 2009]. Cette thèse a certainement le défaut de son caractère axiomatique, accompagné du fait que les auteurs fournissent uniquement une définition en creux du système d'information. Elle a cependant le mérite de souligner l'importance des outils informatiques, quitte à l'exagérer. Si ceux-ci ne sont pas indispensables, il est cependant indéniable que la plupart des systèmes d'information reposent de manière presque inextricable sur un système informatique et que le bon fonctionnement de celui-ci est très souvent un pré-requis pour le système d'information.
+Si ici les auteurs prennent garde de souligner la possibilité que le systèmes d'information soit constitué d'une technologie rudimentaire, il est cependant intéressant de remarque que d'autres considèrent que sans "codes sources binaires [sic] les ordinateurs ne fonctionneraient plus, ils ne pourraient même pas s’appeler ordinateurs et il n’y aurait plus de système d’information" ([Lequeux, Challande, 2009], une approche tout aussi dépourvue du rôle humain quoique moins simplist est défendue dans [Wang, 2010]). Cette thèse a certainement le défaut de son caractère axiomatique, accompagné du fait que les auteurs fournissent uniquement une définition en creux du système d'information. Elle a cependant le mérite de souligner l'importance des outils informatiques, quitte à l'exagérer. Si ceux-ci ne sont pas indispensables, il est cependant indéniable que la plupart des systèmes d'information reposent de manière presque inextricable sur un système informatique et que le bon fonctionnement de celui-ci est très souvent un pré-requis pour le système d'information.
 
 Toujours dans ce sens nous devrons bien reconnaître que nombre des fonctions prises en charges par le système d'information ne le sont que par le biais de l'informatisation des organisations. C'est ainsi en effet que des activités, des processus et des tâches deviennent visibles, quantifiables et, surtout, systématisables: morcelés et atomisés ils sont demandés à l'initiative individuelle et transparents au niveau organisationnel.
 
@@ -62,6 +62,11 @@ Pour conclure notre définition, nous pourrons relever la proximité entre ce do
 > is achieved by choosing a strategy that yields satisfactory results under all environmental scenarios which are assessed as having an appreciable probability of occurring
 
 En effet cette définition touche au cas de la "résilience de préparation" ou même "de confrontation". Que ceux-ci aient fait déjà l'objet d'études et théorisation nous confirme leur intérêt, mais, plus encore, le fait de pouvoir les encadrer de manière plus large avec la "résilience de récupération" nous confirme l'utilité d'une approche multidisciplinaire capable d'apporter un questionnement nouveau et enrichissant.
+>The key difference of Zhang’s (2007) definition other than these
+others is its emphasis on partial damage with the system. With this definition, Zhang
+(2007) was able to distinguish the concept of resilience from reliability and
+robustness.
+Wang, 2010
 
 #### Ce qui n'est pas résilience
 
@@ -100,6 +105,7 @@ Il s'agit dans ce cas de solutions qui ont été mis au point dans une approche 
 Celle-ci a d'ailleurs servi à exemplifier et augmenter la prise de conscience de formulations qui reposent sur des principes de logique générale.
 
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique
+Compartimenter [intéressant de remarquer que dans ce cas le parallèle humain est en contradicition avec ce que propose d'utiliser la résilience]
 Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming) [Coplien, Harrison, 2004]
 Éviter les goulots d'étranglement et les SPOF, créer de doubles parcours.
 Contrôle de l'erreur, audit
@@ -180,6 +186,24 @@ Rôle 4 : L’information permet d’évaluer la performance des processus.
 Rôle 5 : L’information est un instrument d’ajout de valeur.
 [Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
 [Rivard, Talbot, 2004]
+
+> Wang and Ip (2009) proposed an approach
+to evaluate the logistics network resilience based on the redundant resource and
+reliability of nodes and edges. Ash and Newth (2007) used an evolutionary algorithm
+to evolve the complex systems that are resilient to cascading failure.
+[...]
+All the studies mentioned above focused on what is ‘left’ in the system after
+damage – or called ‘remaining’ part of the system; in particular, they measured the
+resilience of the system through the resource redundancy or structure redundancy.
+They have not considered an important nature of resilience engineering – namely the
+recovery of the system. This absence is in fact related to the definition of resilience; in
+most of the existing definitions of resilience, the resilience concept is taken similar to
+either robustness or reliability.The present article takes the definition of resilience
+from Zhang (2007) which puts emphasis on partial damage of the system and
+recovery of the function of the system, making resilience distinct from both reliability
+and robustness.
+
+[Wang, 2010]
 
 Cartographie des processus
 Cartographie du SI
