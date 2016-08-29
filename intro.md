@@ -184,7 +184,7 @@ Il est frappant de remarquer comment dans une certaine mesure que nous avons att
 
 #### Stigmergie *versus* hierarchie
 
-Dans le contexte hautement efficace de la stigmergie il n'y a pas de structure hiérarchique ou de subdivision du travail, mais une capacité de répondre partagée face à des stimuli communs.
+Dans le contexte hautement efficace de la stigmergie il n'y a pas de structure hiérarchique ou de subdivision du travail, mais une capacité de répondre partagée face à des stimuli communs.\newline
 La réduction de l'emprise de la structure hiérarchique est par ailleurs un thème évoqué dans plusieurs contextes, aussi bien tout à fait attendus sur ce sujet. Il est assez attendu de la part du fondateur du Parti Pirate [FALKVINGE 2013], qui loue la résilience d'une organisation de telle sorte, mais il est plus que surprenant qu'un professeur de la London School of Economics invite les lecteurs de la Harvard Business Review à licencier tous les managers [HAMEL 2011]. Dans ce qui n'est pas une provocation improvisée, mais une étape d'une réflexion qui se poursuit dans les années ([HAMEL 2012]).
 
 Il s'agit d'une question d'efficacité et poids organisationnels [HAMEL 2011] :
@@ -201,13 +201,10 @@ Ces capacités de renverser radicalement les processus de manière brutale et d'
 
 La nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contete des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
 
-
-
 Organisation par le travail
 [SUSI, ZIEMKE 2001] susi
 [ZHANG, WATTS 2004]
 [Kwan *et alii*, 2012] kwan
-[Cataldo, Hersleb, 2013]
 
 ### Mesurer la résilience
 
