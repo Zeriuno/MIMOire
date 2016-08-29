@@ -167,8 +167,7 @@ La stigmergie représente un nouvel outil intellectuel, né en contraste avec l'
 [...]
 Stigmergy offers an elegant and stimulating framework to understand the coordination and regulation of collective activities.
 
-Dans le cadre de la stigmer
-Il n'y a pas de hiérarchie entre l'insecte qui commence la construction et ceux qui la poursuivent, juste une communauté de réponses face à des stimuli communs
+Dans ce cadre les organisations sont caractérisée par une stricte égalité parmi les membres qui agissent de manière strictement autonome, et pourtant parfaitement coordonée. Les traces du travail fait identifient les tâches qui restent à faire et les différents individus de la communauté, égaux et interchangeables entre eux, s'en chargent de manière progressive. Il n'y a pas de structure hiérarchique ou de subdivision du travail, mais une capacité de répondre partagée face à des stimuli communs.
 
 Stigmergie quantitative: les quantités de traces laissées guident la poursuite du travail
 Stigmergie qualitative, le type de traces
