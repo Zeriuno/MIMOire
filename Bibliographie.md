@@ -27,6 +27,7 @@
 [Hamel, 2011] Gary Hamel, First, Let's Fire All the Manages, *Harvard Business Review*, :2-13, December 2011.\newline
 [Hamel, 2012] Gary Hamel, *What Matters Now*, Jossey-Bass, 2012.\newline
 [Häring, 2015] Ivo Häring, *Risk Analysis and Management: Engineering Resilience*, Springer, 2015.\newline
+[Heinlein, 1973] Robert A. Heinlein, *Time Enough for Love*, G. P. Putnam's Sons, 1973.\newline
 [Hollnagel *et alii*, 2011] Erik Hollnagel *et alii*, *Resilience Engineering in Practice. A Guidebook*, Ashgate, 2011.\newline
 [Hollnagel, Woods, Leveson, 2006] Erik Hollnagel, David D. Woods, Nancy Leveson, *Resilience Engineering Concepts and Precepts*, Ahgate, 2006.\newline
 [Hyslop, 2007] Maitland Hyslop, *Critical Information Infrastructures. Resilience and Protection*, Springer, 2007.\newline
