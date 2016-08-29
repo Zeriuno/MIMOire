@@ -177,16 +177,31 @@ This example illustrates three important properties or signatures of the self-or
 Dans ce contexte de mode opératoire, capable de répondre rapidement au changement de contexte et de se réorganiser de manière autonome, il est ensuite possible d'individuer deux types de stigmergie, l'une quantitative, l'autre qualitative (voir [Theraulaz, Bonabeau, 1999]).
 
 Le champ d'application, comme le soulignent les éthologues, est tout simplement immense.\newline
-Dans ce contexte hautement efficace il n'y a pas de structure hiérarchique ou de subdivision du travail, mais une capacité de répondre partagée face à des stimuli communs.
 
+Il est frappant de remarquer comment dans une certaine mesure que nous avons atteint un niveau de spécialisation et partage de tâche qui est largement supérieur à celui décrit pour les communautés concernées, que nous sommes allés plus loin dans la spécialisation que les insects eux-mêmes. Un danger pointé par Robert Heinlein, intellect éminemment scientifique, et capable d'anticiper ce paradoxe avec la sensibilité fine et élégante des hommes de lettres [Heinlein 1973]:
+
+> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
+
+#### Stigmergie *versus* hierarchie
+
+Dans le contexte hautement efficace de la stigmergie il n'y a pas de structure hiérarchique ou de subdivision du travail, mais une capacité de répondre partagée face à des stimuli communs.
 La réduction de l'emprise de la structure hiérarchique est par ailleurs un thème évoqué dans plusieurs contextes, aussi bien tout à fait attendus sur ce sujet. Il est assez attendu de la part du fondateur du Parti Pirate [FALKVINGE 2013], qui loue la résilience d'une organisation de telle sorte, mais il est plus que surprenant qu'un professeur de la London School of Economics invite les lecteurs de la Harvard Business Review à licencier tous les managers [HAMEL 2011]. Dans ce qui n'est pas une provocation improvisée, mais une étape d'une réflexion qui se poursuit dans les années ([HAMEL 2012]).
+
+Il s'agit d'une question d'efficacité et poids organisationnels [HAMEL 2011] :
+
+> A small organization may have one manager and 10 employees; one with 100,000 employees and the same 1:10 span of control will have 11,111 managers. That’s because an additional 1,111 managers will be needed to manage the managers.
+
+Mais au-delà de ce versant, d'autres arguments explorés montrent comme une organisation hiérarchique est fondamentalment anti résiliente:
+
+> Second, the typical management hierarchy increases the risk of large, calamitous decisions. As decisions get bigger, the ranks of those able to challenge the decision maker get smaller.\newline
+[...]\newline
+Third, a multitiered management structure means more approval layers and slower responses. In their eagerness to exercise authority, managers often impede, rather than expedite, decision making.
+
+Ces capacités de renverser radicalement les processus de manière brutale et d'imposer une chaîne de réponse nécessaire tout autant que lente, met à mal la capacité d'une organisation de pouvoir mettre en œuvre des réponses.
 
 La nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contete des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
 
-Intéressant de souligner que nous sommes allés plus loin dans la spécialisation que les insects eux-mêmes
 
-> "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."
-Robert A. Heinlein, *Time Enough for Love*,  	G.P. Putnam's Sons, 1973.
 
 Organisation par le travail
 [SUSI, ZIEMKE 2001] susi
