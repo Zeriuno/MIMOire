@@ -180,7 +180,7 @@ Le champ d'application, comme le soulignent les éthologues, est tout simplement
 
 Application aux humains avec la mise au centre du produit de leur travail et sa visibilité selon les paramètre d'adaptation soulignés par [Susi,] et les principes dérivés de la loi de Conway explicités dans [Kwan *et alii*, 2012].
 
-Il est en tout cas frappant de remarquer comment dans une certaine mesure que nous avons atteint un niveau de spécialisation et partage de tâche qui est largement supérieur à celui décrit pour les communautés concernées, que nous sommes allés plus loin dans la spécialisation que les insects eux-mêmes. Un danger pointé par Robert Heinlein, intellect éminemment scientifique, et capable d'anticiper ce paradoxe avec la sensibilité fine et élégante des hommes de lettres [Heinlein 1973]:
+Il est en tout cas frappant de remarquer comment dans une certaine mesure que nous avons atteint un niveau de spécialisation et partage de tâche qui est largement supérieur à celui décrit pour les communautés concernées, que nous sommes allés plus loin dans la spécialisation que les insects eux-mêmes. Un danger pointé par Robert Heinlein, intellect éminemment scientifique, et capable d'anticiper ce paradoxe avec la sensibilité des hommes de lettres [Heinlein 1973]:
 
 > A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
 
