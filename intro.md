@@ -205,7 +205,7 @@ Plus, la nécessité de casser la hiérarchie pour laisser plus de liberté aux 
 Les perspectives des avantages et des risques évoquées, comment peuvent se manifester de telles ressources, de stigmergie et de prévention des risques d'une organisation rigidement encadré par les rôles hiérarhiques à l'intérieur du système d'information?
 
 À nouveau, ce sont des éléments de l'approche agile à faire cette transition.\newline
-En particulier, dans le cas de l'approche *Scrum*, en plus des aspects déjà évoqués qui vont dans le sens de la redondance des ressources humaines, plusieurs  [Coplien, Harrison, 2004]
+En particulier, dans le cas de l'approche *Scrum*, en plus des aspects déjà évoqués qui vont dans le sens de la ccréation de redondance des ressources humaines, il est utile de souligner l'utilité de la technique du *planning poker* [Coplien, Harrison, 2004].
 
 ### Mesurer la résilience
 
