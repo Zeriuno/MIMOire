@@ -16,6 +16,7 @@
 [Christensen, 2013] Lars Rune Christensen, Stigmergy in human practice: Coordination in construction work, *Cognitive Systems Research*, 21 :40–51, 2013.\newline
 [Comfort *et alii*, 2001] Louise K. Comfort *et alii*, Complex Systems in Crisis: Anticipation and Resilience in Dynamic Environments, Journal of Contingencies and Crisis Management, 9(3) :144-158, 2001.\newline
 [Comfort, Boin, Demchak, 2010] Louise K. Comfort, Arjen Boin, Chris C. Demchak, *Designing Resilience: Preparing for Extreme Events*, University of Pittsburgh Press, 2010.\newline
+[Coplien, Harrison, 2004] James Coplien, Neil Harrison, *Organizational patterns of agile software development*, Wiley, 2004.\newline
 [Cresti, 2014] Simona Cresti, *L’elasticità di resilienza*, http://www.accademiadellacrusca.it/it/lingua-italiana/consulenza-linguistica/domande-risposte/l-elasticit-resilienza.\newline
 [D’Atri, De Marco, Casalino, 2008] Alessandro D’Atri, Marco De Marco, Nunzio Casalino, *Interdisciplinary Aspects of Information Systems Studies*, Physica-Verlag, 2008.\newline
 [Dauphiné, Provitolo, 2007] André Dauphiné, Damienne Provitolo, La résilience : un concept pour la gestion des risques / Resilience: a concept for risk management, *Annales de Géographie*, 116(654) :115-125, 2007.\newline

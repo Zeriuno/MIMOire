@@ -100,7 +100,8 @@ Il s'agit dans ce cas de solutions qui ont été mis au point dans une approche 
 Celle-ci a d'ailleurs servi à exemplifier et augmenter la prise de conscience de formulations qui reposent sur des principes de logique générale.
 
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique
-Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming) Éviter les goulots d'étranglement et les SPOF, créer de doubles parcours.
+Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming) [Coplien, Harrison, 2004]
+Éviter les goulots d'étranglement et les SPOF, créer de doubles parcours.
 Contrôle de l'erreur, audit
 Tolérance aux pannes
 
