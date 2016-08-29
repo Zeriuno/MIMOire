@@ -202,7 +202,8 @@ Third, a multitiered management structure means more approval layers and slower 
 Ces capacités de renverser radicalement les processus de manière brutale et d'imposer une chaîne de réponse nécessaire tout autant que lente, met à mal la capacité d'une organisation de pouvoir mettre en œuvre des réponses.\newline
 Plus, la nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contexte des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
 
-Les perspectives des avantages et des risques évoquées, comment peuvent se manifester de telles ressources, de stigmergie et de prévention des risques d'une organisation rigidement encadré par les rôles hiérarhiques à l'intérieur du système d'information?
+Les perspectives des avantages et des risques évoquées, comment peuvent se manifester de telles ressources, de stigmergie et de prévention des risques d'une organisation rigidement encadré par les rôles hiérarhiques à l'intérieur du système d'information?\newline
+À nouveau, ce sont des éléments de l'approche agile à faire cette transition. En particulier, dans le cas de l'approche *Scrum*, [Coplien, Harrison, 2004]
 
 ### Mesurer la résilience
 
@@ -225,6 +226,19 @@ All the studies mentioned above focused on what is ‘left’ in the system afte
 They have not considered an important nature of resilience engineering – namely the recovery of the system. This absence is in fact related to the definition of resilience; in most of the existing definitions of resilience, the resilience concept is taken similar to either robustness or reliability.The present article takes the definition of resilience from Zhang (2007) which puts emphasis on partial damage of the system and recovery of the function of the system, making resilience distinct from both reliability and robustness.
 
 
+> We use the maximum recovery ability to measure the resilience of an enterprise
+information system. We consider a scenario that an enterprise information system is
+partially damaged. There are m functions in the system and n categories of resources
+to recover the functions. The number of resources j (j 1⁄4 1, 2, . . . , n) needed for the
+recovery of function i (i 1⁄4 1, 2, . . . , m) is denoted by r ij . The amount of resources for
+each category is limited. The process time needed for the recovery of function i is p i .
+We assume that functions are not recovered at the same time. This assumption
+implies that the recovery may take a particular order among a set of recovery tasks.
+For function i, there is a completion time, denoted by c i . It is noted that the
+completion time c i is different from the process time p i in that the completion is the
+sum of the starting time for function i and its process time.
+
+[Wang, 2010]
 
 Cartographie du SI [Payet, 2015]
 Création de centres de gravitation: le `try`, par exemple, fais cela au niveau de l'exécution du langage de programmation. https://docs.python.org/3/reference/compound_stmts.html#try
