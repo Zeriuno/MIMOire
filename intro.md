@@ -92,7 +92,7 @@ Les conditions contractuelles rentrent justement dans ce cas de figure: un syst�
 
 Nous avons pu voir comment la résilience se décline en trois moment, définis par rapport au moment où celle-ci intervient pour contrer le facteur de dégradation du système.\newline
 Pour ce qui est du niveau microscopique d'intégration d'outils et ressources de résilience, il ne doit pas surprendre de constater comment ceux-ci constituent essentiellement des ressources de préparation ou bien de confrontation.\newline
-À ce niveau, en effet, les outils disponibles vont pourvoir la solution à une erreur au même endroit où celle-ci se manifeste.
+À ce niveau, en effet, les outils disponibles vont pourvoir la solution à une erreur au même endroit où celle-ci se manifeste ou bien la prévenir là où elle pourrait se produire.
 
 On a pu rappeller comment la place du système d'information dans une organisation est étroitement liée, tant en terme de développement historique qu'au niveau de son bon fonctionnement. Il n'est donc pas étonnant que nombre des outils de la résilience du SI soient ceux du système informatique, ou bien en soient dérivés.\newline
 Il s'agit dans ce cas de nombreuses solutions qui ont été élaborées depuis nombre d'années et qui ont principalement un aspect pratique.
