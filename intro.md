@@ -208,6 +208,7 @@ Les perspectives des avantages et des risques évoquées, comment peuvent se man
 
 Facilité de mesurer la résilience des matériaux, via le test d'Augustin-Charles-Marie Mesnager et de Georges Charpy,
 ASTM E23, EN ISO 179-1 et -2, ISO 148-1, -2 et -3.
+Un cadre quantitatif a été proposé aussi dans [Wang, 2010]
 
 > LES MULTIPLES RÔLES DE L’INFORMATION DANS LA CHAÎNE DE VALEUR
 Rôle 1 : L’information joue un rôle de soutien aux processus de production.
@@ -223,10 +224,9 @@ Rôle 5 : L’information est un instrument d’ajout de valeur.
 All the studies mentioned above focused on what is ‘left’ in the system after damage – or called ‘remaining’ part of the system; in particular, they measured the resilience of the system through the resource redundancy or structure redundancy.
 They have not considered an important nature of resilience engineering – namely the recovery of the system. This absence is in fact related to the definition of resilience; in most of the existing definitions of resilience, the resilience concept is taken similar to either robustness or reliability.The present article takes the definition of resilience from Zhang (2007) which puts emphasis on partial damage of the system and recovery of the function of the system, making resilience distinct from both reliability and robustness.
 
-[Wang, 2010]
 
-Cartographie des processus
-Cartographie du SI
+
+Cartographie du SI [Payet, 2015]
 Création de centres de gravitation: le `try`, par exemple, fais cela au niveau de l'exécution du langage de programmation. https://docs.python.org/3/reference/compound_stmts.html#try
 
 > Infrastructure resilience is often associated with the ability of the hard infrastructure or physical system to cope with
