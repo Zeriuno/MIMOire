@@ -1,21 +1,31 @@
-Aspects de la résilience:
-  * Dealing with the actual
-  * dealing with the critical
-  * dealing with the potential
+>Policy scholars explain how hard it is to elevate these types of issues
+to the top of the decision-making agenda (Baumgartner and Jones 1993;
+Birkland 2006). Organization theorists offer helpful insights with regard to creating cultures that may enhance and sustain resilience (LaPorte 2007;
+Schulman and Roe 2007).[Comfort, Boin, Demchak, 2010]
 
-
-# Définition de la résilience
-
-Des outils permettent d'acquérir de l'expérience à partir des évènements passés (Incident reporting). Effet de constriction qui oblige à regarder le futur avec les éléments du passé
-
-> researchers – are prone to the effects of hindsight, as pointed out by Fischhoff (1975). It is practically a characteristic of human nature – and an inescapable one at that – to try to make sense
-of what has happened, to try to make the perceived world comprehensible. We are consequently constrained to look at the future in the light of the past.
-HOLLNAGEL, WOODS 2006, p.2
-
-> the tried and trusted approaches are only changed when they fail and then usually by adding one more factor or element to account for the unexplained variability.
-> p.3 the thesis that leaps out from these results is that failure, as
-individual failure or performance failure on the system level, represents
-the temporary inability to cope effectively with complexity.
+> A critical approach that distinguishes this book from other discussions
+of resilience is its inquiry into sociotechnical systems. The literature on
+social cognition (Hermann et al. 2007), cognitive anthropology (Hutchins
+1995), and sociotechnical systems (Coakes, Willis, and Clark 2002) care-
+fully examines what humans do and how they do it in relation to the tech-
+nical systems they operate. In this perspective, the transition from percep-
+tion to action at individual, group, organizational, and systemic scales of
+operation is critical to understanding the dynamics of resilience. Develop-
+ing metrics of resilience in actual environments exposed to risk represents
+a critical task that is only beginning.
+The interaction between increasingly advanced technical systems and
+the human organizations that design, build, operate, and manage them has
+been studied by researchers at the Tavistock Institute for Social Research
+since it opened in 1946 (Trist, Emery, and Murray 1997). The impact of
+technology on social organizations is, of course, continually unfolding
+(Coakes, Willis, and Lloyd-Jones 2000). The modern-day exponential in-
+crease in the use of information technology across the world is presenting
+ever more complex and surprising dynamics in social action and organi-
+zational performance (Coakes, Willis, and Clarke 2002). Such changing
+conditions require considerable integrative efforts to understand the dual
+nature of these technologies. They can be harnessed to effective decision
+support in large-scale events, but they also impose new or enhanced con-
+straints on organizational action.[Comfort, Boin, Demchak, 2010]
 
 Passage d'un paradigme qui voyait dans l'homme un élément non fiable susceptible de mettre en danger un système bien rodé à une prise de conscience de sa capacité d'adaptation
 
