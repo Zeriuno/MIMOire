@@ -61,7 +61,13 @@ Pour conclure notre définition, nous pourrons relever la proximité entre ce do
 
 > is achieved by choosing a strategy that yields satisfactory results under all environmental scenarios which are assessed as having an appreciable probability of occurring
 
-En effet cette définition touche au cas de la "résilience de préparation" ou même "de confrontation". Que ceux-ci aient fait déjà l'objet d'études et théorisation nous confirme leur intérêt, mais, plus encore, le fait de pouvoir les encadrer de manière plus large avec la "résilience de récupération" nous confirme l'utilité d'une approche multidisciplinaire capable d'apporter un questionnement nouveau et enrichissant.
+En effet cette définition touche au cas de la "résilience de préparation" ou même "de confrontation".
+La résilience telle que nombre de chercheurs s'attachent à l'étudier va cependant au delà de cela, car comme il s'agit d'étudier également les situations dans lesquelles le système a été endommagé, au moins partiellement [Wang, 2010] mais, surtout, des situations dans lesquelles le système doit se confronter à une situation qui, contrairement à ce qui fonde la recherche du système d'information robuste, n'a pas été explicitement prévue [Hollnagel, Woods, Leveson, 2006]:
+
+> Success belongs to organisations, groups and individuals who are resilient in the sense that they recognise, adapt to and absorb variations, changes, disturbances, disruptions, and surprises – especially disruptions that fall outside of the set of disturbances the system is designed to handle.
+
+Que ceux-ci aient fait déjà l'objet d'études et théorisation nous confirme leur intérêt, mais, plus encore, le fait de pouvoir les encadrer de manière plus large avec la "résilience de récupération" nous confirme l'utilité d'une approche multidisciplinaire capable d'apporter un questionnement nouveau et enrichissant.
+
 >The key difference of Zhang’s (2007) definition other than these
 others is its emphasis on partial damage with the system. With this definition, Zhang
 (2007) was able to distinguish the concept of resilience from reliability and
@@ -111,20 +117,12 @@ Redondance (paquets, backup - délocalisation, ce qui est intégré dans la posi
 Contrôle de l'erreur, audit
 Tolérance aux pannes
 
--> résilience dans la vision géographique
-Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
-
 
 ## La résilience à l'échelle macroscopique
 
-> The thesis that leaps out from these results is that failure, as
-individual failure or performance failure on the system level, represents
-the temporary inability to cope effectively with complexity. Success
-belongs to organisations, groups and individuals who are resilient in the
-sense that they recognise, adapt to and absorb variations, changes,
-disturbances, disruptions, and surprises – especially disruptions that fall
-outside of the set of disturbances the system is designed to handle
-[Hollnagel, Woods, Leveson, 2006]
+-> résilience dans la vision géographique
+Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
+
 
 à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème. (ZFS)
 
@@ -159,8 +157,8 @@ Implications for system Performance[DALZIELL, MCMANUS, 2004]
 
 ### Stigmergie
 
-La stigmergie est un outil pour comprendre 
-Nouvel outil intellectuel, né en contraste avec l'approche holistique, aujourd'hui encore soutenue par le professeur Dario Fontecedro, 
+La stigmergie est un outil pour comprendre
+Nouvel outil intellectuel, né en contraste avec l'approche holistique, aujourd'hui encore soutenue par le professeur Dario Fontecedro,
 > mechanisms underlying the emergence, regulation, and control of collective activities in social insects [theraulaz 1999]
 
 > mechanisms underlying the
