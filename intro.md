@@ -96,10 +96,9 @@ Pour ce qui est du niveau microscopique d'intégration d'outils et ressources de
 
 On a pu rappeller comment la place du système d'information dans une organisation est étroitement liée, tant en terme de développement historique qu'au niveau de son bon fonctionnement, à celle de son système informatique. Il n'est donc pas étonnant que nombre des outils de la résilience de celui-ci soient ceux du système informatique ou bien en soient dérivés.\newline
 Il s'agit dans ce cas de solutions qui, bien que leur formulation logique soit générale, ont été mis au point et on vu leur approche se populariser depuis nombre d'années dans une approche principalement pratique.\newline
-Éviter les goulots d'étranglement et les SPOF, créer de doubles parcours. Cela a une application dans la partie technique du SI, tout comme dans celle humaine (dans laquelle les SPOF sont représentés par la repartition des connaissances -approche agile- ainsi que par la hiérarchie)
 
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique
-Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming)
+Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming) Éviter les goulots d'étranglement et les SPOF, créer de doubles parcours.
 Contrôle de l'erreur, audit
 Tolérance aux pannes
 
