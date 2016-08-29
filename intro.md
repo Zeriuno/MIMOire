@@ -161,13 +161,16 @@ Implications for system Performance[DALZIELL, MCMANUS, 2004]
 
 ### Stigmergie
 
-La stigmergie est un outil pour comprendre
-Nouvel outil intellectuel, né en contraste avec l'approche holistique, aujourd'hui encore soutenue par le professeur Dario Fontecedro,
-> mechanisms underlying the emergence, regulation, and control of collective activities in social insects [theraulaz 1999]
+Nouvel outil intellectuel, né en contraste avec l'approche holistique des communautés, aujourd'hui encore soutenue par le professeur Dario Fontecedro, la stigmergie permet de comprendre les méchanismes qui président à l'émergence, la régulation et le contrôle des activités collectives dans les insectes sociaux [theraulaz 1999] :
 
-> mechanisms underlying the
-emergence, regulation, and control of collective activities in social insects
-[...]  Although our focus will be social
+> Stigmergy (from the Greek stigma: sting and ergon: work) was initially introduced to explain indirect task coordination and regulation in the context of nest reconstruction in termites of the genus Bellicositermes. Grassé showed that the coordination and regulation of building activities do not depend on the workers themselves but are mainly achieved by the nest structure.
+
+> Stigmergy offers an elegant and stimulating framework to understand the coordination and regulation of collective activities. The main problem is then to determine how stimuli are organized (in space and time) to generate robust and coherent patterns
+
+Stigmergie quantitative: les quantités de traces laissées guident la poursuite du travail
+Stigmergie qualitative, le type de traces
+
+> mechanisms underlying the emergence, regulation, and control of collective activities in social insects [...]  Although our focus will be social
 insects, the scope of stigmergy is clearly immense. [theraulaz 1999]
 
 Il n'y a pas de hiérarchie entre l'insecte qui commence la construction et ceux qui la poursuivent, juste une communauté de réponses face à des stimuli communs.[theraulaz 1999]
