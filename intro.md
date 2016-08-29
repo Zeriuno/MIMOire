@@ -199,11 +199,10 @@ Mais au-delà de ce versant, d'autres arguments explorés montrent comme une org
 [...]\newline
 Third, a multitiered management structure means more approval layers and slower responses. In their eagerness to exercise authority, managers often impede, rather than expedite, decision making.
 
-Ces capacités de renverser radicalement les processus de manière brutale et d'imposer une chaîne de réponse nécessaire tout autant que lente, met à mal la capacité d'une organisation de pouvoir mettre en œuvre des réponses.
+Ces capacités de renverser radicalement les processus de manière brutale et d'imposer une chaîne de réponse nécessaire tout autant que lente, met à mal la capacité d'une organisation de pouvoir mettre en œuvre des réponses.\newline
+Plus, la nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contexte des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
 
-La nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contete des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
-
-Dans le contexte du système d'information
+Les perspectives des avantages et des risques évoquées, comment peuvent se manifester de telles ressources, de stigmergie et de prévention des risques d'une organisation rigidement encadré par les rôles hiérarhiques à l'intérieur du système d'information?
 
 ### Mesurer la résilience
 
