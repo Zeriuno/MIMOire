@@ -178,7 +178,7 @@ Dans ce contexte de mode opératoire, capable de répondre rapidement au changem
 
 Le champ d'application, comme le soulignent les éthologues, est tout simplement immense.\newline
 
-Application aux humains avec la mise au centre du produit de leur travail et sa visibilité
+Application aux humains avec la mise au centre du produit de leur travail et sa visibilité selon les paramètre d'adaptation soulignés par [Susi,] et les principes dérivés de la loi de Conway explicités dans [Kwan *et alii*, 2012].
 
 Il est en tout cas frappant de remarquer comment dans une certaine mesure que nous avons atteint un niveau de spécialisation et partage de tâche qui est largement supérieur à celui décrit pour les communautés concernées, que nous sommes allés plus loin dans la spécialisation que les insects eux-mêmes. Un danger pointé par Robert Heinlein, intellect éminemment scientifique, et capable d'anticiper ce paradoxe avec la sensibilité fine et élégante des hommes de lettres [Heinlein 1973]:
 
@@ -204,10 +204,6 @@ Ces capacités de renverser radicalement les processus de manière brutale et d'
 La nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contete des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
 
 Dans le contexte du système d'information
-
-[SUSI, ZIEMKE 2001] susi
-[ZHANG, WATTS 2004]
-[Kwan *et alii*, 2012] kwan
 
 ### Mesurer la résilience
 
