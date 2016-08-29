@@ -97,7 +97,7 @@ Il s'agit dans ce cas de nombreuses solutions qui ont été élaborées depuis n
 Éviter les goulots d'étranglement et les SPOF, créer de doubles parcours. Cela a une application dans la partie technique du SI, tout comme dans celle humaine (dans laquelle les SPOF sont représentés par la repartition des connaissances -approche agile- ainsi que par la hiérarchie)
 
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique
-Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming)
+Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming) [Coplien, Harrison, 2004]
 Contrôle de l'erreur, audit
 Tolérance aux pannes
 
