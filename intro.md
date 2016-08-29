@@ -86,8 +86,6 @@ Une fois que l'on prend en compte ces précision, il apparaît donc clairement q
 Car en effet la résilience est une propriété inhérente au système, que celui-ci soit la structure physio-chimique d'un métal ou bien le complexe ensemble d'acteurs qui constitue une organisation sociale.\newline
 En tant que telle il est donc clair qu'elle se construit et prépare, mais la résilience ne peut pas être dictée ou exigée, elle est bien plus complexe qu'une procédure uniquement déclarative. Ainsi un service ne sera pas résilient pas plus qu'un serveur ne sera sécurisé uniquement parce que cela a été affirmé, exigé ou même juré.\newline
 Les conditions contractuelles rentrent justement dans ce cas de figure: un système d'information peut tout à fait abdiquer son système informatique et le confier à un tiers. Cela est doit bien évidemment être encadré par un accord précisant quel est le service à rendre et quantifiant de manière précise quel est le niveau minimum demandé. De tels accords seront de manière inévitable amputés des circonstances extraordinaires auxquelles en partie la résilience ambitionne à faire face. Pour le restant, ils ont bien évidemment force juridique en cas de manquement des parties, permettent à la direction de pouvoir se délester de responsabilités et l'arment du puissant recours du blâme: celle-ci est une posture très avantageuse en termes hiérarchiques, tout autant qu'elle est improductive [Zwieback, 2015]. Mais du point de vue qui nous retient dans notre recherche, ces contrats ne construisent pas un système résilient, tout au plus ils le postulent chez le tiers avec lequel le contrat est passé. Et en parallèle, ils changent le périmètre de résilience qui reste à construire dans son propre système d'information, tout en rendant ce travail plus difficile, car de tels accords amoindrissent la visibilité du système, tout en réduisant les outils et les recours disponibles.\newline
-
-
 \newpage
 
 ### Solutions à des problèmes
@@ -157,10 +155,10 @@ Réduction de la structuration hiérarchique
 La nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contete des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
 
 Organisation par le travail
-[THERAULAZ, BONABEAU 1999]
-[SUSI, ZIEMKE 2001]
+[THERAULAZ, BONABEAU 1999] 1999
+[SUSI, ZIEMKE 2001] susi
 [ZHANG, WATTS 2004]
-[Kwan *et alii*, 2012]
+[Kwan *et alii*, 2012] kwan
 [Cataldo, Hersleb, 2013]
 
 ### Mesurer la résilience
