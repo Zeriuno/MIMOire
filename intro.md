@@ -128,7 +128,7 @@ outside of the set of disturbances the system is designed to handle
 
 à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème. (ZFS)
 
-Nécessité d'une approche macroscopique, une approche que nous allons définir comme "systémique", tandis que d'autres, notamment le professeur Dario Fonecedro, pourraient voir comme "holistique" [Fontecedro].\newline
+Nécessité d'une approche macroscopique, une approche que nous allons définir comme "systémique", tandis que d'autres.\newline
 C'est d'ailleurs cet aspect, la nécessité de prendre en compte le système dans lequel la résilience se manifeste que des chercheurs soulignent comme nécessaire lorsqu'on définit le phénomène, d'autant plus que cette rélation est bidirectionnelle [Shaikh, Kauppi, 2010]:
 
 > The degree of resilience displayed by a person in a given context is dependent upon the extent to which that context contains elements to nurture resilience. If an individual does not adapt to adverse circumstances, the reason might be that the environment lacks the resilience to negotiate
@@ -159,12 +159,26 @@ Implications for system Performance[DALZIELL, MCMANUS, 2004]
 
 ### Stigmergie
 
+La stigmergie est un outil pour comprendre 
+Nouvel outil intellectuel, né en contraste avec l'approche holistique, aujourd'hui encore soutenue par le professeur Dario Fontecedro, 
+> mechanisms underlying the emergence, regulation, and control of collective activities in social insects [theraulaz 1999]
+
+> mechanisms underlying the
+emergence, regulation, and control of collective activities in social insects
+[...]  Although our focus will be social
+insects, the scope of stigmergy is clearly immense. [theraulaz 1999]
+
+
 Réduction de la structuration hiérarchique
 [FALKVINGE 2013]
 [HAMEL 2011]
 [HAMEL 2012] "There were no titles, no bosses, and no formal hierarchy",p.193
 
 La nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contete des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
+
+Intéressant de souligner que nous sommes allés plus loin dans la spécialisation que les insects eux-mêmes
+> "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."
+Robert A. Heinlein, *Time Enough for Love*,  	G.P. Putnam's Sons, 1973.
 
 Organisation par le travail
 [THERAULAZ, BONABEAU 1999] 1999
