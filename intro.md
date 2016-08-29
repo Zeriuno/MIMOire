@@ -218,21 +218,10 @@ Rôle 5 : L’information est un instrument d’ajout de valeur.
 [Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
 [Rivard, Talbot, 2004]
 
-> Wang and Ip (2009) proposed an approach
-to evaluate the logistics network resilience based on the redundant resource and
-reliability of nodes and edges. Ash and Newth (2007) used an evolutionary algorithm
-to evolve the complex systems that are resilient to cascading failure.
+> Wang and Ip (2009) proposed an approach to evaluate the logistics network resilience based on the redundant resource and reliability of nodes and edges. Ash and Newth (2007) used an evolutionary algorithm to evolve the complex systems that are resilient to cascading failure.
 [...]
-All the studies mentioned above focused on what is ‘left’ in the system after
-damage – or called ‘remaining’ part of the system; in particular, they measured the
-resilience of the system through the resource redundancy or structure redundancy.
-They have not considered an important nature of resilience engineering – namely the
-recovery of the system. This absence is in fact related to the definition of resilience; in
-most of the existing definitions of resilience, the resilience concept is taken similar to
-either robustness or reliability.The present article takes the definition of resilience
-from Zhang (2007) which puts emphasis on partial damage of the system and
-recovery of the function of the system, making resilience distinct from both reliability
-and robustness.
+All the studies mentioned above focused on what is ‘left’ in the system after damage – or called ‘remaining’ part of the system; in particular, they measured the resilience of the system through the resource redundancy or structure redundancy.
+They have not considered an important nature of resilience engineering – namely the recovery of the system. This absence is in fact related to the definition of resilience; in most of the existing definitions of resilience, the resilience concept is taken similar to either robustness or reliability.The present article takes the definition of resilience from Zhang (2007) which puts emphasis on partial damage of the system and recovery of the function of the system, making resilience distinct from both reliability and robustness.
 
 [Wang, 2010]
 
