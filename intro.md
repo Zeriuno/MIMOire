@@ -116,7 +116,7 @@ Internet: [Davies, Barber, 1973], [Davies *et alii*, 1979], [Abbate, 2000]
 
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique
 Compartimenter [intéressant de remarquer que dans ce cas le parallèle humain est en contradicition avec ce que propose d'utiliser la résilience]
-Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming) [Coplien, Harrison, 2004]
+Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - pair programming, scrum et extreme programming, bus factor) [Coplien, Harrison, 2004]
 Éviter les goulots d'étranglement et les SPOF, créer de doubles parcours.
 Contrôle de l'erreur, audit
 Tolérance aux pannes
@@ -202,8 +202,10 @@ Third, a multitiered management structure means more approval layers and slower 
 Ces capacités de renverser radicalement les processus de manière brutale et d'imposer une chaîne de réponse nécessaire tout autant que lente, met à mal la capacité d'une organisation de pouvoir mettre en œuvre des réponses.\newline
 Plus, la nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contexte des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
 
-Les perspectives des avantages et des risques évoquées, comment peuvent se manifester de telles ressources, de stigmergie et de prévention des risques d'une organisation rigidement encadré par les rôles hiérarhiques à l'intérieur du système d'information?\newline
-À nouveau, ce sont des éléments de l'approche agile à faire cette transition. En particulier, dans le cas de l'approche *Scrum*, [Coplien, Harrison, 2004]
+Les perspectives des avantages et des risques évoquées, comment peuvent se manifester de telles ressources, de stigmergie et de prévention des risques d'une organisation rigidement encadré par les rôles hiérarhiques à l'intérieur du système d'information?
+
+À nouveau, ce sont des éléments de l'approche agile à faire cette transition.\newline
+En particulier, dans le cas de l'approche *Scrum*, en plus de celles déjà évoquées, plusieurs  [Coplien, Harrison, 2004]
 
 ### Mesurer la résilience
 
