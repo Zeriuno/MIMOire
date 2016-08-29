@@ -47,6 +47,7 @@
 [O'Reilly, 2016] Courtney Nash, *5 ways to make your operations more resilient in 2016*, https://www.oreilly.com/ideas/5-ways-to-make-your-operations-more-resilient-in-2016.\newline
 [Olshansky, 2011] Robert B. Olshansky, Designing Resilience: Preparing for Extreme Events, *Journal of Comparative Policy Analysis: Research and Practice*, 13(2) :233-235, 2011.\newline
 [Omer, Mostashari, Lindemann 2014] Mayada Omer, Ali Mostashari, Udo Lindemann, Resilience Analysis of Soft Infrastructure Systems, *Procedia Computer Science*, 28 :565-574, 2014.\newline
+[Payet, 2015] Linda Payet, *Cartographie du Syst`eme d’Information*, mémoire MIMO, 2015.\newline
 [Piccinini, 2010] Gualtiero Piccinini, The Resilience of Computationalism, *Philosophy of Science*, 77(5) :852-861, 2010.\newline
 [Rak, 2015] Jacek Rak, *Resilient Routing in Communication Networks*, Springer, 2015.\newline
 [Ridley, 2011] Gail Ridley, National Security as a Corporate Social Responsibility: Critical Infrastructure Resilience, *Journal of Business Ethics*, 103(1) :111-125, 2011.\newline
