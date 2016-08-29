@@ -166,6 +166,7 @@ emergence, regulation, and control of collective activities in social insects
 [...]  Although our focus will be social
 insects, the scope of stigmergy is clearly immense. [theraulaz 1999]
 
+Il n'y a pas de hiérarchie entre l'insecte qui commence la construction et ceux qui la poursuivent, juste une communauté de réponses face à des stimuli communs.
 
 Réduction de la structuration hiérarchique
 [FALKVINGE 2013]
@@ -175,6 +176,7 @@ Réduction de la structuration hiérarchique
 La nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contete des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
 
 Intéressant de souligner que nous sommes allés plus loin dans la spécialisation que les insects eux-mêmes
+
 > "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."
 Robert A. Heinlein, *Time Enough for Love*,  	G.P. Putnam's Sons, 1973.
 
