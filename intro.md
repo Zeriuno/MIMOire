@@ -171,26 +171,16 @@ Dans ce cadre les organisations sont caractérisée par une stricte égalité pa
 
 La synthèse offerte dans est assez intéressante et habile pour être relatée en entier [Theraulaz, Bonabeau, 1999]:
 
-> One of the best examples of quantitative stigmergy is the construction of pillars in termites, studied by Grasse. Workers use soil pellets impregnated with pheromone to build pillars. Two successive phases take place. First, the noncoordinated phase is characterized by a random deposition of pellets. This phase lasts until one of the deposits reaches a critical size. Then, the coordination phase starts if the group of builders is sufficiently large: Pillars or strips emerge. The existence of an initial deposit of soil pellets stimulates workers to accumulate more material through a positive feedback mechanism, since the accumulation of material reinforces the attractiveness
-of deposits through the diffusing pheromone emitted by the pellets.
-This autocatalytic, snowball effect leads to the coordinated phase. If the density of builders is too small, the pheromone disappears between two successive passages by the workers, and the amplification mechanism cannot work, which leads to a noncoordinated phase. The system undergoes a bifurcation at this critical density: No pillar emerges below it, but pillars can emerge above it.
-This example illustrates three important properties or signatures of the self-organized dynamics associated with quantitative stigmergy [1]: (a) the emergence of spatiotemporal structures in an initially homogeneous medium, that is, a random spatial distribution of soil pellets. The basic mechanism that leads to the emergence of these structures is positive feedback (the snowball effect); once the structures are created, they are stabilized through negative feedback, mainly pheromone decay and competition among neighboring pillars. (b) the possible coexistence of several stable states (multistability): Structures emerge by amplification of random deviations, and any such deviation can be amplified, so that the system converges to one among several possible
-stable states, depending on initial conditions (path dependency). (c) the existence of (parameter-driven) bifurcations, where the behavior of a self-organized system changes dramatically.
+> One of the best examples of quantitative stigmergy is the construction of pillars in termites, studied by Grassé. Workers use soil pellets impregnated with pheromone to build pillars. Two successive phases take place. First, the noncoordinated phase is characterized by a random deposition of pellets. This phase lasts until one of the deposits reaches a critical size. Then, the coordination phase starts if the group of builders is sufficiently large: Pillars or strips emerge. The existence of an initial deposit of soil pellets stimulates workers to accumulate more material through a positive feedback mechanism, since the accumulation of material reinforces the attractiveness of deposits through the diffusing pheromone emitted by the pellets. This autocatalytic, snowball effect leads to the coordinated phase. If the density of builders is too small, the pheromone disappears between two successive passages by the workers, and the amplification mechanism cannot work, which leads to a noncoordinated phase. The system undergoes a bifurcation at this critical density: No pillar emerges below it, but pillars can emerge above it.\newline
+This example illustrates three important properties or signatures of the self-organized dynamics associated with quantitative stigmergy: (a) the emergence of spatiotemporal structures in an initially homogeneous medium, that is, a random spatial distribution of soil pellets. The basic mechanism that leads to the emergence of these structures is positive feedback (the snowball effect); once the structures are created, they are stabilized through negative feedback, mainly pheromone decay and competition among neighboring pillars. (b) the possible coexistence of several stable states (multistability): Structures emerge by amplification of random deviations, and any such deviation can be amplified, so that the system converges to one among several possible stable states, depending on initial conditions (path dependency). (c) the existence of (parameter-driven) bifurcations, where the behavior of a self-organized system changes dramatically.
 
-Il est ensuite possible d'individuer deux types de stigmergie, l'une quantitative, l'autre qualitative.\newline
-La première individue le fait
-Stigmergie quantitative: les quantités de traces laissées guident la poursuite du travail
+Dans ce contexte de mode opératoire, capable de répondre rapidement au changement de contexte et de se réorganiser de manière autonome, il est ensuite possible d'individuer deux types de stigmergie, l'une quantitative, l'autre qualitative (voir [Theraulaz, Bonabeau, 1999]).
 
-Stigmergie qualitative, le type de traces
+Le champ d'application, comme le soulignent les éthologues, est tout simplement immense.\newline
+Dans ce contexte hautement efficace il n'y a pas de structure hiérarchique ou de subdivision du travail, mais une capacité de répondre partagée face à des stimuli communs.
 
-Le champ d'application, comme le soulignent les éthologues, est tout simplement immense.
+La réduction de l'emprise de la structure hiérarchique est par ailleurs un thème évoqué dans plusieurs contextes, aussi bien tout à fait attendus sur ce sujet. Il est assez attendu de la part du fondateur du Parti Pirate [FALKVINGE 2013], qui loue la résilience d'une organisation de telle sorte, mais il est plus que surprenant qu'un professeur de la London School of Economics invite les lecteurs de la Harvard Business Review à licencier tous les managers [HAMEL 2011]. Dans ce qui n'est pas une provocation improvisée, mais une étape d'une réflexion qui se poursuit dans les années ([HAMEL 2012])
 
-Il n'y a pas de structure hiérarchique ou de subdivision du travail, mais une capacité de répondre partagée face à des stimuli communs.
-
-Réduction de la structuration hiérarchique
-[FALKVINGE 2013]
-[HAMEL 2011]
-[HAMEL 2012] "There were no titles, no bosses, and no formal hierarchy",p.193
 
 La nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contete des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
 
