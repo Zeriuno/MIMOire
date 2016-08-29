@@ -1,8 +1,10 @@
 # Bibliographie
 
+[Abbate, 2000] Jane Abbate, *Inventing the Internet*, MIT Press, 2000.\newline
 [Aïn, 2007] Joyce Aïn, *Résiliences : Réparation, élaboration ou création*, Erès, 2007.\newline
 [Benassar, 2010] Matthieu Benassar, *Plan de continuité des activités et système d'information: vers l'entreprise résiliente*, Dunod, 2010.\newline
 [Berleur, David Hercheui, Hilty, 2010] Jaques Berleur,Magda David Hercheui, Lorenz M. Hilty, *What Kind of Information Society. Governance, Virtuality, Surveillance, Sustainability, Resilience*, Springer, 2010.\newline
+[Blanc, Noor, 2012] Sabine Blanc, Ophélia Noor, *Hackers : Bâtisseurs depuis 1959*, OWNI, 2012.\newline
 [Boin, McConnel, 2007] Arjen Boin, Allan McConnell, Preparing for Critical Infrastructure Breakdowns: The Limits of Crisis Management and the Need for Resilience, *Journal of Contingencies and Crisis Management*, 15(1) :51-59, 2007.\newline
 [Branscomb, Gazis, 1977] Lewis M. Branscomb, Denos C. Gazis, Resilience, Hypotheticality and Computers-Designing Social Systems under Uncertainty, *Proceedings of the American Philosophical Society*, 121(5) :346-349, 1977.\newline
 [Brewer *et alii*, 2016] Eric Brewer *et alii*, *Disks for Data Centers White paper for FAST 2016*, h​ttp://research.google.com/pubs/pub44830.html, 2016.\newline
@@ -20,6 +22,7 @@
 [Cresti, 2014] Simona Cresti, *L’elasticità di resilienza*, http://www.accademiadellacrusca.it/it/lingua-italiana/consulenza-linguistica/domande-risposte/l-elasticit-resilienza.\newline
 [D’Atri, De Marco, Casalino, 2008] Alessandro D’Atri, Marco De Marco, Nunzio Casalino, *Interdisciplinary Aspects of Information Systems Studies*, Physica-Verlag, 2008.\newline
 [Dauphiné, Provitolo, 2007] André Dauphiné, Damienne Provitolo, La résilience : un concept pour la gestion des risques / Resilience: a concept for risk management, *Annales de Géographie*, 116(654) :115-125, 2007.\newline
+[Davies, Barber, 1973]  Donald W. Davies, Derek L. A. Barber, *Communication networks for computers*, John Wiley, 1973.\newline
 [El Sawy, Nanus, 1989] Omar A. El Sawy, Burt Nanus, Toward the Design of Robust Information Systems, *Journal of Management Information Systems*, 5(4) :33-54, 1989.\newline
 [Falkvinge, 2013] Rick Falkvinge, *Swarmwise, The Tactical Manual to Changing the World*, CreateSpace Publishing Platform, 2013.\newline
 [Fontecedro] Dario Fontecedro, https://www.youtube.com/watch?v=4r7C3P_4NoA.\newline

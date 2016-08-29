@@ -110,6 +110,8 @@ On a pu rappeller comment la place du système d'information dans une organisati
 Il s'agit dans ce cas de solutions qui ont été mis au point dans une approche principalement pratique.\newline
 Celle-ci a d'ailleurs servi à exemplifier et augmenter la prise de conscience de formulations qui reposent sur des principes de logique générale.
 
+Suite d'inventions et aventures intellectuelles [Blanc, Noor, 2012]
+
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique
 Compartimenter [intéressant de remarquer que dans ce cas le parallèle humain est en contradicition avec ce que propose d'utiliser la résilience]
 Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming) [Coplien, Harrison, 2004]
@@ -166,7 +168,7 @@ emergence, regulation, and control of collective activities in social insects
 [...]  Although our focus will be social
 insects, the scope of stigmergy is clearly immense. [theraulaz 1999]
 
-Il n'y a pas de hiérarchie entre l'insecte qui commence la construction et ceux qui la poursuivent, juste une communauté de réponses face à des stimuli communs.
+Il n'y a pas de hiérarchie entre l'insecte qui commence la construction et ceux qui la poursuivent, juste une communauté de réponses face à des stimuli communs.[theraulaz 1999]
 
 Réduction de la structuration hiérarchique
 [FALKVINGE 2013]
