@@ -161,12 +161,13 @@ Implications for system Performance[DALZIELL, MCMANUS, 2004]
 
 ### Stigmergie
 
-La stigmergie représente un nouvel outil intellectuel, né en contraste avec l'approche holistique des communautés, aujourd'hui encore soutenue par le professeur Dario Fontecedro, qui permet de comprendre les méchanismes qui président à l'émergence, la régulation et le contrôle des activités collectives dans les insectes sociaux [Theraulaz, Bonabeau, 1999] :
+La stigmergie représente un nouvel outil intellectuel, né en contraste avec l'approche holistique des communautés, aujourd'hui encore soutenue par le professeur Dario Fontecedro. Ce concept permet de comprendre les méchanismes qui président à l'émergence, la régulation et le contrôle des activités collectives dans les insectes sociaux [Theraulaz, Bonabeau, 1999] :
 
 > Stigmergy (from the Greek stigma: sting and ergon: work) was initially introduced to explain indirect task coordination and regulation in the context of nest reconstruction in termites of the genus Bellicositermes. Grassé showed that the coordination and regulation of building activities do not depend on the workers themselves but are mainly achieved by the nest structure.
 [...]
-Stigmergy offers an elegant and stimulating framework to understand the coordination and regulation of collective activities. The main problem is then to determine how stimuli are organized (in space and time) to generate robust and coherent patterns.
+Stigmergy offers an elegant and stimulating framework to understand the coordination and regulation of collective activities.
 
+Dans le cadre de la stigmer
 Il n'y a pas de hiérarchie entre l'insecte qui commence la construction et ceux qui la poursuivent, juste une communauté de réponses face à des stimuli communs
 
 Stigmergie quantitative: les quantités de traces laissées guident la poursuite du travail
@@ -187,7 +188,6 @@ Intéressant de souligner que nous sommes allés plus loin dans la spécialisati
 Robert A. Heinlein, *Time Enough for Love*,  	G.P. Putnam's Sons, 1973.
 
 Organisation par le travail
-[THERAULAZ, BONABEAU 1999] 1999
 [SUSI, ZIEMKE 2001] susi
 [ZHANG, WATTS 2004]
 [Kwan *et alii*, 2012] kwan
