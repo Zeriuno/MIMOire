@@ -22,6 +22,7 @@
 [Cresti, 2014] Simona Cresti, *L’elasticità di resilienza*, http://www.accademiadellacrusca.it/it/lingua-italiana/consulenza-linguistica/domande-risposte/l-elasticit-resilienza.\newline
 [D’Atri, De Marco, Casalino, 2008] Alessandro D’Atri, Marco De Marco, Nunzio Casalino, *Interdisciplinary Aspects of Information Systems Studies*, Physica-Verlag, 2008.\newline
 [Dauphiné, Provitolo, 2007] André Dauphiné, Damienne Provitolo, La résilience : un concept pour la gestion des risques / Resilience: a concept for risk management, *Annales de Géographie*, 116(654) :115-125, 2007.\newline
+[Davies *et alii*, 1979] Donald W. Davies *et alii*, *Computer networks and their protocols, Computing and Information Processing*, John Wiley & Sons, 1979.\newline
 [Davies, Barber, 1973]  Donald W. Davies, Derek L. A. Barber, *Communication networks for computers*, John Wiley, 1973.\newline
 [El Sawy, Nanus, 1989] Omar A. El Sawy, Burt Nanus, Toward the Design of Robust Information Systems, *Journal of Management Information Systems*, 5(4) :33-54, 1989.\newline
 [Falkvinge, 2013] Rick Falkvinge, *Swarmwise, The Tactical Manual to Changing the World*, CreateSpace Publishing Platform, 2013.\newline

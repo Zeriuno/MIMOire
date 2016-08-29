@@ -112,6 +112,8 @@ Celle-ci a d'ailleurs servi à exemplifier et augmenter la prise de conscience d
 
 Suite d'inventions et aventures intellectuelles [Blanc, Noor, 2012]
 
+Internet: [Davies, Barber, 1973], [Davies *et alii*, 1979], [Abbate, 2000]
+
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique
 Compartimenter [intéressant de remarquer que dans ce cas le parallèle humain est en contradicition avec ce que propose d'utiliser la résilience]
 Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - scrum, pair programming) [Coplien, Harrison, 2004]
