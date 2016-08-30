@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine et une utilisation attestée dans les écrits philosophiques dès le XVIIe siècle (Bacon [TLFi], Descartes [Cresti, 2014]), le mot "résilience" ne manque d'ailleurs pas de les intéresser.\newline
+Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine est sa présence attestée dans l'horizon culturel des philosophes dès le XVIIe siècle (Bacon [TLFi], Descartes [Cresti, 2014]), le mot "résilience" ne manque d'ailleurs pas de les intéresser.\newline
 Au cours des siècles en effet son contenu sémantique s’est renouvelé plusieurs fois: si le mot d'origine est la crase latine de "re" et "silire", c'est dans cette acception, de "rebondir", qu'il est introduit dans l'anglais du XVIIe siècle. Perçu comme un anglicisme [TLFi], attesté en effet dans les *Notes* de Thomson [Bucharles, 2008], il est employé en français déjà au début du XXe siècle: nouvelle acception, le terme sert à décrire la force morale de ceux qui accablés par des circonstances opposées, resurgissent. Dans une signification proche, le terme est également choisi par la discipline, bien éloignée, de la physique des matériaux: pour celle-ci résilience est la propriété d'absorber un choc et de savoir ensuite retrouver sa forme précédente [TLFi].
 
 Le vingtième siècle aura sans doute été, pour la société occidentale, celui du choc, du traumatisme: deux guerres mondiales ont marqué sa première moitié et la deuxième a été également conditionnée, en creux, par le déchaînement dés puissances destructrices humaines. Un tel traumastisme était aussi bien présent comme souvenir des survivants, de ce qui s'était passé, que comme menace quotidienne de la guerre froide: danger toujours imminent qui faisait désespérer de la possibilité de rebondir.\newline
@@ -145,7 +145,6 @@ Self-Healing Systems
 Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
 
 
-
 Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
 
 
@@ -234,7 +233,8 @@ sum of the starting time for function i and its process time.
 
 [Wang, 2010]
 
-Un cadre quantitatif a été proposé aussi dans [Wang, 2010]
+
+Nécessité cependant de pondérer ces données quantitatives en fonction des buts du système d'information et de son contexte. Les rôles pourraient ne pas être les mêmes.
 
 > Rôle 1 : L’information joue un rôle de soutien aux processus de production.\newline
 Rôle 2 : L’information est une matière première et un output des processus d’affaires.\newline
