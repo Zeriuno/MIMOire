@@ -1,6 +1,40 @@
-% La résilience dans le système d'informations
-% Daniele Pitrolo
-% 30 août 2016
+\pdfbookmark[0]{Front page}{label:frontpage}%
+\begin{titlepage}
+  \noindent%
+  \begin{tabular}{@{}p{\textwidth}@{}}
+    \vspace{0.2cm}
+    \begin{center}
+    \Huge{\textbf{
+      La résilience dans le système d'informations% insert your title here
+    }}
+    \end{center}
+    \begin{center}
+      \Large{
+        Daniele Pitrolo% insert your subtitle here
+      }
+    \end{center}
+    \vspace{0.2cm}\\
+  \end{tabular}
+  \vspace{4 cm}
+  \begin{center}
+    {\large
+      Mémoire%Insert document type (e.g., Project Report)
+    }\\
+    \vspace{0.2cm}
+    {\Large
+      Master MIMO%Insert your group name or real names here
+    }
+  \end{center}
+  \vfill
+  \begin{center}
+  Université Paris 1\\
+  Panthéon - Sorbonne
+  \end{center}
+\end{titlepage}
+\clearpage
+
+\tableofcontents
+\clearpage
 
 ## Introduction
 
@@ -260,7 +294,7 @@ to safety through their ability to adapt to changes, gaps in system
 design, and unplanned for situations.
 \newpage
 
-# Conclusion
+## Conclusion
 
 > The construct of resilience has captured the imagination of researchers across various disciplines over the last five decades. [Shaikh, Kauppi, 2010]
 
