@@ -137,9 +137,8 @@ Ce niveau macroscopique peut se constituer d'une systématisation des éléments
 La mise en système de ressources de type élémentaire est aussi ce qui donne lieu au PRA, plan de reprise des activités, ainsi que du PCA, plan de continuité des activités [Benassar, 2010]. Ce dernier, encadré par la norme ISO 22301, a pour objectif de permettre de poursuivre l'activité du système informatique sans interruption du service et d’assurer la disponibilité des informations quels que soient les problèmes rencontrés. Le PRA, par contre, décrit les mesures qui doivent être déclenchées à la survenue d'un sinistre ou incident majeur ayant entraîné une interruption de l'activité.
 
 La résilience au niveau systématique peut cependant être aussi autre chose que la réplication à grande échelle des solutions élémentaires, car le recours aux mêmes outils à une échelle différente fait preuve d'une efficacité marginale moindre. En effet cette logique fractale produit une multiplication des contrôles qui pèse sur la performance du système [DALZIELL, MCMANUS, 2004], et celle-ci est d'ailleurs la raison pour laquelle la méthode Six Sigma s'attache à identifier et supprimer ces dédoublements [Tennant, 2001]. Ainsi on observe désormais une approche différente dans les recherches les plus en pointe.\newline
-Exemple de celles-ci, le travail mené par les équipes de Google, sur les disques pour les *datacenters* [Brewer *et alii*, 2016]: parmi les autres souhaits exprimés par l'entreprise figure en effet celui de voir les producteurs de disques durs fournir des produits qui n'intégreraient pas
-Raisonnant Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
->A big thing they are saying in the paper is that they want to see data center HDDs that care slightly less about their medium error rates and opt to give better areal density and more consistent tail latencies and let the system above it to handle the reliability as it needs to do anyway.
+Exemple de celles-ci, le travail mené par les équipes de Google, sur les disques pour les *datacenters* [Brewer *et alii*, 2016]: parmi les autres souhaits exprimés par l'entreprise figure en effet celui de voir les producteurs de disques durs fournir des produits qui n'intégreraient pas des outils de bas niveau de contrôle des écritures sur disque. Cette foncion peut en effet être confiée à un niveau supérieur du système, comme le *file system*, et permettre ainsi d'atteindre une plus grande densité des secteurs de mémoire et des temps de latence moindres.\newline
+http://pages.cs.wisc.edu/~kadav/zfs/zfsrel.pdf
 
 >  a number of resilience principles are defined, including a resilience strategy, called D2R2 + DR: Defend, Detect, Remediate, Recover, and Diagnose and Refine. [...] At its core is a control loop comprising a number of conceptual components that realize the real-time aspect of the D2R2 + DR strategy, and consequently implement network resilience. Based on the resilience control loop, other necessary elements of our framework are derived, namely resilience metrics, understanding challenges and risks, a distributed information store, and policy-based management.
 
@@ -147,15 +146,10 @@ Raisonnant Ou bien il existe des cas dans lesquels démander la solution à un n
 challenge analysis.
 [Smith *et alii*, 2011]
 
-ZFS)
-Tolérance aux pannes
 [Smith, 2011]
 Self-Healing Systems
 
-
-Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
-
-, [CHAUDHRY 2014]
+[CHAUDHRY 2014]
 
 ### Stigmergie
 
