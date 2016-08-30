@@ -206,10 +206,10 @@ Face à une pluralité d'estimations, tout choix est sujet à un biais qui risqu
 
 ### Mesurer la résilience
 
-Facilité de mesurer la résilience des matériaux, via le test d'Augustin-Charles-Marie Mesnager et de Georges Charpy,
+La rassurante facilité de mesurer la résilience des matériaux, via le test d'Augustin-Charles-Marie Mesnager et de Georges Charpy,
 ASTM E23, EN ISO 179-1 et -2, ISO 148-1, -2 et -3.
 
-Plusieurs chercheurs ont également conçu et proposé un cadre de mesuration de la résilience pour le domaine qui nous intéresse. Ceux-ci par contre limitent leur champ d'analyse au système informatique. Dans cette situation
+Plusieurs chercheurs ont également conçu et proposé un cadre de mesuration de la résilience pour le domaine qui nous intéresse. Ceux-ci par contre limitent leur champ d'analyse au système informatique. Ainsi on peu choisir d'évaluer la résilience sur la base de la rédondance et de la fiabilité (comme temps de service entre les pannes) des équipements [Wang, 2010] ou même
 
 > Wang and Ip proposed an approach to evaluate the logistics network resilience based on the redundant resource and reliability of nodes and edges. Ash and Newth (2007) used an evolutionary algorithm to evolve the complex systems that are resilient to cascading failure.
 [...]
