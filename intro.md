@@ -250,26 +250,15 @@ Face à une pluralité d'estimations, tout choix est sujet à un biais qui risqu
 Les test d'Augustin-Charles-Marie Mesnager et de Georges Charpy, maintenait codifiés dans des standard (ASTM E23, EN ISO 179-1 et -2, ISO 148-1, -2 et -3) permettent de connaître la résilience des métaux par le biais des simples et rassurantes grandeurs scalaires.
 
 Plus complexe à apprécier, la volonté de mesurer de la même manière la résilience des systèmes donne lieu à un éventail de propositions presque aussi vaste que les possibles définitions du phénomène de résilience lui-même[Wolter \emph{et alii}, 2012].\newline
-Ainsi on peu choisir d'évaluer la résilience sur la base de la rédondance et de la fiabilité (comme temps de service entre les pannes) des équipements [Wang, 2010] ou même
-
-Ceux-ci par contre limitent leur champ d'analyse au système informatique.
-approche méchaniste
-
-
-> Wang and Ip proposed an approach to evaluate the logistics network resilience based on the redundant resource and reliability of nodes and edges. Ash and Newth (2007) used an evolutionary algorithm to evolve the complex systems that are resilient to cascading failure.
-[...]
-
+Ainsi on peu choisir d'évaluer la résilience sur la base de la rédondance et de la fiabilité (comme temps de service entre les pannes) des équipements; à travers un algorithme évolutif qui prenne en compte les nombre de systèmes qui ne seraient pas susceptibles à une panne en cascade, ou encore [Wang, 2010]
 
 \begin{quote}
 We use the maximum recovery ability to measure the resilience of an enterprise information system. We consider a scenario that an enterprise information system is partially damaged. There are m functions in the system and n categories of resources to recover the functions. The number of resources j (j 1⁄4 1, 2, . . . , n) needed for the recovery of function i (i 1⁄4 1, 2, . . . , m) is denoted by r\textsubscript{ij}. The amount of resources for each category is limited. The process time needed for the recovery of function i is p\textsubscript{i}. We assume that functions are not recovered at the same time. This assumption implies that the recovery may take a particular order among a set of recovery tasks. For function i, there is a completion time, denoted by c\textsubscript{i}. It is noted that the completion time c i is different from the process time p\textsubscript{i} in that the completion is the sum of the starting time for function i and its process time.
 \end{quote}
 
+Ces approches sont cependant marquées par une forte empreinte méchaniste, et de manière non surpenante limitent leur champ d'analyse au système informatique.
 
-[Wang, 2010]
-
-mesuration également métrique dans Smith, 2011
-
-Ces approches oublient cependant que le concept de résilience est aussi issu des sciences humaines et que le système d'information est également humain.
+Elles oublient par là que le concept de résilience est aussi le produit d'une réflexion des sciences humaines et que le système d'information a justement une composante humaine.
 Incommensurabilité de la réaction de l'homme.
 Si on case l'homme dans des structures rigides cela le contraint à une fonction d'exécution substantiellement méchanique
 Facteur humain à prendre en compte, sachant que celui-ci est important dans la résilience, comme souligné par les chercheurs [Hollnagel, Woods, Leveson, 2006]
