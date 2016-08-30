@@ -108,12 +108,19 @@ On a pu rappeller comment la place du système d'information dans une organisati
 Il s'agit dans ce cas de solutions qui ont été mis au point et éprouvés dans une approche à haute valeur intellectuelle, qui a servi à exemplifier et augmenter la prise de conscience de formulations qui reposent sur des principes de logique générale, mais qui également très pratique.\newline
 Racontée sous la forme de recit, [Blanc, Noor, 2012], l'épopée longue et composite de la création d'Internet [Abbate, 2000] est constituée d'avancées majeures dans la conception d'une structure résiliente [Davies, Barber, 1973], [Davies *et alii*, 1979], infiniment plus aboutie en cela que la constitution du Web, le *cousin populaire* d'Internet.
 
-Parmi les précieuses théorisations accomplies dans ce parcours prime probablement la mise en garde contre les *Single Point of Failure*, les éléments qui, en cas d'échec, entraînent nécessairement avec eux tout leur système.\newline
-Le système de la commutation de paquets, infiniment plus abouti en cela que le Web, son *cousin populaire*,
-Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique [Léry, 2013]
+Parmi les précieuses théorisations accomplies dans ce parcours prime probablement la mise en garde contre les *Single Point of Failure*, les éléments qui, en cas d'échec, entraînent nécessairement avec eux tout leur système. Le système de la commutation de paquets est riche en remèdes à ce danger.\newline
+Première ressource contre ces points bloquants est la redondance: la fonction n'est plus confiée à un élément unique mais partagée entre deux équivalents, l'un étant prêt à assurer la continuité de fonctionnement du système en cas de défaillance de l'autre.\newline
+Associée à cette solution, plusieurs autres s'ajoutent afin de fournir plus de  garanties, telle l'atomisation de l'information. principe algorithmique [Léry, 2013]
+
+Connues, ces techniques, sont à mettre en regard avec leurs traductions plus récentes au niveau de la gestion des équipes.\newline
+L'approche agile est en effet attentive au risques évoqués et a pour cela mis au point plusieurs procédures. Le risque de disparition d'une personne clé d'une équipe, appellé *Bus Factor*, en évoquant le scénario d'un accident de la route, est une préoccupation prise en compte et que l'on contre, par exemple, par le recours à l'écriture du code par binômes (une approche encouragée dans le cadre *Scrum*, imposée dans celui, plus normatif, de l'*extreme programming* [Coplien, Harrison, 2004]).
+
+
+(paquet / itérations agiles) ->
 Compartimenter [intéressant de remarquer que dans ce cas le parallèle humain est en contradicition avec ce que propose d'utiliser la résilience]
 Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - pair programming, scrum et extreme programming, bus factor) [Coplien, Harrison, 2004]
 Contrôle de l'erreur, audit
+\newpage
 
 ## La résilience à l'échelle macroscopique
 
