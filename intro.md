@@ -61,7 +61,7 @@ Ces éléments éclairés, nous pouvons ultérieurement réduire la définition 
 
 L'effet de la résilience sera également conçu de manière large: l'aboutissement pourra aussi bien être la récupération de la situation précédente à la perturbation, un fonctionnement ordinaire, ou bien une amélioration de celui-ci.
 
-Pour conclure notre définition, nous pourrons relever la proximité entre ce domaine d'études, tel que nous venons de le définir, et le champ de recherche du système d'information robuste. Celui-ci [El Sawy, Nanus, 1989]:
+Pour conclure notre définition, nous pourrons relever la proximité entre ce domaine d'études, tel que nous venons de le définir, ce qui a été défini, sans beaucoup de suite, comme "IS Mindfulness" [BUTLER, GRAY 2006], et le champ de recherche, plus important que ce dernier, du système d'information robuste. Celui-ci [El Sawy, Nanus, 1989]:
 
 > is achieved by choosing a strategy that yields satisfactory results under all environmental scenarios which are assessed as having an appreciable probability of occurring
 
@@ -138,18 +138,21 @@ Ce niveau macroscopique peut se constituer d'une systématisation des éléments
 Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
 >A big thing they are saying in the paper is that they want to see data center HDDs that care slightly less about their medium error rates and opt to give better areal density and more consistent tail latencies and let the system above it to handle the reliability as it needs to do anyway.
 
-(ZFS)
+>  a number of resilience principles are defined, including a resilience strategy, called D2R2 + DR: Defend, Detect, Remediate, Recover, and Diagnose and Refine. [...] At its core is a control loop comprising a number of conceptual components that realize the real-time aspect of the D2R2 + DR strategy, and consequently implement network resilience. Based on the resilience control loop, other necessary elements of our framework are derived, namely resilience metrics, understanding challenges and risks, a distributed information store, and policy-based management.
+
+[Smith, 2011]
+
+ZFS)
 Tolérance aux pannes
+[Smith, 2011]
 Self-Healing Systems
+
 
 Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
 
 
 Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
 
-
-
-IS Mindfulness: [BUTLER, GRAY 2006]
 
 
 De tels travaux Implications for system Performance[DALZIELL, MCMANUS, 2004]
@@ -233,6 +236,7 @@ sum of the starting time for function i and its process time.
 
 [Wang, 2010]
 
+mesuration également métrique dans Smith, 2011
 
 Nécessité cependant de pondérer ces données quantitatives en fonction des buts du système d'information et de son contexte. Les rôles pourraient ne pas être les mêmes.
 
