@@ -125,8 +125,11 @@ Pour finir, une solution, envisagée déjà depuis de nombreuses années dans le
 
 On pourrait croire, à l'intérieur d'un cadre quelque peu empreint de pensée mécaniste, que la résilience d'anticipation serait capable, à condition de prendre en considération le bon périmètre de phénomènes, de contrer toute erreur, tout dérangement du système.\newline
 
-Faire appel à la vision géographique de la résilience peut aider à contrer et échapper à ce cadre trompeur.
-[Dauphiné, Provitolo, 2007]
+Faire appel à la vision géographique de la résilience peut aider à contrer et échapper à ce cadre trompeur. Tout d'abord elle oblige à se confronter au fait que, telle la crue d'un fleuve bien que imaginable et prévisible, le facteur de dérangement ne peut pas être toujours évité, conjuré [Dauphiné, Provitolo, 2007].\newline
+Dans un tel cas nous sommes amenés à saisir la nécessité d'une approche macroscopique, dans laquelle l'erreur qui se manifeste ne peut pas être arrêté dès sa manifestation, au niveau microscopique, mais sa contention est le fait de l'intéraction entre les différentes parties du système.\newline
+C'est d'ailleurs cet aspect, la nécessité de prendre en compte le système dans lequel la résilience se manifeste, un système dont les facteurs ont d'ailleurs des effets bidirectionnels, que des chercheurs opposent à plusieurs définitions du phénomène trop pauvres à leurs yeux [Shaikh, Kauppi, 2010].
+
+Ce niveau macroscopique peut se constituer d'une systématisation des éléments préparés au niveau microscopique. Tel est par exemple le cas du PRA, plan de reprise des activités, ainsi que du PCA, plan de continuité des activités [Benassar, 2010]. Ce dernier,  (ISO 22301)
 
 Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
 
@@ -134,11 +137,9 @@ Tolérance aux pannes
 
 à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème. (ZFS)
 
-Nécessité d'une approche macroscopique, une approche que nous allons définir comme "systémique", tandis que d'autres.\newline
-C'est d'ailleurs cet aspect, la nécessité de prendre en compte le système dans lequel la résilience se manifeste que des chercheurs soulignent comme nécessaire lorsqu'on définit le phénomène, d'autant plus que cette rélation est bidirectionnelle [Shaikh, Kauppi, 2010]:
+N une approche que nous allons définir comme "systémique", tandis que d'autres.\newline
 
-> The degree of resilience displayed by a person in a given context is dependent upon the extent to which that context contains elements to nurture resilience. If an individual does not adapt to adverse circumstances, the reason might be that the environment lacks the resilience to negotiate
-with the individual and to provide what is needed. In such a case, an individual’s environment lacks resilience and not the individual per se. Hence it can be said that resilient individuals require resilient families and resilient communities. However, this relationship between individual resilience and the resilience of the families and communities is not unidirectional.\newline
+> The degree of resilience displayed by a person in a given context is dependent upon the extent to which that context contains elements to nurture resilience. If an individual does not adapt to adverse circumstances, the reason might be that the environment lacks the resilience to negotiate with the individual and to provide what is needed. In such a case, an individual’s environment lacks resilience and not the individual per se. Hence it can be said that resilient individuals require resilient families and resilient communities. However, this relationship between individual resilience and the resilience of the families and communities is not unidirectional.\newline
 [...]\newline
 Resiliency cannot be researched by merely focusing on these individual-level factors. Instead careful attention must be paid to the structural deficiencies (e.g., social and economic policies) that might need to be changed in order for individuals, families and communities to become stronger, more competent and better functioning in the adverse situations.
 
@@ -151,17 +152,15 @@ I've been thinking like this for a while and would tend to reduce the ERC (Error
 Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
 Self-Healing Systems
 
-PRA et PCA (ISO 22301)[Benassar, 2010]
 
 Prévision des échecs, premortem
 [Smith *et alii*, 2014]
 Le plan de reprise d’activité (PRA) est à distinguer du plan de continuité d'activité (PCA) : ce dernier a pour objectif de poursuivre l'activité sans interruption du service et d’assurer la disponibilité des informations quels que soient les problèmes rencontrés. Le PRA en est un sous-ensemble, qui décrit les mesures qui doivent être déclenchées à la survenue d'un sinistre ou incident majeur ayant entraîné une interruption de l'activité.
 
 IS Mindfulness: [BUTLER, GRAY 2006]
-[HUNTE, WEARS, SCHUBERT ????]
 
 
-Implications for system Performance[DALZIELL, MCMANUS, 2004]
+De tels travaux Implications for system Performance[DALZIELL, MCMANUS, 2004]
 
 ### Stigmergie
 
@@ -224,6 +223,7 @@ Plusieurs chercheurs ont également conçu et proposé un cadre de mesuration de
 
 > Wang and Ip proposed an approach to evaluate the logistics network resilience based on the redundant resource and reliability of nodes and edges. Ash and Newth (2007) used an evolutionary algorithm to evolve the complex systems that are resilient to cascading failure.
 [...]
+
 All the studies mentioned above focused on what is ‘left’ in the system after damage – or called ‘remaining’ part of the system; in particular, they measured the resilience of the system through the resource redundancy or structure redundancy.\newline
 They have not considered an important nature of resilience engineering – namely the recovery of the system. This absence is in fact related to the definition of resilience; in most of the existing definitions of resilience, the resilience concept is taken similar to either robustness or reliability. The present article takes the definition of resilience from Zhang (2007) which puts emphasis on partial damage of the system and recovery of the function of the system, making resilience distinct from both reliability and robustness.
 
