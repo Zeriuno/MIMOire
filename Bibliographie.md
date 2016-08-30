@@ -36,6 +36,7 @@
 [Hollnagel *et alii*, 2011] Erik Hollnagel *et alii*, *Resilience Engineering in Practice. A Guidebook*, Ashgate, 2011.\newline
 [Hollnagel, Woods, Leveson, 2006] Erik Hollnagel, David D. Woods, Nancy Leveson, *Resilience Engineering Concepts and Precepts*, Ahgate, 2006.\newline
 [Hyslop, 2007] Maitland Hyslop, *Critical Information Infrastructures. Resilience and Protection*, Springer, 2007.\newline
+[Kadav, Rajimwale] Asim Kadav, Abhishek Rajimwale, *Reliability Analysis of ZFS*, http://pages.cs.wisc.edu/~kadav/zfs/zfsrel.pdf.\newline
 [Keromytis, 2006] Angelos D. Keromytis, *Characterizing Self-Healing Software Systems*, Ashgate, 2006.\newline
 [Kwan *et alii*, 2012] Irwin Kwan *et alii*, Conway's Law Revisited: The Evidence For a Task-based Perspective, *IEEE Software*, 29(1), 2012.\newline
 [Konsynski, 1984/1985] Benn R. Konsynski, Advances in Information System Design, *Journal of Management Information Systems*, 1(3) :5-32, 1984/1985.\newline
