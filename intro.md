@@ -49,7 +49,7 @@ Forts de leur capacité d'innovation technologique, et de leur volonté de dér�
 
 Capable de prospérer dans cette sous-culture de prédation, le concept a su se populariser également en Europe, aussi bien dans le domaine technologique (le site *The Pirate Bay* se définit ainsi *The galaxy's most resilient BitTorrent site*) que social, où on arrive donc à le retrouver désormais employé par des acteurs tout aussi lugubres que ceux d'outre-Atlantique : c'est le ministre de l'intérieur qui de toute l'histoire d'un gouvernement démocratique aura le plus œuvré pour la destruction de l'état de droit à louer la résilience des Français [Cazeneuve, 2016] ; ce sont les magazines qui usent de la peur pour tétaniser et capturer leurs lecteurs qui font ensuite des unes sur la résilience, tel *L'Express* en août 2016.
 
-En s'apprêtant à étudier la résilience dans le contexte du système d'information il sera donc préalablement nécessaire de s'interroger sur la pertinence de ce rapprochement : correspond-t-il à l'abus d'un outil intellectuel qui, déjà protéiforme, risque de voir sa signification se diluer et devenir évanescente dans un kamoulox de termes à ramdam?
+En s'apprêtant à étudier la résilience dans le contexte du système d'information il sera donc préalablement nécessaire de s'interroger sur la pertinence de ce rapprochement : correspond-t-il à l'abus d'un outil intellectuel qui, déjà protéiforme, risque de voir sa signification se diluer et devenir évanescente dans un kamoulox de termes à ramdam?\newline
 Ou bien s'agi-t-il d'une expansion ultérieure de la portée sémantique du mot qui serait justifiée et qui permettrait d'enrichir l'analyse portée sur le système d'information et serait par conséquent capable de participer aux outils et méthodes qu'il convient de mettre en œuvre pour le concevoir et l'évaluer?\newline
 
 Partisans de cette deuxième option nous essaierons dans cet exposé de justifier cette position et de montrer comment la résilience peut être envisagée dans le cadre d'un système d'information, quels sont les problèmes qu'elle permet de confronter et dans quelle mesure des solutions résilientes sont déjà employées à ce fins, et cela aussi bien au niveau microscopique que macroscopique.
@@ -260,7 +260,10 @@ Plusieurs chercheurs ont également conçu et proposé un cadre de mesuration de
 All the studies mentioned above focused on what is ‘left’ in the system after damage – or called ‘remaining’ part of the system; in particular, they measured the resilience of the system through the resource redundancy or structure redundancy.\newline
 They have not considered an important nature of resilience engineering – namely the recovery of the system. This absence is in fact related to the definition of resilience; in most of the existing definitions of resilience, the resilience concept is taken similar to either robustness or reliability. The present article takes the definition of resilience from Zhang (2007) which puts emphasis on partial damage of the system and recovery of the function of the system, making resilience distinct from both reliability and robustness.
 
-> We use the maximum recovery ability to measure the resilience of an enterprise information system. We consider a scenario that an enterprise information system is partially damaged. There are m functions in the system and n categories of resources to recover the functions. The number of resources j (j 1⁄4 1, 2, . . . , n) needed for the recovery of function i (i 1⁄4 1, 2, . . . , m) is denoted by r ij. The amount of resources for each category is limited. The process time needed for the recovery of function i is p i . We assume that functions are not recovered at the same time. This assumption implies that the recovery may take a particular order among a set of recovery tasks. For function i, there is a completion time, denoted by c i . It is noted that the completion time c i is different from the process time p i in that the completion is the sum of the starting time for function i and its process time.
+\begin{quote}
+We use the maximum recovery ability to measure the resilience of an enterprise information system. We consider a scenario that an enterprise information system is partially damaged. There are m functions in the system and n categories of resources to recover the functions. The number of resources j (j 1⁄4 1, 2, . . . , n) needed for the recovery of function i (i 1⁄4 1, 2, . . . , m) is denoted by r\textsubscript{ij}. The amount of resources for each category is limited. The process time needed for the recovery of function i is p\textsubscript{i}. We assume that functions are not recovered at the same time. This assumption implies that the recovery may take a particular order among a set of recovery tasks. For function i, there is a completion time, denoted by c\textsubscript{i}. It is noted that the completion time c i is different from the process time p\textsubscript{i} in that the completion is the sum of the starting time for function i and its process time.
+\end{quote}
+
 
 [Wang, 2010]
 
@@ -276,8 +279,6 @@ Rôle 4 : L’information permet d’évaluer la performance des processus.\newl
 Rôle 5 : L’information est un instrument d’ajout de valeur.
 
 [Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
-
-
 
 
 Cartographie du SI [Payet, 2015]
