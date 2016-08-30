@@ -270,11 +270,7 @@ viewed as a network, and the centrality measures are used to define the system�
 Cette panoramique essaie de convoquer une pluralité d'horizons disciplinaires afin de monter l'intérêt de cette approche.\newline
 Nous avons vu ensemble comment des éléments de celle-ci diffusent dans le système d'information, aussi bien via des méthodes qui ont fait leur preuves et sont désormais des pilliers organisationnels imprescindibles, ainsi que par le biais de solutions bien plus récentes.
 
-En concluant il est intéressant de souligner comment la résilience d'un système d'information constitue à la fois une des caractéristiques qui lui permettent de prendre une place de relief dans l'organisation à laquelle il appartient ([Lucas 1984]) mais aussi comme la fréquente dynamique d'externalistion celui-c
-
-
-
-Il existe aussi une résiliencedu SI à l'égard de l'organisation dans laquelle s'insère (condition de pouvoir du SI dans l'entreprise)
+En concluant il est intéressant de souligner comment la résilience d'un système d'information constitue à la fois une des caractéristiques qui lui permettent de prendre une place de relief dans l'organisation à laquelle il appartient ([Lucas 1984]) mais aussi comme la fréquente dynamique d'externalistion de services qui touche bon nombre de systèmes d'informations actuellement met en péril la possibilité de construire cette capacité.
 
 Critique de la résilience
 [la résilience: après tout, pourquoi? L'idée qu'il soit important de concevoir des systèmes qui fonctionnent apparaît tellement de bon sens qu'il serait possible de mener toute une enquête à ce sujet sans jamais la questionner. C'est d'ailleurs ce que nous venons de faire. La multiplicité des domaines dans lesquel ce thème a été étudié montre l'intérêt qu'il suscite et à quel point celui-ci est en adhérence avec une aspiration fondamentalment humaine. Caractérisé par une partie des primatologues et des éthologues comme l'animal qui forge, garde et améliore ses outils, l'humain trouve dans la résilience l'éclat de sa première étincelle, le parachèvement de la révolution néolitique: non plus fabricateur, non plus concepteur d'outils, l'homme entrevoit dans la résilience la possibilité de devenir le concepteur de l'outil ultime, capable de transformer tout autre instrument en l'instrument adéquat. La résilience, pierre philosophale de la conception intellectuelle.]
