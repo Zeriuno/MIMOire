@@ -1,4 +1,4 @@
-\pdfbookmark[0]{Front page}{label:frontpage}%
+\pdfbookmark[0]{Couverture}{label:Couverture}
 \begin{titlepage}
   \noindent
   \begin{tabular}{@{}p{\textwidth}@{}}
@@ -18,11 +18,11 @@
   \vspace{4 cm}
   \begin{center}
     {\large
-      Mémoire%Insert document type (e.g., Project Report)
+      Mémoire
     }\\
     \vspace{0.2cm}
     {\Large
-      Master MIMO%Insert your group name or real names here
+      Master MIMO
     }
   \end{center}
   \vfill
