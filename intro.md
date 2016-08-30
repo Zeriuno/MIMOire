@@ -130,9 +130,9 @@ De manière assez intéressante, nous avons ici un élément de différence entr
 
 ## La résilience à l'échelle macroscopique
 
-On pourrait croire, à l'intérieur d'un cadre quelque peu empreint de pensée mécaniste, que la résilience d'anticipation serait capable, à condition de prendre en considération le bon périmètre de phénomènes, de contrer toute erreur, tout dérangement du système.\newline
+On serait tentés de croire, à l'intérieur d'un cadre quelque peu empreint de pensée mécaniste, que la résilience d'anticipation serait capable, à condition de prendre en considération le bon périmètre de phénomènes, de contrer toute erreur, tout dérangement du système.\newline
 
-Faire appel à la vision géographique de la résilience peut aider à contrer et échapper à ce cadre trompeur. Tout d'abord elle oblige à se confronter au fait que, telle la crue d'un fleuve bien que imaginable et prévisible, le facteur de dérangement ne peut pas être toujours évité, conjuré [Dauphiné, Provitolo, 2007].\newline
+Faire appel à la vision géographique de la résilience [Dauphiné, Provitolo, 2007] peut aider à contrer et échapper à ce cadre trompeur. Tout d'abord elle oblige à se confronter au fait que, telle la crue d'un fleuve bien que imaginable et prévisible, le facteur de dérangement ne peut pas être toujours évité, conjuré [Dauphiné, Provitolo, 2007].\newline
 Dans un tel cas nous sommes amenés à saisir la nécessité d'une approche macroscopique, dans laquelle l'erreur qui se manifeste ne peut pas être arrêté dès sa manifestation, au niveau microscopique, mais sa contention est le fait de l'intéraction entre les différentes parties du système.\newline
 C'est d'ailleurs cet aspect, la nécessité de prendre en compte le système dans lequel la résilience se manifeste, un système dont les facteurs ont d'ailleurs des effets bidirectionnels, que des chercheurs opposent à plusieurs définitions du phénomène trop pauvres à leurs yeux [Shaikh, Kauppi, 2010]:
 
