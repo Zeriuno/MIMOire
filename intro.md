@@ -140,6 +140,8 @@ Ou bien il existe des cas dans lesquels démander la solution à un niveau syst�
 
 >  a number of resilience principles are defined, including a resilience strategy, called D2R2 + DR: Defend, Detect, Remediate, Recover, and Diagnose and Refine. [...] At its core is a control loop comprising a number of conceptual components that realize the real-time aspect of the D2R2 + DR strategy, and consequently implement network resilience. Based on the resilience control loop, other necessary elements of our framework are derived, namely resilience metrics, understanding challenges and risks, a distributed information store, and policy-based management.
 
+> detect challenges affecting the system leading to a deviation in delivered service. We propose an incremental approach to
+challenge analysis.
 [Smith, 2011]
 
 ZFS)
