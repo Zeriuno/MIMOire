@@ -161,55 +161,58 @@ Self-Healing Systems
 
 ### Stigmergie
 
-La stigmergie représente un nouvel outil intellectuel, né en contraste avec l'approche holistique des communautés, aujourd'hui encore soutenue par le professeur Dario Fontecedro. Ce concept permet de comprendre les méchanismes qui président à l'émergence, la régulation et le contrôle des activités collectives dans les insectes sociaux [Theraulaz, Bonabeau, 1999] :
+La stigmergie représente un nouvel outil intellectuel, né en contraste avec l'approche holistique des communautés, aujourd'hui encore soutenue par le professeur Dario Fontecedro. Ce concept permet de comprendre les mécanismes qui président à l'émergence, la régulation et le contrôle des activités collectives dans les insectes sociaux [Theraulaz, Bonabeau, 1999] :
 
 > Stigmergy (from the Greek stigma: sting and ergon: work) was initially introduced to explain indirect task coordination and regulation in the context of nest reconstruction in termites of the genus Bellicositermes. Grassé showed that the coordination and regulation of building activities do not depend on the workers themselves but are mainly achieved by the nest structure.
 [...]
 Stigmergy offers an elegant and stimulating framework to understand the coordination and regulation of collective activities.
 
-Dans ce cadre les organisations sont caractérisée par une stricte égalité parmi les membres qui agissent de manière strictement autonome, et pourtant parfaitement coordonée. Le travail réalisé désigne les tâches qui restent à accomplir et les différents individus de la communauté, égaux et interchangeables entre eux, s'en chargent de manière progressive.
+Dans ce cadre, les organisations sont caractérisées par une stricte égalité parmi les membres qui agissent de manière absolument autonome, et pourtant parfaitement coordonnée. Le travail réalisé désigne les tâches qui restent à accomplir et les différents individus de la communauté, égaux et interchangeables entre eux, s'en chargent de manière progressive.
 
 La synthèse offerte est assez intéressante et habile pour être relatée en entier [Theraulaz, Bonabeau, 1999]:
 
 > One of the best examples of quantitative stigmergy is the construction of pillars in termites, studied by Grassé. Workers use soil pellets impregnated with pheromone to build pillars. Two successive phases take place. First, the noncoordinated phase is characterized by a random deposition of pellets. This phase lasts until one of the deposits reaches a critical size. Then, the coordination phase starts if the group of builders is sufficiently large: Pillars or strips emerge. The existence of an initial deposit of soil pellets stimulates workers to accumulate more material through a positive feedback mechanism, since the accumulation of material reinforces the attractiveness of deposits through the diffusing pheromone emitted by the pellets. This autocatalytic, snowball effect leads to the coordinated phase. If the density of builders is too small, the pheromone disappears between two successive passages by the workers, and the amplification mechanism cannot work, which leads to a noncoordinated phase. The system undergoes a bifurcation at this critical density: No pillar emerges below it, but pillars can emerge above it.\newline
 This example illustrates three important properties or signatures of the self-organized dynamics associated with quantitative stigmergy: (a) the emergence of spatiotemporal structures in an initially homogeneous medium, that is, a random spatial distribution of soil pellets. The basic mechanism that leads to the emergence of these structures is positive feedback (the snowball effect); once the structures are created, they are stabilized through negative feedback, mainly pheromone decay and competition among neighboring pillars. (b) the possible coexistence of several stable states (multistability): Structures emerge by amplification of random deviations, and any such deviation can be amplified, so that the system converges to one among several possible stable states, depending on initial conditions (path dependency). (c) the existence of (parameter-driven) bifurcations, where the behavior of a self-organized system changes dramatically.
 
-Dans ce contexte de mode opératoire, capable de répondre rapidement au changement de contexte et de se réorganiser de manière autonome, il est ensuite possible d'individuer deux types de stigmergie, l'une quantitative, l'autre qualitative (voir [Theraulaz, Bonabeau, 1999]).
+Dans ce cadre de mode opératoire, capable de répondre rapidement au changement de contexte et de se réorganiser de manière autonome, il est ensuite possible d'individuer deux types de stigmergie, l'une quantitative, l'autre qualitative (voir [Theraulaz, Bonabeau, 1999]).
 
 Le champ d'application, comme le soulignent les éthologues, est tout simplement immense.\newline
 
-Application aux humains avec la mise au centre du produit de leur travail et sa visibilité selon les paramètre d'adaptation soulignés par [Susi,] et les principes dérivés de la loi de Conway explicités dans [Kwan *et alii*, 2012].
+Application aux humains avec la mise au centre du produit de leur travail et sa visibilité selon les paramètres d'adaptation soulignés par [Susi,] et les principes dérivés de la loi de Conway explicités dans [Kwan *et alii*, 2012].
 
-Il est en tout cas frappant de remarquer comment dans une certaine mesure que nous avons atteint un niveau de spécialisation et partage de tâche qui est largement supérieur à celui décrit pour les communautés concernées, que nous sommes allés plus loin dans la spécialisation que les insects eux-mêmes. Un danger pointé par Robert Heinlein, intellect éminemment scientifique, et capable d'anticiper ce paradoxe avec la sensibilité des hommes de lettres [Heinlein 1973]:
+Il est en tout cas frappant de remarquer que, dans une certaine mesure, nous avons atteint un niveau de spécialisation et partage de tâche qui est largement supérieur à celui décrit pour les communautés concernées et que, donc, nous sommes allés plus loin dans la spécialisation que les insectes eux-mêmes.
+Un danger pointé par Robert Heinlein, intellect éminemment scientifique, et capable d'anticiper ce paradoxe avec la sensibilité des hommes de lettres [Heinlein 1973]:
 
 > A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
 
 ### Stigmergie *versus* hierarchie
 
-Dans le contexte hautement efficace de la stigmergie il n'y a pas de structure hiérarchique ou de subdivision du travail, mais une capacité de répondre partagée face à des stimuli communs.\newline
-La réduction de l'emprise de la structure hiérarchique est par ailleurs un thème évoqué dans plusieurs contextes, aussi bien tout à fait attendus sur ce sujet. Il est assez attendu de la part du fondateur du Parti Pirate [FALKVINGE 2013], qui loue la résilience d'une organisation de telle sorte, mais il est plus que surprenant qu'un professeur de la London School of Economics invite les lecteurs de la Harvard Business Review à licencier tous les managers [HAMEL 2011]. Dans ce qui n'est pas une provocation improvisée, mais une étape d'une réflexion qui se poursuit dans les années ([HAMEL 2012]).
+Dans le contexte hautement efficace de la stigmergie, il n'y a pas de structure hiérarchique ou de subdivision du travail, mais une capacité de répondre partagée face à des stimuli communs.\newline
+La réduction de l'emprise de la structure hiérarchique est par ailleurs un thème évoqué dans plusieurs contextes, aussi bien ceux qui sont tout à fait attendus sur ce sujet.
+Il est par exemple assez attendu de la part du fondateur du Parti Pirate [FALKVINGE 2013], qui loue la résilience d'une organisation de telle sorte, mais il est par contre plus que surprenant qu'un professeur de la London School of Economics invite les lecteurs de la Harvard Business Review à licencier tous les managers [HAMEL 2011].Et cela, dans ce qui n'est pas une provocation improvisée, mais une étape d'une réflexion qui se poursuit dans les années ([HAMEL 2012]).
 
 Il s'agit d'une question d'efficacité et poids organisationnels [HAMEL 2011] :
 
 > A small organization may have one manager and 10 employees; one with 100,000 employees and the same 1:10 span of control will have 11,111 managers. That’s because an additional 1,111 managers will be needed to manage the managers.
 
-Mais au-delà de ce versant, d'autres arguments explorés montrent comme une organisation hiérarchique est fondamentalment anti résiliente:
+Mais, au-delà de ce versant, d'autres arguments explorés montrent comme une organisation hiérarchique est fondamentalement anti résiliente:
 
 > Second, the typical management hierarchy increases the risk of large, calamitous decisions. As decisions get bigger, the ranks of those able to challenge the decision maker get smaller.\newline
 [...]\newline
 Third, a multitiered management structure means more approval layers and slower responses. In their eagerness to exercise authority, managers often impede, rather than expedite, decision making.
 
-Ces capacités de renverser radicalement les processus de manière brutale et d'imposer une chaîne de réponse nécessaire tout autant que lente, met à mal la capacité d'une organisation de pouvoir mettre en œuvre des réponses.\newline
-Plus, la nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également souligné dans le contexte des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
+Ces capacités de renverser radicalement, et de manière brutale, les processus et d'imposer une chaîne de réponses nécessaire tout autant que lente, met à mal la capacité d'une organisation de pouvoir à mettre en œuvre des réponses.\newline
+En outre, la nécessité de casser la hiérarchie pour laisser plus de liberté aux acteurs subordonnés est également soulignée dans le contexte des recherches sur la résilience en géographie [Le Blanc, Nicolas, 2013].
 
-Les perspectives des avantages et des risques évoquées, comment peuvent se manifester de telles ressources, de stigmergie et de prévention des risques d'une organisation rigidement encadré par les rôles hiérarhiques à l'intérieur du système d'information?
+Dans les perspectives des avantages et des risques évoquées, comment peuvent se manifester de telles ressources de stigmergie et de prévention des risques d'une organisation rigidement encadrée par les rôles hiérarchiques à l'intérieur du système d'information?
 
 À nouveau, ce sont des éléments de l'approche agile à faire cette transition.\newline
-En particulier, dans le cas de l'approche *Scrum*, en plus des aspects déjà évoqués qui vont dans le sens de la ccréation de redondance des ressources humaines, il est utile de souligner l'utilité du recours au Kanban et de la technique du *planning poker* [Coplien, Harrison, 2004].\newline
-Le Kanban est un tableau, physique ou bien logiciel, sur lequel sont représentés les tâches accomplies et à accomplir. Introduit dans le système de management de Toyota au cours du siècle dernier, Kanban est, dans sa déclinaison pour le SI, un outil qui permet de matérialiser le travail accompli ainsi que son degré de progression. Cette technique permet de partager un état des lieux de l'avancement du travail constamment mis à jour à l'intérieur de l'équipe de travail.
+En particulier, dans le cas de l'approche *Scrum*.
+En plus des aspects déjà évoqués qui vont dans le sens de la création de redondance des ressources humaines, il est utile de souligner l'utilité du recours au Kanban et de la technique du *planning poker* [Coplien, Harrison, 2004].\newline
+Le Kanban est un tableau, physique ou bien logiciel, sur lequel sont représentés les tâches accomplies et à accomplir. Introduit dans le système de management de Toyota au cours du siècle dernier, Kanban est, dans sa déclinaison pour le SI, un outil qui permet de matérialiser le travail accompli, ainsi que son degré de progression. Cette technique permet de partager un état des lieux de l'avancement du travail constamment mis à jour à l'intérieur de l'équipe de travail.
 
-Ressource de l'élucidation des exigences, le *planning poker* est une méthode d'estimation des charges qui dans le contexte d'une approche agile, devient aussi un outil au service de la stigmergie de l'équipe. En effet un point de friction dans l'adaptation de ce processus entomologique au contexte des équipes humaines est l'égalité entre les individus qui est possible à l'échelle des insectes mais indéniablement absente dans son parallèle.\newline
-Face à une pluralité d'estimations, tout choix est sujet à un biais qui risque d'être déterminé par le penchant inconscient de l'arbitre de la question. Dans cet exercice, par contre, le but déclaré est celui de  parvenir à une valeur qui soit le reflet des estimations et compétences de la plus grande partei de l'équipe impliquée. Il est ansi possible d'avancer vers un diagnostic qui effectue un nivellement faisant abstraction des membres hors-norme, et pose ainsi les préconditions de l'égalité des différents membres de l'équipe face aux tâches à accomplir.
+Ressource de l'élucidation des exigences, le *planning poker* est une méthode d'estimation des charges qui, dans le contexte d'une approche agile, devient aussi un outil au service de la stigmergie de l'équipe. En effet, un point de friction dans l'adaptation de ce processus entomologique au contexte des équipes humaines est l'égalité entre les individus, qui est possible à l'échelle des insectes, mais indéniablement absente dans son parallèle.\newline
+Face à une pluralité d'estimations, tout choix est sujet à un biais qui risque d'être déterminé par le penchant inconscient de l'arbitre de la question. Dans cet exercice, par contre, le but déclaré est celui de parvenir à une valeur qui soit le reflet des estimations et compétences de la plus grande partie de l'équipe impliquée. Il est ainsi possible d'avancer vers un diagnostic qui effectue un nivellement faisant abstraction des membres hors-norme, et pose ainsi les conditions préalables de l'égalité des différents membres de l'équipe face aux tâches à accomplir.
 
 ### Mesurer la résilience
 
