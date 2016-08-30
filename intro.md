@@ -1,7 +1,7 @@
-# La résilience dans le système d'informations
+% La résilience dans le système d'informations
+% Daniele Pitrolo
+% 30 août 2016
 
-Daniele Pitrolo
-\newpage
 ## Introduction
 
 Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine et une utilisation attestée dans les écrits philosophiques dès le XVIIe siècle (Bacon [TLFi], Descartes [Cresti, 2014]), le mot "résilience" ne manque d'ailleurs pas de les intéresser.\newline
@@ -19,7 +19,7 @@ En s'apprêtant à étudier la résilience dans le contexte du système d'inform
 Partisans de cette deuxième option nous essaierons dans cet exposé de justifier cette position et de montrer comment la résilience peut être envisagée dans le cadre d'un système d'information, quels sont les problèmes qu'elle permet de confronter et dans quelle mesure des solutions résilientes sont déjà employées à ce fins, et cela aussi bien au niveau microscopique que macroscopique.
 \newpage
 
-## Présentation d'une approche
+## Un cadre opératoire pour la résilience
 
 ### Le SI, un cadre d'enquête
 
@@ -105,12 +105,9 @@ Pour ce qui est du niveau microscopique d'intégration d'outils et ressources de
 
 On a pu rappeller comment la place du système d'information dans une organisation est étroitement liée, tant en terme de développement historique qu'au niveau de son bon fonctionnement, à celle de son système informatique. Il n'est donc pas étonnant que nombre des outils de la résilience de celui-ci soient ceux du système informatique ou bien en soient dérivés.
 
-Il s'agit dans ce cas de solutions qui ont été mis au point dans une approche principalement pratique.\newline
-Celle-ci a d'ailleurs servi à exemplifier et augmenter la prise de conscience de formulations qui reposent sur des principes de logique générale.
+Il s'agit dans ce cas de solutions qui ont été mis au point et éprouvés dans une approche à haute valeur intellectuelle, qui a servi à exemplifier et augmenter la prise de conscience de formulations qui reposent sur des principes de logique générale, mais qui également très pratique.\newline
+Racontée sous la forme de recit, [Blanc, Noor, 2012], l'épopée longue et composite de la création d'Internet [Abbate, 2000] est constituée d'avancées majeures dans la conception d'une structure résiliente [Davies, Barber, 1973], [Davies *et alii*, 1979].
 
-Suite d'inventions et aventures intellectuelles [Blanc, Noor, 2012]
-
-Internet: [Davies, Barber, 1973], [Davies *et alii*, 1979], [Abbate, 2000]
 
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique
 Compartimenter [intéressant de remarquer que dans ce cas le parallèle humain est en contradicition avec ce que propose d'utiliser la résilience]
