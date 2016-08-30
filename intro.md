@@ -113,7 +113,6 @@ Le système de la commutation de paquets
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique [Léry, 2013]
 Compartimenter [intéressant de remarquer que dans ce cas le parallèle humain est en contradicition avec ce que propose d'utiliser la résilience]
 Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - pair programming, scrum et extreme programming, bus factor) [Coplien, Harrison, 2004]
-Éviter les goulots d'étranglement et les SPOF, créer de doubles parcours.
 Contrôle de l'erreur, audit
 
 ## La résilience à l'échelle macroscopique
