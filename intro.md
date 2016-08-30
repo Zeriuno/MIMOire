@@ -108,6 +108,8 @@ On a pu rappeller comment la place du système d'information dans une organisati
 Il s'agit dans ce cas de solutions qui ont été mis au point et éprouvés dans une approche à haute valeur intellectuelle, qui a servi à exemplifier et augmenter la prise de conscience de formulations qui reposent sur des principes de logique générale, mais qui également très pratique.\newline
 Racontée sous la forme de recit, [Blanc, Noor, 2012], l'épopée longue et composite de la création d'Internet [Abbate, 2000] est constituée d'avancées majeures dans la conception d'une structure résiliente [Davies, Barber, 1973], [Davies *et alii*, 1979].
 
+Parmi les précieuses théorisations accomplies dans ce parcours prime probablement la mise en garde contre les *Single Point of Failure*, les éléments qui, en cas d'échec, mettent forcément en échec tout leur système.\newline
+Le système de la commutation de paquets
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique [Léry, 2013]
 Compartimenter [intéressant de remarquer que dans ce cas le parallèle humain est en contradicition avec ce que propose d'utiliser la résilience]
 Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - pair programming, scrum et extreme programming, bus factor) [Coplien, Harrison, 2004]
