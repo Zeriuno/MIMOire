@@ -74,8 +74,8 @@ others is its emphasis on partial damage with the system. With this definition, 
 robustness.
 Wang, 2010
 
-#### Ce qui n'est pas résilience
-\newline\newline
+### Ce qui n'est pas résilience
+
 Il apparaît maintenant utile de souligner des aspects qui ne rentrent pas dans le champs de la résilience telle que nous l'avons définie tout en présentant des points de contact avec celle-ci.\newline
 Comme le soulignent les chercheurs [Hollnagel, Woods, Leveson, 2006], l'horizon dans lequel opère la sécurité est celui des connaissances acquises par l'expérience:
 
@@ -184,8 +184,8 @@ Il est en tout cas frappant de remarquer comment dans une certaine mesure que no
 
 > A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
 
-#### Stigmergie *versus* hierarchie
-\newline\newline
+### Stigmergie *versus* hierarchie
+
 Dans le contexte hautement efficace de la stigmergie il n'y a pas de structure hiérarchique ou de subdivision du travail, mais une capacité de répondre partagée face à des stimuli communs.\newline
 La réduction de l'emprise de la structure hiérarchique est par ailleurs un thème évoqué dans plusieurs contextes, aussi bien tout à fait attendus sur ce sujet. Il est assez attendu de la part du fondateur du Parti Pirate [FALKVINGE 2013], qui loue la résilience d'une organisation de telle sorte, mais il est plus que surprenant qu'un professeur de la London School of Economics invite les lecteurs de la Harvard Business Review à licencier tous les managers [HAMEL 2011]. Dans ce qui n'est pas une provocation improvisée, mais une étape d'une réflexion qui se poursuit dans les années ([HAMEL 2012]).
 
