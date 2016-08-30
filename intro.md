@@ -108,20 +108,18 @@ On a pu rappeller comment la place du système d'information dans une organisati
 Il s'agit dans ce cas de solutions qui ont été mis au point et éprouvés dans une approche à haute valeur intellectuelle, qui a servi à exemplifier et augmenter la prise de conscience de formulations qui reposent sur des principes de logique générale, mais qui également très pratique.\newline
 Racontée sous la forme de recit, [Blanc, Noor, 2012], l'épopée longue et composite de la création d'Internet [Abbate, 2000] est constituée d'avancées majeures dans la conception d'une structure résiliente [Davies, Barber, 1973], [Davies *et alii*, 1979].
 
-
-Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique
+Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique [Léry, 2013]
 Compartimenter [intéressant de remarquer que dans ce cas le parallèle humain est en contradicition avec ce que propose d'utiliser la résilience]
 Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - pair programming, scrum et extreme programming, bus factor) [Coplien, Harrison, 2004]
 Éviter les goulots d'étranglement et les SPOF, créer de doubles parcours.
 Contrôle de l'erreur, audit
-Tolérance aux pannes
-
 
 ## La résilience à l'échelle macroscopique
 
 -> résilience dans la vision géographique
 Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
 
+Tolérance aux pannes
 
 à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème. (ZFS)
 
