@@ -61,6 +61,7 @@
 [Smith *et alii*, 2011] Paul Smith *et alii*, Network Resilience: A Systematic Approach, *IEEE Communications Magazine*, :99-97, July 2011.\newline
 [Smith *et alii*, 2014] Michael W. Smith *et alii*, Resilient Practices in Maintaining Safety of Health Information Technologies, *Journal of Cognitive Engineering and Decision Making*, 8(3) :265-282, 2014.\newline
 [Susi, Ziemke, 2001] Tarja Susi, Tom Ziemke, Social cognition, artefacts, and stigmergy: A comparative analysis of theoretical frameworks for the understanding of artefact-mediated collaborative activity, *Journal of Cognitive Systems Research*, 2 :273-290, 2001.\newline
+[Tennant, 2001] Geoff Tennant, *SIX SIGMA: SPC and TQM in Manufacturing and Services*, Gower Publishing, 2001.\newline
 [Teoh, Yeoh, Zadeh, 2015] Say Yen Teoh, William Yeoh, Hossein Seif Zadeh, Towards a resilience management framework for complex enterprise systems upgrade implementation, *Enterprise Information Systems*, :1-25, Septemeber 2015.\newline
 [Theraulaz, Bonabeau, 1999] Guy Theraulaz, Eric Bonabeau, A Brief History of Stigmergy, *Artificial Life*, 5 :97–116, 1999.\newline
 [Tisseron, 2009] Serge Tisseron, *La résilience. Que sais-je?*, Presses Universitaires de France, 2009.\newline
