@@ -249,7 +249,7 @@ Face à une pluralité d'estimations, tout choix est sujet à un biais qui risqu
 
 Les test d'Augustin-Charles-Marie Mesnager et de Georges Charpy, maintenait codifiés dans des standard (ASTM E23, EN ISO 179-1 et -2, ISO 148-1, -2 et -3) permettent de connaître la résilience des métaux par le biais des simples et rassurantes grandeurs scalaires.
 
-Plus complexe à apprécier, la volonté de mesurer de la même manière la résilience des systèmes donne lieu à un éventail de propositions presque aussi vaste que les possibles définitions du phénomène de résilience lui-même.\newline
+Plus complexe à apprécier, la volonté de mesurer de la même manière la résilience des systèmes donne lieu à un éventail de propositions presque aussi vaste que les possibles définitions du phénomène de résilience lui-même[Wolter \emph{et alii}, 2012].\newline
 Ainsi on peu choisir d'évaluer la résilience sur la base de la rédondance et de la fiabilité (comme temps de service entre les pannes) des équipements [Wang, 2010] ou même
 
 Ceux-ci par contre limitent leur champ d'analyse au système informatique.
