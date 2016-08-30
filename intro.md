@@ -127,29 +127,24 @@ On pourrait croire, à l'intérieur d'un cadre quelque peu empreint de pensée m
 
 Faire appel à la vision géographique de la résilience peut aider à contrer et échapper à ce cadre trompeur. Tout d'abord elle oblige à se confronter au fait que, telle la crue d'un fleuve bien que imaginable et prévisible, le facteur de dérangement ne peut pas être toujours évité, conjuré [Dauphiné, Provitolo, 2007].\newline
 Dans un tel cas nous sommes amenés à saisir la nécessité d'une approche macroscopique, dans laquelle l'erreur qui se manifeste ne peut pas être arrêté dès sa manifestation, au niveau microscopique, mais sa contention est le fait de l'intéraction entre les différentes parties du système.\newline
-C'est d'ailleurs cet aspect, la nécessité de prendre en compte le système dans lequel la résilience se manifeste, un système dont les facteurs ont d'ailleurs des effets bidirectionnels, que des chercheurs opposent à plusieurs définitions du phénomène trop pauvres à leurs yeux [Shaikh, Kauppi, 2010].
-
-Ce niveau macroscopique peut se constituer d'une systématisation des éléments préparés au niveau microscopique. Tel est par exemple le cas du PRA, plan de reprise des activités, ainsi que du PCA, plan de continuité des activités [Benassar, 2010]. Ce dernier, encadré par la norme ISO 22301, a pour objectif de permettre de poursuivre l'activité du système informatique sans interruption du service et d’assurer la disponibilité des informations quels que soient les problèmes rencontrés. Le PRA, par contre, décrit les mesures qui doivent être déclenchées à la survenue d'un sinistre ou incident majeur ayant entraîné une interruption de l'activité.
-
-Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
-
-Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
-(ZFS)
-Tolérance aux pannes
-Self-Healing Systems
-
-à l'échelle microscopique, l'évènement qui se produit est le problème. Mais il existe des cas dans lesquel l'évènement qui se produit n'est pas le problème en lui-même, c'est plutôt la manière dont le système va traiter l'évènement qui s'est produit qui va déterminer le problème.
-
-N une approche que nous allons définir comme "systémique", tandis que d'autres.\newline
+C'est d'ailleurs cet aspect, la nécessité de prendre en compte le système dans lequel la résilience se manifeste, un système dont les facteurs ont d'ailleurs des effets bidirectionnels, que des chercheurs opposent à plusieurs définitions du phénomène trop pauvres à leurs yeux [Shaikh, Kauppi, 2010]:
 
 > The degree of resilience displayed by a person in a given context is dependent upon the extent to which that context contains elements to nurture resilience. If an individual does not adapt to adverse circumstances, the reason might be that the environment lacks the resilience to negotiate with the individual and to provide what is needed. In such a case, an individual’s environment lacks resilience and not the individual per se. Hence it can be said that resilient individuals require resilient families and resilient communities. However, this relationship between individual resilience and the resilience of the families and communities is not unidirectional.\newline
 [...]\newline
 Resiliency cannot be researched by merely focusing on these individual-level factors. Instead careful attention must be paid to the structural deficiencies (e.g., social and economic policies) that might need to be changed in order for individuals, families and communities to become stronger, more competent and better functioning in the adverse situations.
 
+Ce niveau macroscopique peut se constituer d'une systématisation des éléments préparés au niveau microscopique. Tel est par exemple le cas du PRA, plan de reprise des activités, ainsi que du PCA, plan de continuité des activités [Benassar, 2010]. Ce dernier, encadré par la norme ISO 22301, a pour objectif de permettre de poursuivre l'activité du système informatique sans interruption du service et d’assurer la disponibilité des informations quels que soient les problèmes rencontrés. Le PRA, par contre, décrit les mesures qui doivent être déclenchées à la survenue d'un sinistre ou incident majeur ayant entraîné une interruption de l'activité.
 
+Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
 >A big thing they are saying in the paper is that they want to see data center HDDs that care slightly less about their medium error rates and opt to give better areal density and more consistent tail latencies and let the system above it to handle the reliability as it needs to do anyway.
-I've been thinking like this for a while and would tend to reduce the ERC (Error Recovery Control) to a minimum but the disks are still not designed to have these at very low numbers and Google has several interesting ideas in their paper along these lines.
-(Google datacenter).
+
+(ZFS)
+Tolérance aux pannes
+Self-Healing Systems
+
+Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
+
+
 
 Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
 
