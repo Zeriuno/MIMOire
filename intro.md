@@ -208,8 +208,7 @@ Les perspectives des avantages et des risques évoquées, comment peuvent se man
 En particulier, dans le cas de l'approche *Scrum*, en plus des aspects déjà évoqués qui vont dans le sens de la ccréation de redondance des ressources humaines, il est utile de souligner l'utilité du recours au Kanban et de la technique du *planning poker* [Coplien, Harrison, 2004].\newline
 Le Kanban est un tableau, physique ou bien logiciel, sur lequel sont représentés les tâches accomplies et à accomplir. Introduit dans le système de management de Toyota au cours du siècle dernier, Kanban est, dans sa déclinaison pour le SI, un outil qui permet de matérialiser le travail accompli ainsi que son degré de progression. Cette technique permet de partager un état des lieux de l'avancement du travail constamment mis à jour à l'intérieur de l'équipe de travail.
 
-Ressource de l'élucidation des exigences, le *planning poker* est une méthode d'estimation des charges qui
-dans le contexte d'une approche agile, devient un
+Ressource de l'élucidation des exigences, le *planning poker* est une méthode d'estimation des charges qui dans le contexte d'une approche agile, devient aussi un outil au service de la stigmergie de l'équipe.
 
 ### Mesurer la résilience
 
