@@ -152,9 +152,9 @@ Exemple illustre de résilience dans leur conception, les réseaux peuvent eux a
 
 >  a number of resilience principles are defined, including a resilience strategy, called D2R2 + DR: Defend, Detect, Remediate, Recover, and Diagnose and Refine. [...] At its core is a control loop comprising a number of conceptual components that realize the real-time aspect of the D2R2 + DR strategy, and consequently implement network resilience. Based on the resilience control loop, other necessary elements of our framework are derived, namely resilience metrics, understanding challenges and risks, a distributed information store, and policy-based management.
 
-Self-Healing Systems
-
-[CHAUDHRY 2014]
+Comme nous pouvons le relever, le point charnière de ce niveau macroscopique de la résilience est la capacité du système d'examiner son propre fonctionnement: en fonction de celui-ci, il pourra activer des parcours d'activités différents, selon le contexte. Ces parcours peuvent être ceux prédéterminés lors de la mise en place du système, mais aussi des nouveaux, organisés *ex novo* lorsqu'ils apparaissent comme nécessaires, par le système lui-même, dans le cadre des systèmes capables d'auto réparation [Keromytis, 2006].\newline
+Ce bond, du constat d'état à l'identification de la solution, est rendu possible grâce à la technogie du raisonnement causal, mise au point déjà en 1976 au MIT, qui permet au système d'émettre un diagnostic [Chaudhry, 2014].\newline
+Sur la base des cas que le système répétorie, éléments de départ, il organise ensuite une réponse dont il gouverne lui-même la mise en place, sous un régime de test constant. Ce champs de recherche très avancé produit ainsi les systèmes autonomes envisagés par Turing, donc la complexité serait exponentielle [Chaudhry, 2014].
 
 ### Stigmergie
 
