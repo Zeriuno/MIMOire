@@ -133,9 +133,10 @@ C'est d'ailleurs cet aspect, la nécessité de prendre en compte le système dan
 [...]\newline
 Resiliency cannot be researched by merely focusing on these individual-level factors. Instead careful attention must be paid to the structural deficiencies (e.g., social and economic policies) that might need to be changed in order for individuals, families and communities to become stronger, more competent and better functioning in the adverse situations.
 
-Ce niveau macroscopique peut se constituer d'une systématisation des éléments préparés au niveau microscopique. Tel est par exemple le cas des machines à tolérance de panne: de telles machines font appel aux ressources évoquées précédemment, mises en système, mais aussi à la possibilité, une fois que celles-ci ont relevé un dysfonctionnement, à la possibilité d'altérer le fonctionnement normal afin de réduire la charge et ainsi ne pas être contraintes à l'arrêt (on reconnaîtra ici à l'œuvre la *résilience de survie* telle que définie dans le domaine de la sociologie).
+Ce niveau macroscopique peut se constituer d'une systématisation des éléments préparés au niveau microscopique. Tel est par exemple le cas des machines à tolérance de panne: de telles machines font appel aux ressources évoquées précédemment, mises en système, mais aussi à la possibilité, une fois que celles-ci ont relevé un dysfonctionnement, à la possibilité d'altérer le fonctionnement normal afin de réduire la charge et ainsi ne pas être contraintes à l'arrêt (on reconnaîtra ici à l'œuvre la *résilience de survie* telle que définie dans le domaine de la sociologie).\newline
 La mise en système de ressources de type élémentaire est aussi ce qui donne lieu au PRA, plan de reprise des activités, ainsi que du PCA, plan de continuité des activités [Benassar, 2010]. Ce dernier, encadré par la norme ISO 22301, a pour objectif de permettre de poursuivre l'activité du système informatique sans interruption du service et d’assurer la disponibilité des informations quels que soient les problèmes rencontrés. Le PRA, par contre, décrit les mesures qui doivent être déclenchées à la survenue d'un sinistre ou incident majeur ayant entraîné une interruption de l'activité.
 
+La résilience au niveau systématique peut cependant être aussi autre chose que la réplication à grande échelle des solutions élémentaires. Cette logique fractale [DALZIELL, MCMANUS, 2004]
 Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
 >A big thing they are saying in the paper is that they want to see data center HDDs that care slightly less about their medium error rates and opt to give better areal density and more consistent tail latencies and let the system above it to handle the reliability as it needs to do anyway.
 
@@ -153,7 +154,7 @@ Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SM
 IS Mindfulness: [BUTLER, GRAY 2006]
 
 
-De tels travaux Implications for system Performance[DALZIELL, MCMANUS, 2004]
+De tels travaux Implications for system Performance
 
 ### Stigmergie
 
