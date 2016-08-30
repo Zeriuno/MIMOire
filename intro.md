@@ -208,28 +208,19 @@ Les perspectives des avantages et des risques évoquées, comment peuvent se man
 En particulier, dans le cas de l'approche *Scrum*, en plus des aspects déjà évoqués qui vont dans le sens de la ccréation de redondance des ressources humaines, il est utile de souligner l'utilité du recours au Kanban et de la technique du *planning poker* [Coplien, Harrison, 2004].\newline
 Le Kanban est un tableau, physique ou bien logiciel, sur lequel sont représentés les tâches accomplies et à accomplir. Introduit dans le système de management de Toyota au cours du siècle dernier, Kanban est, dans sa déclinaison pour le SI, un outil qui permet de matérialiser le travail accompli ainsi que son degré de progression. Cette technique permet de partager un état des lieux de l'avancement du travail constamment mis à jour à l'intérieur de l'équipe de travail.
 
-Ressource de l'élucidation des exigences, le *planning poker* est une méthode d'estimation des charges qui dans le contexte d'une approche agile, devient aussi un outil au service de la stigmergie de l'équipe.
+Ressource de l'élucidation des exigences, le *planning poker* est une méthode d'estimation des charges qui dans le contexte d'une approche agile, devient aussi un outil au service de la stigmergie de l'équipe. En effet un point de friction dans l'adaptation de ce processus entomologique au contexte des équipes humaines est l'égalité entre les individus qui est possible à l'échelle des insectes mais indéniablement absente dans son parallèle.
 
 ### Mesurer la résilience
 
 Facilité de mesurer la résilience des matériaux, via le test d'Augustin-Charles-Marie Mesnager et de Georges Charpy,
 ASTM E23, EN ISO 179-1 et -2, ISO 148-1, -2 et -3.
-Un cadre quantitatif a été proposé aussi dans [Wang, 2010]
 
-> LES MULTIPLES RÔLES DE L’INFORMATION DANS LA CHAÎNE DE VALEUR
-Rôle 1 : L’information joue un rôle de soutien aux processus de production.
-Rôle 2 : L’information est une matière première et un output des processus d’affaires.
-Rôle 3 : L’information est essentielle à la coordination des processus.
-Rôle 4 : L’information permet d’évaluer la performance des processus.
-Rôle 5 : L’information est un instrument d’ajout de valeur.
-[Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
-[Rivard, Talbot, 2004]
+Plusieurs chercheurs ont également conçu et proposé un cadre de mesuration de la résilience pour le domaine qui nous intéresse. Ceux-ci par contre limitent leur champ d'analyse au système informatique. Dans cette situation
 
-> Wang and Ip (2009) proposed an approach to evaluate the logistics network resilience based on the redundant resource and reliability of nodes and edges. Ash and Newth (2007) used an evolutionary algorithm to evolve the complex systems that are resilient to cascading failure.
+> Wang and Ip proposed an approach to evaluate the logistics network resilience based on the redundant resource and reliability of nodes and edges. Ash and Newth (2007) used an evolutionary algorithm to evolve the complex systems that are resilient to cascading failure.
 [...]
-All the studies mentioned above focused on what is ‘left’ in the system after damage – or called ‘remaining’ part of the system; in particular, they measured the resilience of the system through the resource redundancy or structure redundancy.
-They have not considered an important nature of resilience engineering – namely the recovery of the system. This absence is in fact related to the definition of resilience; in most of the existing definitions of resilience, the resilience concept is taken similar to either robustness or reliability.The present article takes the definition of resilience from Zhang (2007) which puts emphasis on partial damage of the system and recovery of the function of the system, making resilience distinct from both reliability and robustness.
-
+All the studies mentioned above focused on what is ‘left’ in the system after damage – or called ‘remaining’ part of the system; in particular, they measured the resilience of the system through the resource redundancy or structure redundancy.\newline
+They have not considered an important nature of resilience engineering – namely the recovery of the system. This absence is in fact related to the definition of resilience; in most of the existing definitions of resilience, the resilience concept is taken similar to either robustness or reliability. The present article takes the definition of resilience from Zhang (2007) which puts emphasis on partial damage of the system and recovery of the function of the system, making resilience distinct from both reliability and robustness.
 
 > We use the maximum recovery ability to measure the resilience of an enterprise
 information system. We consider a scenario that an enterprise information system is
@@ -244,6 +235,17 @@ completion time c i is different from the process time p i in that the completio
 sum of the starting time for function i and its process time.
 
 [Wang, 2010]
+
+Un cadre quantitatif a été proposé aussi dans [Wang, 2010]
+
+> Rôle 1 : L’information joue un rôle de soutien aux processus de production.\newline
+Rôle 2 : L’information est une matière première et un output des processus d’affaires.\newline
+Rôle 3 : L’information est essentielle à la coordination des processus.\newline
+Rôle 4 : L’information permet d’évaluer la performance des processus.\newline
+Rôle 5 : L’information est un instrument d’ajout de valeur.
+
+[Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
+
 
 Cartographie du SI [Payet, 2015]
 Création de centres de gravitation: le `try`, par exemple, fais cela au niveau de l'exécution du langage de programmation. https://docs.python.org/3/reference/compound_stmts.html#try
