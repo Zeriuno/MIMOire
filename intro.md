@@ -1,6 +1,6 @@
 \pdfbookmark[0]{Front page}{label:frontpage}%
 \begin{titlepage}
-  \noindent%
+  \noindent
   \begin{tabular}{@{}p{\textwidth}@{}}
     \vspace{0.2cm}
     \begin{center}

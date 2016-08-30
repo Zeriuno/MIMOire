@@ -1,4 +1,4 @@
-# Bibliographie
+## Bibliographie
 
 [Abbate, 2000] Jane Abbate, *Inventing the Internet*, MIT Press, 2000.\newline
 [Aïn, 2007] Joyce Aïn, *Résiliences : Réparation, élaboration ou création*, Erès, 2007.\newline
