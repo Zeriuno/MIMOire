@@ -123,7 +123,11 @@ Pour finir, une solution, envisagée déjà depuis de nombreuses années dans le
 
 ## La résilience à l'échelle macroscopique
 
--> résilience dans la vision géographique
+On pourrait croire, à l'intérieur d'un cadre quelque peu empreint de pensée mécaniste, que la résilience d'anticipation serait capable, à condition de prendre en considération le bon périmètre de phénomènes, de contrer toute erreur, tout dérangement du système.\newline
+
+Faire appel à la vision géographique de la résilience peut aider à contrer et échapper à ce cadre trompeur.
+[Dauphiné, Provitolo, 2007]
+
 Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
 
 Tolérance aux pannes
