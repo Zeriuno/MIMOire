@@ -106,10 +106,10 @@ Pour ce qui est du niveau microscopique d'intégration d'outils et ressources de
 On a pu rappeller comment la place du système d'information dans une organisation est étroitement liée, tant en terme de développement historique qu'au niveau de son bon fonctionnement, à celle de son système informatique. Il n'est donc pas étonnant que nombre des outils de la résilience de celui-ci soient ceux du système informatique ou bien en soient dérivés.
 
 Il s'agit dans ce cas de solutions qui ont été mis au point et éprouvés dans une approche à haute valeur intellectuelle, qui a servi à exemplifier et augmenter la prise de conscience de formulations qui reposent sur des principes de logique générale, mais qui également très pratique.\newline
-Racontée sous la forme de recit, [Blanc, Noor, 2012], l'épopée longue et composite de la création d'Internet [Abbate, 2000] est constituée d'avancées majeures dans la conception d'une structure résiliente [Davies, Barber, 1973], [Davies *et alii*, 1979].
+Racontée sous la forme de recit, [Blanc, Noor, 2012], l'épopée longue et composite de la création d'Internet [Abbate, 2000] est constituée d'avancées majeures dans la conception d'une structure résiliente [Davies, Barber, 1973], [Davies *et alii*, 1979], infiniment plus aboutie en cela que la constitution du Web, le *cousin populaire* d'Internet.
 
-Parmi les précieuses théorisations accomplies dans ce parcours prime probablement la mise en garde contre les *Single Point of Failure*, les éléments qui, en cas d'échec, mettent forcément en échec tout leur système.\newline
-Le système de la commutation de paquets
+Parmi les précieuses théorisations accomplies dans ce parcours prime probablement la mise en garde contre les *Single Point of Failure*, les éléments qui, en cas d'échec, entraînent nécessairement avec eux tout leur système.\newline
+Le système de la commutation de paquets, infiniment plus abouti en cela que le Web, son *cousin populaire*,
 Atomisation de l'information (paquet / itérations agiles) -> principe algorithmique [Léry, 2013]
 Compartimenter [intéressant de remarquer que dans ce cas le parallèle humain est en contradicition avec ce que propose d'utiliser la résilience]
 Redondance (paquets, backup - délocalisation, ce qui est intégré dans la positin hiérarchique du RSSI - pair programming, scrum et extreme programming, bus factor) [Coplien, Harrison, 2004]
