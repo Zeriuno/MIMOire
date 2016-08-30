@@ -136,7 +136,7 @@ Resiliency cannot be researched by merely focusing on these individual-level fac
 Ce niveau macroscopique peut se constituer d'une systématisation des éléments préparés au niveau microscopique. Tel est par exemple le cas des machines à tolérance de panne: de telles machines font appel aux ressources évoquées précédemment, mises en système, mais aussi à la possibilité, une fois que celles-ci ont relevé un dysfonctionnement, à la possibilité d'altérer le fonctionnement normal afin de réduire la charge et ainsi ne pas être contraintes à l'arrêt (on reconnaîtra ici à l'œuvre la *résilience de survie* telle que définie dans le domaine de la sociologie).\newline
 La mise en système de ressources de type élémentaire est aussi ce qui donne lieu au PRA, plan de reprise des activités, ainsi que du PCA, plan de continuité des activités [Benassar, 2010]. Ce dernier, encadré par la norme ISO 22301, a pour objectif de permettre de poursuivre l'activité du système informatique sans interruption du service et d’assurer la disponibilité des informations quels que soient les problèmes rencontrés. Le PRA, par contre, décrit les mesures qui doivent être déclenchées à la survenue d'un sinistre ou incident majeur ayant entraîné une interruption de l'activité.
 
-La résilience au niveau systématique peut cependant être aussi autre chose que la réplication à grande échelle des solutions élémentaires. Cette logique fractale [DALZIELL, MCMANUS, 2004]
+La résilience au niveau systématique peut cependant être aussi autre chose que la réplication à grande échelle des solutions élémentaires. Cette logique fractale produit en effet une duplication des contrôles  [DALZIELL, MCMANUS, 2004]
 Ou bien il existe des cas dans lesquels démander la solution à un niveau systématique porte à une efficacité plus importante (Google datacenter).
 >A big thing they are saying in the paper is that they want to see data center HDDs that care slightly less about their medium error rates and opt to give better areal density and more consistent tail latencies and let the system above it to handle the reliability as it needs to do anyway.
 
@@ -144,7 +144,7 @@ Ou bien il existe des cas dans lesquels démander la solution à un niveau syst�
 
 > detect challenges affecting the system leading to a deviation in delivered service. We propose an incremental approach to
 challenge analysis.
-[Smith, 2011]
+[Smith *et alii*, 2011]
 
 ZFS)
 Tolérance aux pannes
@@ -154,8 +154,7 @@ Self-Healing Systems
 
 Un système avec une plus grande complexité est moins facile à modéliser. L'analyse des cas d'échec est donc à aborder dans cette optique, comme moyen pour découvrir des parties du système.
 
-
-Même dans le cas des réseaux on raisonne maintenant à niveau sytèmatique [SMITH et alii 2011], [CHAUDHRY 2014]
+, [CHAUDHRY 2014]
 
 ### Stigmergie
 
