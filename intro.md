@@ -244,20 +244,18 @@ Rôle 5 : L’information est un instrument d’ajout de valeur.
 
 [Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
 
+Facteur humain à prendre en compte, sachant que celui-ci est important dans la résilience, comme souligné par les chercheurs [Hollnagel, Woods, Leveson, 2006]
+
+> When researchers in the early 1980s began to re-examine human
+error and collect data on how complex systems had failed, it soon
+became apparent that people actually provided a positive contribution
+to safety through their ability to adapt to changes, gaps in system
+design, and unplanned for situations.
+
+
 
 Cartographie du SI [Payet, 2015]
-Création de centres de gravitation: le `try`, par exemple, fais cela au niveau de l'exécution du langage de programmation. https://docs.python.org/3/reference/compound_stmts.html#try
-
-> Infrastructure resilience is often associated with the ability of the hard infrastructure or physical system to cope with
-severe disruptions; however, the institutions and enterprises that make up the soft infrastructure systems are also
-prone to crises. Incorporating resilience aids systems to cope with crises and recover from disruptive events, which
-is not possible without an organizational foundation that is able to cope with and respond to crisis. Additionally,
-metrics enable stakeholders to assess the effectiveness of resilience strategies and show their added value.
-This paper outlines a methodology for assessing resilience of soft infrastructure using social network analysis. The
-methodology is applied to the National Intelligent Transportation System (ITS) where the logical architecture is
-viewed as a network, and the centrality measures are used to define the system’s resilience metrics.
-[Omer, Mostashari, Lindemann 2014]
-
+Création de centres de gravitation
 \newpage
 
 # Conclusion
