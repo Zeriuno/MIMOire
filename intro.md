@@ -1,3 +1,7 @@
+# La résilience dans le système d'informations
+
+Daniele Pitrolo
+\newpage
 ## Introduction
 
 Il pourrait sans doute rentrer dans le compte des concepts que seuls les philologues maîtrisent: avec son étymologie latine et une utilisation attestée dans les écrits philosophiques dès le XVIIe siècle (Bacon [TLFi], Descartes [Cresti, 2014]), le mot "résilience" ne manque d'ailleurs pas de les intéresser.\newline
@@ -15,7 +19,7 @@ En s'apprêtant à étudier la résilience dans le contexte du système d'inform
 Partisans de cette deuxième option nous essaierons dans cet exposé de justifier cette position et de montrer comment la résilience peut être envisagée dans le cadre d'un système d'information, quels sont les problèmes qu'elle permet de confronter et dans quelle mesure des solutions résilientes sont déjà employées à ce fins, et cela aussi bien au niveau microscopique que macroscopique.
 \newpage
 
-## La résilience dans le système d'information
+## Présentation d'une approche
 
 ### Le SI, un cadre d'enquête
 
@@ -67,12 +71,6 @@ La résilience telle que nombre de chercheurs s'attachent à l'étudier va cepen
 > Success belongs to organisations, groups and individuals who are resilient in the sense that they recognise, adapt to and absorb variations, changes, disturbances, disruptions, and surprises – especially disruptions that fall outside of the set of disturbances the system is designed to handle.
 
 Que ceux-ci aient fait déjà l'objet d'études et théorisation nous confirme leur intérêt, mais, plus encore, le fait de pouvoir les encadrer de manière plus large avec la "résilience de récupération" nous confirme l'utilité d'une approche multidisciplinaire capable d'apporter un questionnement nouveau et enrichissant.
-
->The key difference of Zhang’s (2007) definition other than these
-others is its emphasis on partial damage with the system. With this definition, Zhang
-(2007) was able to distinguish the concept of resilience from reliability and
-robustness.
-Wang, 2010
 
 ### Ce qui n'est pas résilience
 
