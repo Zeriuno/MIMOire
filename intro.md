@@ -247,8 +247,8 @@ Face à une pluralité d'estimations, tout choix est sujet à un biais qui risqu
 
 ### Mesurer la résilience
 
-La rassurante facilité de mesurer la résilience des matériaux, via le test d'Augustin-Charles-Marie Mesnager et de Georges Charpy,
-ASTM E23, EN ISO 179-1 et -2, ISO 148-1, -2 et -3.
+Les test d'Augustin-Charles-Marie Mesnager et de Georges Charpy, maintenait codifiés dans des standard (ASTM E23, EN ISO 179-1 et -2, ISO 148-1, -2 et -3) permettent de connaître la résilience des métaux par le biais des simples et rassurantes grandeurs scalaires.
+
 volonté de mesurer aussi pour les phénomènes critiques
 approche méchaniste
 
@@ -257,8 +257,6 @@ Plusieurs chercheurs ont également conçu et proposé un cadre de mesuration de
 > Wang and Ip proposed an approach to evaluate the logistics network resilience based on the redundant resource and reliability of nodes and edges. Ash and Newth (2007) used an evolutionary algorithm to evolve the complex systems that are resilient to cascading failure.
 [...]
 
-All the studies mentioned above focused on what is ‘left’ in the system after damage – or called ‘remaining’ part of the system; in particular, they measured the resilience of the system through the resource redundancy or structure redundancy.\newline
-They have not considered an important nature of resilience engineering – namely the recovery of the system. This absence is in fact related to the definition of resilience; in most of the existing definitions of resilience, the resilience concept is taken similar to either robustness or reliability. The present article takes the definition of resilience from Zhang (2007) which puts emphasis on partial damage of the system and recovery of the function of the system, making resilience distinct from both reliability and robustness.
 
 \begin{quote}
 We use the maximum recovery ability to measure the resilience of an enterprise information system. We consider a scenario that an enterprise information system is partially damaged. There are m functions in the system and n categories of resources to recover the functions. The number of resources j (j 1⁄4 1, 2, . . . , n) needed for the recovery of function i (i 1⁄4 1, 2, . . . , m) is denoted by r\textsubscript{ij}. The amount of resources for each category is limited. The process time needed for the recovery of function i is p\textsubscript{i}. We assume that functions are not recovered at the same time. This assumption implies that the recovery may take a particular order among a set of recovery tasks. For function i, there is a completion time, denoted by c\textsubscript{i}. It is noted that the completion time c i is different from the process time p\textsubscript{i} in that the completion is the sum of the starting time for function i and its process time.
@@ -269,8 +267,20 @@ We use the maximum recovery ability to measure the resilience of an enterprise i
 
 mesuration également métrique dans Smith, 2011
 
-Nécessité cependant de pondérer ces données quantitatives en fonction des buts du système d'information et de son contexte. Les rôles pourraient ne pas être les mêmes.
+Ces approches oublient cependant que le concept de résilience est aussi issu des sciences humaines et que le système d'information est également humain.
+Incommensurabilité de la réaction de l'homme.
+Si on case l'homme dans des structures rigides cela le contraint à une fonction d'exécution substantiellement méchanique
+Facteur humain à prendre en compte, sachant que celui-ci est important dans la résilience, comme souligné par les chercheurs [Hollnagel, Woods, Leveson, 2006]
+
+> When researchers in the early 1980s began to re-examine human
+error and collect data on how complex systems had failed, it soon
+became apparent that people actually provided a positive contribution
+to safety through their ability to adapt to changes, gaps in system
+design, and unplanned for situations.
+
 Parenté entre la résilience et la gestion de risque, du coup nécessité d'apprécier le risque de manière subjective
+
+Nécessité cependant de pondérer ces données quantitatives en fonction des buts du système d'information et de son contexte. Les rôles pourraient ne pas être les mêmes.
 
 > Rôle 1 : L’information joue un rôle de soutien aux processus de production.\newline
 Rôle 2 : L’information est une matière première et un output des processus d’affaires.\newline
@@ -280,19 +290,9 @@ Rôle 5 : L’information est un instrument d’ajout de valeur.
 
 [Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
 
-
 Cartographie du SI [Payet, 2015]
 Création de centres de gravitation
 
-
-Si on case l'homme dans des structures rigides cela le contraint à une fonction d'exécution substantiellement méchanique
-Facteur humain à prendre en compte, sachant que celui-ci est important dans la résilience, comme souligné par les chercheurs [Hollnagel, Woods, Leveson, 2006]
-
-> When researchers in the early 1980s began to re-examine human
-error and collect data on how complex systems had failed, it soon
-became apparent that people actually provided a positive contribution
-to safety through their ability to adapt to changes, gaps in system
-design, and unplanned for situations.
 \newpage
 
 ## Conclusion
