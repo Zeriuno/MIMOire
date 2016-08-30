@@ -110,9 +110,9 @@ Racontée sous la forme de recit, [Blanc, Noor, 2012], l'épopée longue et comp
 
 Parmi les précieuses théorisations accomplies dans ce parcours prime probablement la mise en garde contre les *Single Point of Failure*, les éléments qui, en cas d'échec, entraînent nécessairement avec eux tout leur système. Le système de la commutation de paquets est riche en remèdes à ce danger.\newline
 Première ressource contre ces points bloquants est la redondance: la fonction n'est plus confiée à un élément unique mais partagée entre deux équivalents, l'un étant prêt à assurer la continuité de fonctionnement du système en cas de défaillance de l'autre.\newline
-Associée à cette solution, plusieurs autres s'ajoutent afin de fournir plus de  garanties, telle l'atomisation de l'information. principe algorithmique [Léry, 2013]
+Associée à cette solution, plusieurs autres s'ajoutent afin de fournir plus de  garanties, telle l'atomisation (également un principe algorithmique dans le cas des traitements effectués par les programmes [Léry, 2013]), qui permet, dans le cadre de la transmission de l'information via les paquets, de vérifier de manière continue leur bon transit et de rémédier à moindre coût à leur égarement.
 
-Connues, ces techniques, sont à mettre en regard avec leurs traductions plus récentes au niveau de la gestion des équipes.\newline
+Bien évidemment connues, ces démarches sont à mettre en regard avec leurs traductions plus récentes au niveau de la gestion des équipes.\newline
 L'approche agile est en effet attentive au risques évoqués et a pour cela mis au point plusieurs procédures. Le risque de disparition d'une personne clé d'une équipe, appellé *Bus Factor*, en évoquant le scénario d'un accident de la route, est une préoccupation prise en compte et que l'on contre, par exemple, par le recours à l'écriture du code par binômes (une approche encouragée dans le cadre *Scrum*, imposée dans celui, plus normatif, de l'*extreme programming* [Coplien, Harrison, 2004]).
 
 
