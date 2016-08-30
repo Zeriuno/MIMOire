@@ -117,8 +117,8 @@ L'approche agile est en effet attentive au risques évoqués et a pour cela mis 
 
 Dans la volonté d'atomiser la taille des éléments manipulés (information réduite en paquets ou calculs confiés à des procédures), on peut reconnaître une inspiration pour la volonté de travailler de manière itérative dans le cadre des approches agiles, chaque approche permettant d'aiguiller et, si besoin, corriger, la trajectoire du travail en cours.
 
-Compartimenter [intéressant de remarquer que dans ce cas le parallèle humain est en contradicition avec ce que propose d'utiliser la résilience]
-Contrôle de l'erreur, audit
+Enfin d'autres principes président à la mise en place d'un système informatique résilient, tel le recours à des outils de contrôle et correction de l'erreur dans la gestion des données sous le point de vue de leur exactitude formelle, tels les contrôleurs intégrés, à bas niveau, dans l'écriture sur disque [Brewer *et alii*, 2016]. Cette ressource également renvoie à celle employée dans le contexte plus large des équipes du système d'information, c'est-à-dire l'audit, le contrôle des opérations du système et leur alignement avec les buts et missions de celui-ci.\newline
+Pour finir, une solution, envisagée déjà depuis de nombreuses années dans les ordinateurs, De manière assez intéressante, nous avons ici un élément de différence entre l'administration du système informatique et le plus large système d'information, dans lequel une attitude analogue avec les personnes est déconseillée et contraire au but recherché de construire de la réslience (voir *infra*).
 \newpage
 
 ## La résilience à l'échelle macroscopique

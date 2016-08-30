@@ -27,6 +27,7 @@
 [El Sawy, Nanus, 1989] Omar A. El Sawy, Burt Nanus, Toward the Design of Robust Information Systems, *Journal of Management Information Systems*, 5(4) :33-54, 1989.\newline
 [Falkvinge, 2013] Rick Falkvinge, *Swarmwise, The Tactical Manual to Changing the World*, CreateSpace Publishing Platform, 2013.\newline
 [Fontecedro] Dario Fontecedro, https://www.youtube.com/watch?v=4r7C3P_4NoA.\newline
+[Fritsch, 2016] Joerg Fritsch, *How to Secure Docker Containers in Operation*, Gartner, 2016.\newline
 [Hamel, Breen, 2007] Gary Hamel, Bill Breen, *The Future of Management*, Harvard Business School Press, 2007.\newline
 [Hamel, 2011] Gary Hamel, First, Let's Fire All the Manages, *Harvard Business Review*, :2-13, December 2011.\newline
 [Hamel, 2012] Gary Hamel, *What Matters Now*, Jossey-Bass, 2012.\newline
