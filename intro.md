@@ -259,10 +259,14 @@ We use the maximum recovery ability to measure the resilience of an enterprise i
 Ces approches sont cependant marquées par une forte empreinte méchaniste, et de manière non surpenante limitent leur champ d'analyse au système informatique.
 
 Elles oublient par là que le concept de résilience est aussi le produit d'une réflexion des sciences humaines. On peut donc choisir de faire appel à la résilience géographique, qui mesure la présence dans un système de centres d'attraction gravitationnels capables de canaliser les phénomènes sortant des parcours prévus.\newline
+Enrchissante, cette approche ne permet cependant pas de prendre en compte que le système d'information a justement une composante humaine.\newline
+Or le facteur humain dans un système est souvent vu comme pourvoyeur de désordre, cause d'erreur en raison de la trop large variabilité potentielle de son comportement: lorsque l'on constate des accidents, on peut souvent remonter à une erreur humaine. La recherche sur la sécurité a cependant pu relevere que lorsque l'on s'attache également à *ce qui n'arrive pas*, aux accidents évités, l'humain a là aussi une place importante [Hollnagel, Woods, Leveson, 2006]:
 
-Une des difficultés qui surgissent lorsque l'on veut estimer la résilience d'un système d'information est sans doute
+> When researchers in the early 1980s began to re-examine human error and collect data on how complex systems had failed, it soon became apparent that people actually provided a positive contribution to safety through their ability to adapt to changes, gaps in system design, and unplanned for situations.
 
+Capable d'adaptabilité face à l'inattendu, l'humain dans un système est un facteur de résilience, que les mesures jusqu'ici proposées manquent de prendre en compte.\newlineUne des difficultés qui surgissent lorsque l'on veut estimer la résilience d'un système d'information est sans doute
 
+En outre, la mesuration de la résilience est rendue encore moins immédiate par la nécessité de prendre en compte des aspects particuliers. En effet, le système d'information est part d'une organisation, et en tant que tel subordonné à
 Nécessité cependant de pondérer ces données quantitatives en fonction des buts du système d'information et de son contexte. Les rôles pourraient ne pas être les mêmes.
 
 > Rôle 1 : L’information joue un rôle de soutien aux processus de production.\newline
@@ -273,12 +277,7 @@ Rôle 5 : L’information est un instrument d’ajout de valeur.
 
 [Rivard, Talbot, 2004] -> résilience est maîtriser la décroissance de l'apport que le SI peut fournir à ces rôles selon un ordre de priorités
 
-Enrchissante, cette approche ne permet cependant pas de prendre en compte que le système d'information a justement une composante humaine.\newline
-Or le facteur humain dans un système est souvent vu comme pourvoyeur de désordre, cause d'erreur en raison de la trop large variabilité potentielle de son comportement: lorsque l'on constate des accidents, on peut souvent remonter à une erreur humaine. La recherche sur la sécurité a cependant pu relevere que lorsque l'on s'attache également à *ce qui n'arrive pas*, aux accidents évités, l'humain a là aussi une place importante [Hollnagel, Woods, Leveson, 2006]:
 
-> When researchers in the early 1980s began to re-examine human error and collect data on how complex systems had failed, it soon became apparent that people actually provided a positive contribution to safety through their ability to adapt to changes, gaps in system design, and unplanned for situations.
-
-Capable d'adaptabilité face à l'inattendu, l'humain dans un système est un facteur de résilience, que les mesures jusqu'ici proposées manquent de prendre en compte.\newline
 La mesure de la résilience est rendue ultérieurement moins aisée par la dimension fortement subjective Parenté entre la résilience et la gestion de risque, du coup nécessité d'apprécier le risque de manière subjective.
 
 \newpage
