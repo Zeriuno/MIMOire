@@ -33,8 +33,10 @@
 \end{titlepage}
 \clearpage
 
+\newpage\null\thispagestyle{empty}\newpage
 \tableofcontents
 \clearpage
+\newpage\null\thispagestyle{empty}\newpage
 
 ## Introduction
 
@@ -135,6 +137,7 @@ Car, en effet, la résilience est une propriété inhérente au système, que ce
 En tant que telle il est donc clair qu'elle se construit et se prépare, mais la résilience ne peut pas être dictée ou exigée\thinspace: elle est bien plus complexe qu'une procédure uniquement déclarative. Ainsi un service ne sera pas résilient pas plus qu'un serveur ne sera sécurisé uniquement parce que cela a été affirmé, exigé ou même juré.\newline
 Les conditions contractuelles rentrent justement dans ce cas de figure\thinspace: un système d'information peut tout à fait abdiquer son système informatique et le confier à un tiers. Cela est doit bien évidemment être encadré par un accord précisant quel est le service à rendre et quantifiant de manière précise quel est le niveau minimum demandé. De tels accords seront, de manière inévitable, amputés des circonstances extraordinaires auxquelles en partie la résilience ambitionne à faire face. Pour le restant, ils ont bien évidemment force juridique en cas de manquement des parties, permettent à la direction de pouvoir se délester de responsabilités et l'arment du puissant recours du blâme\thinspace: celle-ci est une posture très avantageuse en termes hiérarchiques, tout autant qu'elle est improductive [Zwieback, 2015]. Mais, du point de vue qui nous retient dans notre recherche, ces contrats ne construisent pas un système résilient, tout au plus ils le postulent chez le tiers avec lequel le contrat est passé. Et en parallèle, ils changent le périmètre de résilience qui reste à construire dans son propre système d'information, tout en rendant ce travail plus difficile, car de tels accords amoindrissent la visibilité du système, tout en réduisant les outils et les recours disponibles.\newline
 \newpage
+\newpage\null\thispagestyle{empty}\newpage
 
 ### Solutions à des problèmes
 
@@ -190,6 +193,7 @@ Comme nous pouvons le relever, le point charnière de ce niveau macroscopique de
 Ce bond, du constat d'état à l'identification de la solution, est rendu possible grâce à la technologie du raisonnement causal, mise au point déjà en 1976 au MIT, technologie qui permet au système d'émettre un diagnostic [Chaudhry, 2014].\newline
 Sur la base des cas que le système répertorie, éléments de départ, il organise ensuite de manière dynamique une réponse dont il gouverne lui-même la mise en place, sous un régime de test constant. Ce champ de recherche très avancé produit ainsi les systèmes autonomes envisagés par Turing, dont la complexité serait exponentielle [Chaudhry, 2014].
 \newpage
+\newpage\null\thispagestyle{empty}\newpage
 
 ### Stigmergie
 
@@ -269,6 +273,7 @@ Or le facteur humain dans un système est souvent vu comme pourvoyeur de désord
 
 Capable d'adaptabilité face à l'inattendu, l'humain représente un facteur de résilience à l'intérieur d'un système que les mesures jusqu'ici proposées manquent de prendre en compte, ce qui d'ailleurs est peut-être impossible de faire. Car en effet s'il était possible de prévoir l'action humaine celle-ci serait calculable et donc remplacée, justement à cause, entre autre, de la vision de l'humain comme source d'erreurs.
 \newpage
+\newpage\null\thispagestyle{empty}\newpage
 
 ## Conclusion
 
@@ -304,6 +309,7 @@ Reproposée au public par Stephen Frears en 2000, sous les aspects d'un vieux no
 À l'heure de la surveillance planétaire, de la gouvernance algorithmique, des réseaux neuronaux profonds, des assassinats confiés aux drones, des failles informatiques qui ciblent les centres de recherche nucléaire, la mise en place de systèmes résilients impose une nouvelle approche.
 Les femmes et les hommes impliqués dans de tels projets se doivent d'en évaluer la retombée éthique, de prendre en compte la possibilité de faire objection de conscience et ne pas les mettre en œuvre. Il est désormais impératif de relever un autre défi et de considérer que la mise en place de systèmes capables de contourner l'erreur et d'assurer un fonctionnement virtuellement pérenne peut être une faute.
 \clearpage
+\newpage\null\thispagestyle{empty}\newpage
 
 ## Bibliographie
 
